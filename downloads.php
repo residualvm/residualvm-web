@@ -100,9 +100,9 @@ function addDownload($image, $linkText, $desc, $url) {
 <?php
 	startDownloadList();
 	
-		$size = intval(filesize("downloads/residual-win32.exe")/1024);
-		$date = date("F j, Y, g:i a",filemtime("downloads/residual-win32.exe"));
-		addDownload("catpl-windows", "Win32 residual Daily Snapshot", "(" . $size ."K exe file, last update: $date)", "http://residual.sourceforge.net/downloads/residual-win32.exe");
+		$size = intval(filesize("downloads/residualwin32.exe")/1024);
+		$date = date("F j, Y, g:i a",filemtime("downloads/residualwin32.exe"));
+		addDownload("catpl-windows", "Win32 residual Daily Snapshot", "(" . $size ."K exe file, last update: $date)", "http://residual.sourceforge.net/downloads/residualwin32.exe");
 
 		$size = intval(filesize("downloads/residual_debian_i386.deb")/1024);
 		$date = date("F j, Y, g:i a",filemtime("downloads/residual_debian_i386.deb"));
