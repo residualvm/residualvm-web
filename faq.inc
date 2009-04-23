@@ -92,8 +92,7 @@ Residual run?</p>
 <p>Residual should be able to be compiled on any SDL platform, with
 modifications.</p>
 <p>Currently tested platforms include Win32 (Windows
-95/98/ME/NT/2000/XP), Linux i386 and PPC, Mac OS X, AmigaOS 4 and
-PS2.</p>
+95/98/ME/NT/2000/XP), Linux i386 and PPC, Mac OS X, AmigaOS 4.</p>
 </div>
 </div>
 </div>
@@ -142,7 +141,7 @@ full screen?</p>
 </div>
 <div class="answer">
 <p>Yes. You can either start your game using the -f command line
-parameter, setting the game to Full Screen in the game pptions
+parameter, setting the game to Full Screen in the game options
 dialog, or by using the Alt+Enter key combination in-game to switch
 between full screen and windowed modes.</p>
 </div>
@@ -157,7 +156,7 @@ some point.</p>
 </div>
 <div class="answer">
 <p>Check the <a href="http://residual.sourceforge.net/compatibility.php" target="_top">Compatibility List</a> to see if your game has any known
-issues. For now please don't repoer bugs, the engine is in still
+issues. For now please don't report bugs, the engine is in still
 alpha state.</p>
 </div>
 </div>
