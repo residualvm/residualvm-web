@@ -102,27 +102,27 @@ function addDownload($image, $linkText, $desc, $url) {
 	
 		$size = intval(filesize("downloads/residualwin32.exe")/1024);
 		$date = date("F j, Y, g:i a",filemtime("downloads/residualwin32.exe"));
-		addDownload("catpl-windows", "Win32 residual Daily Snapshot", "(" . $size ."K exe file, last update: $date)", "http://residual.sourceforge.net/downloads/residualwin32.exe");
+		addDownload("catpl-windows", "Win32", "(" . $size ."K exe file, last update: $date)", "http://residual.sourceforge.net/downloads/residualwin32.exe");
 
 		$size = intval(filesize("downloads/residual_debian_i386.deb")/1024);
 		$date = date("F j, Y, g:i a",filemtime("downloads/residual_debian_i386.deb"));
-		addDownload("catpl-debian", "Debian i386 residual Daily Snapshot", "(" . $size ."K deb file, last update: $date)", "http://residual.sourceforge.net/downloads/residual_debian_i386.deb");
+		addDownload("catpl-debian", "Debian i386", "(" . $size ."K deb file, last update: $date)", "http://residual.sourceforge.net/downloads/residual_debian_i386.deb");
 
 		$size = intval(filesize("downloads/residual_debian_amd64.deb")/1024);
 		$date = date("F j, Y, g:i a",filemtime("downloads/residual_debian_amd64.deb"));
-		addDownload("catpl-debian", "Debian x86_64 residual Daily Snapshot", "(" . $size ."K deb file, last update: $date)", "http://residual.sourceforge.net/downloads/residual_debian_amd64.deb");
+		addDownload("catpl-debian", "Debian x86_64", "(" . $size ."K deb file, last update: $date)", "http://residual.sourceforge.net/downloads/residual_debian_amd64.deb");
 
 		$size = intval(filesize("downloads/residual_ubuntu_i386.deb")/1024);
 		$date = date("F j, Y, g:i a",filemtime("downloads/residual_ubuntu_i386.deb"));
-		addDownload("catpl-ubuntu", "Ubuntu i386 residual Daily Snapshot", "(" . $size ."K deb file, last update: $date)", "http://residual.sourceforge.net/downloads/residual_ubuntu_i386.deb");
+		addDownload("catpl-ubuntu", "Ubuntu i386", "(" . $size ."K deb file, last update: $date)", "http://residual.sourceforge.net/downloads/residual_ubuntu_i386.deb");
 
 		$size = intval(filesize("downloads/residual_ubuntu_amd64.deb")/1024);
 		$date = date("F j, Y, g:i a",filemtime("downloads/residual_ubuntu_amd64.deb"));
-		addDownload("catpl-ubuntu", "Ubuntu x86_64 residual Daily Snapshot", "(" . $size ."K deb file, last update: $date)", "http://residual.sourceforge.net/downloads/residual_ubuntu_amd64.deb");
+		addDownload("catpl-ubuntu", "Ubuntu x86_64", "(" . $size ."K deb file, last update: $date)", "http://residual.sourceforge.net/downloads/residual_ubuntu_amd64.deb");
 
 		$size = intval(filesize("downloads/Residual-MacOSX-Intel.dmg")/1024);
 		$date = date("F j, Y, g:i a",filemtime("downloads/Residual-MacOSX-Intel.dmg"));
-		addDownload("catpl-macos", "Mac OS X Intel Daily Snapshot", "(" . $size ."K deb file, last update: $date)", "http://residual.sourceforge.net/downloads/Residual-MacOSX-Intel.dmg");
+		addDownload("catpl-macos", "Mac OS X Intel", "(" . $size ."K deb file, last update: $date)", "http://residual.sourceforge.net/downloads/Residual-MacOSX-Intel.dmg");
 
 		addDownload("catpl-cpp", "Subversion Instructions", "(for if you wish to retrieve the latest code to compile yourself)", "http://sourceforge.net/scm/?type=svn&group_id=259881");
 
