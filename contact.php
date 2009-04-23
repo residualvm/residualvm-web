@@ -39,7 +39,7 @@ html_content_begin('Contact');
 	<p>
 	We offer <a href="http://forums.scummvm.org/residual">forum</a>.
 	</p>
-	<p><b>Don't forget to read <a href="http://forums.scummvm.org/residual/viewtopic.php?t=17">Forum Rules</a> before your first post.</b></p>
+	<p><b>Don't forget to read <a href="http://forums.scummvm.org/residual/viewtopic.php?t=2">Forum Rules</a> before your first post.</b></p>
 	<br>
 	
     </div>	

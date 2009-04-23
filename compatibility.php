@@ -49,7 +49,6 @@ else {
     <div class="par-intro">
 <br>
 	  This page lists the progress of Residual as it relates to individual game compatibility.
-	  Please note this list applies to the English versions of games.<br><br>
 	  Click on the game name to view the complete notes of a game.<br><br>
 <?php
 
