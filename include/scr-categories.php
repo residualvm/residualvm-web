@@ -66,7 +66,7 @@ class category {
 // LEC games
 $cat = & new category(0, "LucasArts games");
 
-$cat->add(0, "cat-residual.png", "Grim Fandango");
+$cat->add(0, "cat-grim.png", "Grim Fandango");
 $cat->add(1, "cat-monkey.png", "Escape From Monkey Island");
 
 
