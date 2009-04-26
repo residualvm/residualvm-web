@@ -12,15 +12,14 @@ function html_page_header($title, $extra_css = array()) {
 		<meta http-equiv="Content-Script-Type" content="text/javascript">
    		<meta http-equiv="Content-Style-Type" content="text/css">
 		<link rel="stylesheet" href="<?php echo $file_root; ?>/style.css" type="text/css">
-
 <?php
   foreach ($extra_css as $css_file) {
-    echo '<link rel="stylesheet" href="./' . $css_file . '" type="text/css">'."\n";
+    echo '		<link rel="stylesheet" href="./' . $css_file . '" type="text/css">'."\n";
   }
-  echo '<link rel="alternate" type="application/atom+xml" title="Residual Atom news feed" href="http://residual.sourceforge.net/feed-atom.php">'."\n";
-  echo '<link rel="alternate" type="application/rss+xml" title="Residual RSS news feed" href="http://residual.sourceforge.net/feed-rss20.php">'."\n";
+  echo '		<link rel="alternate" type="application/atom+xml" title="Residual Atom news feed" href="http://residual.sourceforge.net/feed-atom.php">'."\n";
+  echo '		<link rel="alternate" type="application/rss+xml" title="Residual RSS news feed" href="http://residual.sourceforge.net/feed-rss20.php">'."\n";
 
-  echo "<title>$title</title>\n";
+  echo "		<title>$title</title>\n";
 ?>
 	</head>
 	<body>
@@ -30,20 +29,20 @@ function html_page_header($title, $extra_css = array()) {
 	<table class="main-container" width="90%" cellspacing="0" cellpadding="0" align="center">
 		<tr>
 			<td colspan="2"><table cellspacing="0" cellpadding="0" style="width:100%;">
-	    <tr><td rowspan="2" width="287"><img alt="Residual logo" src="<?php echo $file_root; ?>/images/residual_logo.jpg" width="287" height="118" border="0"></td>
-	    <td rowspan="2" style="background:url('<?php echo $file_root; ?>/images/bg-upper.gif')">&nbsp;</td>
-
-					<td width="483">
-
-</td>
-					</tr>
-    <tr><td width="483"><img src="<?php echo $file_root; ?>/images/residual-caption.png" width="482" height="118"></td>
-					<td width="24">&nbsp;</td></tr>
-				</table>
+				<tr>
+					<td rowspan="2" width="287"><img alt="Residual logo" src="<?php echo $file_root; ?>/images/residual_logo.jpg" width="287" height="118" border="0"></td>
+					<td rowspan="2" style="background:url('<?php echo $file_root; ?>/images/bg-upper.gif')">&nbsp;</td>
+					<td width="483"></td>
+				</tr>
+				<tr>
+					<td width="483"><img src="<?php echo $file_root; ?>/images/residual-caption.png" width="482" height="118"></td>
+					<td width="24">&nbsp;</td>
+				</tr>
 			</td>
 		</tr>
-		<tr>
-			<td class="content" valign="top" rowspan="2" style="padding-right:1px;">
+	</table>
+	<tr>
+		<td class="content" valign="top" rowspan="2" style="padding-right:1px;">
 
 <?php
     }
@@ -118,26 +117,23 @@ function html_page_footer() {
 			<a href="http://jigsaw.w3.org/css-validator/"><img src="http://jigsaw.w3.org/css-validator/images/vcss" width="88" height="31" alt="Valid CSS!" ></a>
 		</td>
 		<td>
-		<a href="http://www.validome.org/referer"><img src="http://www.validome.org/images/set2/valid_html_4_0_1.gif" width="88" height="31" alt="Valid HTML 4.01"></a>
+			<a href="http://www.validome.org/referer"><img src="http://www.validome.org/images/set2/valid_html_4_0_1.gif" width="88" height="31" alt="Valid HTML 4.01"></a>
 		</td>
 	</tr>
     </table>
-</td>
-</td><td class="menus" style="width:145px;vertical-align:top;border:0px;" rowspan="2"></td>
+    </td><td class="menus" style="width:163px;vertical-align:top;border:0px;" rowspan="2"><img src="<?php echo $file_root; ?>/images/content-right-bottom.gif" style="margin:0px;border:0px;
+	    vertical-align:bottom" alt="" width="152" height="63"></td>
 </tr><tr>
 <td colspan="2">
 <table width="100%" cellspacing="0" style="padding:0px;">
 <tr>
 <td width="12" style="height:5px;line-height:5px;width:12px;"><img alt="" src="<?php echo $file_root; ?>/images/content-left-bottom.gif" height="12" width="12"></td>
-<td style="background:#fbf1ce;line-height:2px;">&nbsp;&nbsp;</td>
-</tr>
-</table>
+    <td style="background:#fbf1ce;line-height:2px;">&nbsp;&nbsp;</td>
+</tr></table>
 </tr>
 </table>
 </td>
-<td width="12" style="height:5px;line-height:5px;width:12px;"><img alt="" src="<?php echo $file_root; ?>/images/content-right-bottom.gif" height="12" width="12"></td>
 </tr>
-
 		    <tr><td colspan="2">
 			<table width="100%" cellspacing="0">
 				<tr>
