@@ -24,7 +24,7 @@ if (!$shownews)
 srand((double) microtime() * 1000000);
 
 // Make LEC games appear in 60% of total shots
-$lastLECshot = 1;
+$lastLECshot = 10;
 $randPart = rand(0, 10);
 
 if ($randPart < 11) {
