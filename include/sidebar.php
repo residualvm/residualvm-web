@@ -12,7 +12,7 @@ function sidebar_start () {
     
     $g->add("Home", $file_root);
     $g->add("Screenshots", $file_root."/screenshots.php");
-    $g->add("Forums", "http://forums.scummvm.org/residual/");
+    $g->add("Forums", "http://residual.scummvm.org");
     $g->add("Downloads", $file_root."/downloads.php");
 
     $g->done();

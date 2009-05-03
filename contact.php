@@ -17,7 +17,7 @@ html_content_begin('Contact');
 	<p>
 	<br>
 		<b>Please do not contact the team for questions about using Residual. Instead use the
-		<a href="http://forums.scummvm.org/residual">forums</a></b><br><br>
+		<a href="http://residual.scummvm.org">forums</a></b><br><br>
 	</p>
     </div>
 	<br>
@@ -37,9 +37,9 @@ html_content_begin('Contact');
 
     <div class="par-subhead-content">
 	<p>
-	We offer <a href="http://forums.scummvm.org/residual">forum</a>.
+	We offer <a href="http://residual.scummvm.org">forum</a>.
 	</p>
-	<p><b>Don't forget to read <a href="http://forums.scummvm.org/residual/viewtopic.php?t=2">Forum Rules</a> before your first post.</b></p>
+	<p><b>Don't forget to read <a href="http://residual.scummvm.org/viewtopic.php?t=2">Forum Rules</a> before your first post.</b></p>
 	<br>
 	
     </div>	
