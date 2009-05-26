@@ -116,9 +116,9 @@ shadowed_text("What Is Residual?", '#356a02', '#ffffff');
 </td></tr>
 <tr><td class="content">
 <br>
-<p>Residual is a cross-platform interpreter which allows you to play LucasArts'
+<p>Residual is a cross-platform 3D game interpreter which allows you to play LucasArts'
 LUA-based 3D adventures: Grim Fandango and Escape from Monkey Island,
-provided you already have their data files. The clever part about this: Residual just replaces
+provided you already have their data files. Residual just replaces
 the executables shipped with the games, allowing you to play them on systems for which they were never designed!
 </p>
 <p>
