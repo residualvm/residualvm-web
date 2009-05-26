@@ -10,17 +10,14 @@
 <div class='par-subhead'>Engine Teams</div>
 <div class='par-subhead-dots'>&nbsp;</div>
 <div class='par-subhead-content'>
-<span style='font-weight: bold'>Grim Team:</span>
-<table style='margin-left:2em; margin-bottom: 1em'>
+<span style='font-weight: bold'>Grim:</span>
 <table style='margin-left:2em; margin-bottom: 1em'>
 <tr><td style='width:13em; padding:2px;'>James Brown</td><td style='width:10em; text-align: left;' class='news-author'>ender</td><td>Core developer</td>
 <tr><td style='width:13em; padding:2px;'>Pawe&#322; Ko&#322;odziejski</td><td style='width:10em; text-align: left;' class='news-author'>aquadran</td><td>Core developer. SMUSH, iMUSE implemention</td>
 </table>
-</table>
 <span style='font-weight: bold'>Grim Contributors:</span>
 <table style='margin-left:2em; margin-bottom: 1em'>
 <p style='margin-left:2em; margin-bottom: 1em'>If you have contributed to this engine then you deserve to be on this list. Contact us and we'll add you.</p>
-<table style='margin-left:2em; margin-bottom: 1em'>
 <tr><td style='width:13em; padding:2px;'>Torbj&ouml;rn Andersson</td><td style='width:10em; text-align: left;' class='news-author'>eriktorbjorn</td><td>Various code fixes</td>
 <tr><td style='width:13em; padding:2px;'>Ori Avtalion</td><td style='width:10em; text-align: left;' class='news-author'>salty-horse</td><td>Lipsync, LAF support</td>
 <tr><td style='width:13em; padding:2px;'>Marcus Comstedt</td><td></td><td>Dreamcast port</td>
@@ -34,7 +31,6 @@
 <tr><td style='width:13em; padding:2px;'>Daniel Schepler</td><td></td><td>Initial engine codebase, LUA support</td>
 <tr><td style='width:13em; padding:2px;'>Pino Toscano</td><td style='width:10em; text-align: left;' class='news-author'>pinotree</td><td>Debian GNU/Linux package files</td>
 <tr><td style='width:13em; padding:2px;'>Lionel Ulmer</td><td style='width:10em; text-align: left;' class='news-author'>bbrox</td><td>OpenGL optimisations</td>
-</table>
 </table>
 </div>
 </div></div>
