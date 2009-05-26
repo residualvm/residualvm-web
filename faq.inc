@@ -18,29 +18,27 @@ Residual ?</a></dt>
 <dd>
 <dl><dt>3.1. <a href="#AEN42">How do I install games to run in
 Residual?</a></dt>
-<dt>3.2. <a href="#AEN49">Do savegames from the original games work
-in Residual?</a></dt>
 </dl></dd>
-<dt>4. <a href="#AEN53">Graphics</a></dt>
+<dt>4. <a href="#AEN48">Graphics</a></dt>
 <dd>
-<dl><dt>4.1. <a href="#AEN56">Can I run my game full screen?</a></dt>
+<dl><dt>4.1. <a href="#AEN51">Can I run my game full screen?</a></dt>
 </dl></dd>
-<dt>5. <a href="#AEN60">Troubleshooting</a></dt>
+<dt>5. <a href="#AEN55">Troubleshooting</a></dt>
 <dd>
-<dl><dt>5.1. <a href="#AEN63">My game crashes at some point.</a></dt>
-<dt>5.2. <a href="#AEN69">Residual crashes, but the console window
+<dl><dt>5.1. <a href="#AEN58">My game crashes at some point.</a></dt>
+<dt>5.2. <a href="#AEN64">Residual crashes, but the console window
 disappears too quickly to see the error message.</a></dt>
-<dt>5.3. <a href="#AEN75">I get "WARNING: Unable to open
+<dt>5.3. <a href="#AEN70">I get "WARNING: Unable to open
 configuration file C:\windows\residual.ini!"</a></dt>
-<dt>5.4. <a href="#AEN80">I get "Failed to save game state to file:
+<dt>5.4. <a href="#AEN75">I get "Failed to save game state to file:
 xxx"</a></dt>
-<dt>5.5. <a href="#AEN85">Residual starts, but all I get is a
+<dt>5.5. <a href="#AEN80">Residual starts, but all I get is a
 transparent window!</a></dt>
-<dt>5.6. <a href="#AEN95">Residual runs, but sound is stuttering
+<dt>5.6. <a href="#AEN90">Residual runs, but sound is stuttering
 and/or garbled!</a></dt>
-<dt>5.7. <a href="#AEN101">How do I set an environment
+<dt>5.7. <a href="#AEN96">How do I set an environment
 variable?</a></dt>
-<dt>5.8. <a href="#AEN112">Residual starts somewhere in the middle
+<dt>5.8. <a href="#AEN107">Residual starts somewhere in the middle
 of my two Xinerama monitors in fullscreen mode. Help!</a></dt>
 </dl></dd>
 </dl><div class="qandadiv">
@@ -122,47 +120,37 @@ games to run in Residual?</p>
 drive, then read instructions from <a href="http://residual.svn.sourceforge.net/viewvc/residual/residual/trunk/README?view=markup" target="_top">README</a>.</p>
 </div>
 </div>
-<div class="qandaentry">
-<div class="question">
-<p><a name="AEN49" id="AEN49"></a><b>3.2.</b> Do savegames from the
-original games work in Residual?</p>
-</div>
-<div class="answer">
-<p>No and never will be.</p>
-</div>
-</div>
 </div>
 <div class="qandadiv">
-<h3><a name="AEN53" id="AEN53"></a>4. Graphics</h3>
+<h3><a name="AEN48" id="AEN48"></a>4. Graphics</h3>
 <div class="qandaentry">
 <div class="question">
-<p><a name="AEN56" id="AEN56"></a><b>4.1.</b> Can I run my game
+<p><a name="AEN51" id="AEN51"></a><b>4.1.</b> Can I run my game
 full screen?</p>
 </div>
 <div class="answer">
 <p>Yes. You can either start your game using the -f command line
 parameter, setting the game to Full Screen in the game options
-dialog, or by using the Alt+Enter key combination in-game to switch
-between full screen and windowed modes.</p>
+configuration file.</p>
 </div>
 </div>
 </div>
 <div class="qandadiv">
-<h3><a name="AEN60" id="AEN60"></a>5. Troubleshooting</h3>
+<h3><a name="AEN55" id="AEN55"></a>5. Troubleshooting</h3>
 <div class="qandaentry">
 <div class="question">
-<p><a name="AEN63" id="AEN63"></a><b>5.1.</b> My game crashes at
+<p><a name="AEN58" id="AEN58"></a><b>5.1.</b> My game crashes at
 some point.</p>
 </div>
 <div class="answer">
 <p>Check the <a href="http://residual.sourceforge.net/compatibility.php" target="_top">Compatibility List</a> to see if your game has any known
-issues. For now please don't report bugs, the engine is in still
-alpha state.</p>
+issues. For now please don't report bugs, the Grim engine is in
+still alpha state.</p>
 </div>
 </div>
 <div class="qandaentry">
 <div class="question">
-<p><a name="AEN69" id="AEN69"></a><b>5.2.</b> Residual crashes, but
+<p><a name="AEN64" id="AEN64"></a><b>5.2.</b> Residual crashes, but
 the console window disappears too quickly to see the error
 message.</p>
 </div>
@@ -189,7 +177,7 @@ Then press return to start Residual.</p>
 </div>
 <div class="qandaentry">
 <div class="question">
-<p><a name="AEN75" id="AEN75"></a><b>5.3.</b> I get "WARNING:
+<p><a name="AEN70" id="AEN70"></a><b>5.3.</b> I get "WARNING:
 Unable to open configuration file C:\windows\residual.ini!"</p>
 </div>
 <div class="answer">
@@ -200,7 +188,7 @@ Residual, since the file does not exist yet then.</p>
 </div>
 <div class="qandaentry">
 <div class="question">
-<p><a name="AEN80" id="AEN80"></a><b>5.4.</b> I get "Failed to save
+<p><a name="AEN75" id="AEN75"></a><b>5.4.</b> I get "Failed to save
 game state to file: xxx"</p>
 </div>
 <div class="answer">
@@ -210,7 +198,7 @@ writable directory.</p>
 </div>
 <div class="qandaentry">
 <div class="question">
-<p><a name="AEN85" id="AEN85"></a><b>5.5.</b> Residual starts, but
+<p><a name="AEN80" id="AEN80"></a><b>5.5.</b> Residual starts, but
 all I get is a transparent window!</p>
 </div>
 <div class="answer">
@@ -221,7 +209,7 @@ try again.</p>
 <p>Apparently other applications have had the same problem, because
 the release notes for SDL 1.2.10 (May 17, 2006) contained the
 following note:</p>
-<a name="AEN91" id="AEN91"></a>
+<a name="AEN86" id="AEN86"></a>
 <blockquote class="BLOCKQUOTE">
 <p>The "windib" video driver is the default now, to prevent
 problems with certain laptops, 64-bit Windows, and Windows Vista.
@@ -232,7 +220,7 @@ setting the environment variable <code class="envar">SDL_VIDEODRIVER</code> to "
 </div>
 <div class="qandaentry">
 <div class="question">
-<p><a name="AEN95" id="AEN95"></a><b>5.6.</b> Residual runs, but
+<p><a name="AEN90" id="AEN90"></a><b>5.6.</b> Residual runs, but
 sound is stuttering and/or garbled!</p>
 </div>
 <div class="answer">
@@ -244,7 +232,7 @@ and try again.</p>
 </div>
 <div class="qandaentry">
 <div class="question">
-<p><a name="AEN101" id="AEN101"></a><b>5.7.</b> How do I set an
+<p><a name="AEN96" id="AEN96"></a><b>5.7.</b> How do I set an
 environment variable?</p>
 </div>
 <div class="answer">
@@ -252,7 +240,7 @@ environment variable?</p>
 are using. Under Windows, you could try creating a file called
 <b class="command">residual.bat</b> in the same folder as <b class="command">residual.exe</b>. Open this file in your favorite text
 editor and put something like this in it:</p>
-<a name="AEN107" id="AEN107"></a>
+<a name="AEN102" id="AEN102"></a>
 <blockquote class="BLOCKQUOTE">
 <pre class="programlisting">
 @echo off
@@ -269,7 +257,7 @@ the control panel.</p>
 </div>
 <div class="qandaentry">
 <div class="question">
-<p><a name="AEN112" id="AEN112"></a><b>5.8.</b> Residual starts
+<p><a name="AEN107" id="AEN107"></a><b>5.8.</b> Residual starts
 somewhere in the middle of my two Xinerama monitors in fullscreen
 mode. Help!</p>
 </div>
