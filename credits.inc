@@ -37,9 +37,8 @@
 </table>
 </table>
 </div>
-<div class='par-subhead'>ScummVM code</div>
-<div class='par-subhead-dots'>&nbsp;</div>
-<div class='par-subhead-content'>
+</div></div>
+<div class='par-item'><div class='par-head'>ScummVM code</div><div class='par-content'>&nbsp;
 <p style='margin-left:2em; margin-bottom: 1em'>Residual use some ScummVM common code. Copyrights for this code belongs to persons listed below. If you are missed in this list contact us and we'll add you.</p>
 <table style='margin-left:2em; margin-bottom: 1em'>
 <tr><td style='width:13em; padding:2px;'>Torbj&ouml;rn Andersson</td><td style='width:10em; text-align: left;' class='news-author'>eriktorbjorn</td><td></td>
@@ -72,12 +71,10 @@
 <tr><td style='width:13em; padding:2px;'>???</td><td style='width:10em; text-align: left;' class='news-author'>arisme</td><td></td>
 <tr><td style='width:13em; padding:2px;'>???</td><td style='width:10em; text-align: left;' class='news-author'>peres</td><td></td>
 </table>
-</div>
-<div class='par-subhead'>Special thanks to</div>
-<div class='par-subhead-dots'>&nbsp;</div>
-<div class='par-subhead-content'>
+</div></div>
+<div class='par-item'><div class='par-head'>Special thanks to</div><div class='par-content'>&nbsp;
 <p style='margin-left:2em; margin-bottom: 1em'>The LUA developers, for creating a nice compact script interpreter. </p>
 <p style='margin-left:2em; margin-bottom: 1em'>Tim Schafer, for obvious reasons, and everybody else who helped make Grim Fandango a brilliant game; and the EMI team for giving it their best try.</p>
 <p style='margin-left:2em; margin-bottom: 1em'>Bret Mogilefsky, for managing to create a SPUTM-style 3D LUA engine, and avoiding the horrible hack it could have been.</p>
-</div>
+</div></div>
 
