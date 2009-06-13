@@ -45,9 +45,9 @@ html_content_begin('Game Demos');
 
 $LEC_demos = array(
 	'Grim Fandango'
-		=> array('http://xfer.lfnetwork.com/lucasfiles.com/downloads/51/GFFullDemo.exe', 'grimdemo'),
+		=> array('http://robertmegone.com/residual/demos/grim-win-demo-en.zip', 'grim'),
 	'Escape From Monkey Island'
-		=> array('ftp://ftp.lucasarts.com/demos/pc/EMI/MonkeyComplete.exe', 'monkeydemo')
+		=> array('http://robertmegone.com/residual/demos/emi-win-demo-en.zip', 'monkey')
 	);
 
 function render_demos($title, $demos) {
