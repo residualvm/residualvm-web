@@ -32,10 +32,7 @@ function html_page_header($title, $extra_css = array()) {
 				<tr>
 					<td rowspan="2" width="287"><img alt="Residual logo" src="<?php echo $file_root; ?>/images/residual_logo.jpg" width="287" height="118" border="0"></td>
 					<td rowspan="2" style="background:url('<?php echo $file_root; ?>/images/bg-upper.gif')">&nbsp;</td>
-					<td width="483"></td>
-				</tr>
-				<tr>
-					<td width="483"><img src="<?php echo $file_root; ?>/images/residual-caption.png" width="482" height="118"></td>
+					<td rowspan="2" width="482"><img src="<?php echo $file_root; ?>/images/residual-caption.png" width="482" height="118"></td>
 					<td width="24">&nbsp;</td>
 				</tr>
 			</td>
