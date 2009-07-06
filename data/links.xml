@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<external_links xmlns:h="http://www.w3.org/TR/html4/">
+	<group>
+		<name>Libraries &amp; Technologies</name>
+		<description>The following lists some libraries and technologies Residual makes use of (depending on which system your run it and which configuration is chosen).</description>
+		<link>
+			<name>SDL</name>
+			<url>http://www.libsdl.org/</url>
+			<description>SDL (Simple DirectMedia Layer) is a cross-platform multimedia library, and used by the primary backend of Residual.</description>
+		</link>
+		<link>
+			<name>MAD</name>
+			<url>http://www.underbit.com/products/mad/</url>
+			<description>MAD is a high-quality MPEG (MP3) audio decoder. Residual optionally supports playback of CD tracks and other audio data encoded using MP3.</description>
+		</link>
+		<link>
+			<name>Ogg Vorbis</name>
+			<url>http://www.xiph.org/ogg/vorbis/</url>
+			<description>Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. Residual optionally supports playback of CD tracks and other audio data encoded using Ogg Vorbis.</description>
+		</link>
+		<link>
+			<name>FLAC</name>
+			<url>http://flac.sourceforge.net/</url>
+			<description>FLAC stands for Free Lossless Audio Codec. Grossly oversimplified, FLAC is similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. Residual optionally supports playback of CD tracks and other audio data encoded using FLAC.</description>
+		</link>
+	</group>
+	<group>
+		<name>Other sites of interest</name>
+		<description>The following are links to sites that provide news and help on retro-gaming or are otherwise of interest.</description>
+		<link>
+			<name>VOGONS :: Very Old Games On New Systems</name>
+			<url>http://vogons.zetafleet.com/</url>
+			<description>VOGONS is a large forum site, offering supports and tips for people who need help running older classic games on their modern computers and operating systems. If you want to play a game that Residual doesn't support, this is the place to ask for help!</description>
+		</link>
+		<link>
+			<name>MixNMojo :: The Purple LucasArts Fan Site</name>
+			<url>http://www.mixnmojo.com/</url>
+			<description>MixNmojo is one of the longest running, and definitely largest, LucasArts sites out there. If your looking for information, hints, news... or even just a place to hang... with hosted and partnered sites catering for everything, the International House of Mojo should be your very first stop.</description>
+		</link>
+	</group>
+</external_links>

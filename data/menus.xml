@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<menus>
+	<group>
+		<name>Main Menu</name>
+		<class>menu-main</class>
+		<link>
+			<name>Home</name>
+			<href>{$baseurl}</href>
+		</link>
+		<link>
+			<name>Screenshots</name>
+			<href>screenshots/</href>
+		</link>
+		<link>
+			<name>Forums</name>
+			<href>http://residual.scummvm.org/</href>
+		</link>
+		<link>
+			<name>Downloads</name>
+			<href>downloads/</href>
+		</link>
+	</group>
+	<group>
+		<name>Documentation</name>
+		<class>menu-docs</class>
+		<link>
+			<name>F.A.Q.</name>
+			<href>faq/</href>
+		</link>
+		<link>
+			<name>Documentation</name>
+			<href>documentation/</href>
+		</link>
+		<link>
+			<name>Compatibility</name>
+			<href>compatibility/</href>
+		</link>
+		<link>
+			<name>Wiki</name>
+			<href>http://apps.sourceforge.net/mediawiki/residual/</href>
+		</link>
+		<link>
+			<name>Credits</name>
+			<href>credits/</href>
+		</link>
+	</group>
+	<group>
+		<name>Development</name>
+		<class>menu-sf</class>
+		<link>
+			<name>SF.net Project Home</name>
+			<href>http://sourceforge.net/projects/residual/</href>
+		</link>
+	<!--
+		<link>
+			<name>Bug Tracker</name>
+			<href>http://sourceforge.net/tracker/?group_id=259881&amp;atid=1127293</href>
+		</link>
+		<link>
+			<name>Feature Requests</name>
+			<href>http://sourceforge.net/tracker/?group_id=259881&amp;atid=1127293</href>
+		</link>
+	-->
+		<link>
+			<name>Patch Tracker</name>
+			<href>http://sourceforge.net/tracker/?group_id=259881&amp;atid=1127293</href>
+		</link>
+		<link>
+			<name>Subversion Tree</name>
+			<href>http://residual.svn.sourceforge.net/viewvc/residual/residual/trunk/</href>
+		</link>
+	</group>
+	<group>
+		<name>Misc. Menu</name>
+		<class>menu-misc</class>
+		<link>
+			<name>Demos</name>
+			<href>demos/</href>
+		</link>
+		<link>
+			<name>Contact</name>
+			<href>contact/</href>
+		</link>
+		<link>
+			<name>Links</name>
+			<href>links/</href>
+		</link>
+	</group>
+</menus>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<faq xmlns:h="http://www.w3.org/TR/html4/">
+  <section>
+    <title>Introduction</title>
+    <entry>
+      <href/>
+      <question>Why is it called Residual - what does this name mean?</question>
+      <answer>
+		<simpara>
+		The <ulink url="http://www.scummvm.org">ScummVM</ulink> program can run
+		LucasArts 2D SCUMM adventures (among others).
+		Residual is named such as it aims to do the same for the residual (remaining) 
+		games. It is also a word pun, as the engine used in these LUA-based adventure
+		is called GrimE (as opposed to SCUMM). Grime is a type of residue.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
+      <question>What is GrimE ?</question>
+      <answer>
+		<simpara>
+		GrimE (Grim Engine) is an adventure game engine, created by Bret Mogilefsky
+		at LucasArts using scripting language Lua. It was first used for Grim Fandango.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
+      <question>Is Residual free?</question>
+      <answer>
+		<simpara>
+		Residual is released under the <ulink url="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL (General Public
+		License)</ulink>, so it's more than free. Residual source code is freely
+		available and you can do whatever you want with it. If you make
+		modifications to it and redistribute your work you MUST make the source
+		available. However, the Residual team would be pleased if you choose to
+		send them your modifications, so they can be merged into the main tree.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
+      <question>On what platform does Residual run?</question>
+      <answer>
+		<simpara>
+		Residual should be able to be compiled on any SDL platform, with modifications.
+		</simpara>
+		<simpara>
+		Currently tested platforms include Win32 (Windows 95/98/ME/NT/2000/XP), Linux i386 and PPC,
+		Mac OS X, AmigaOS 4.
+		</simpara>
+	</answer>
+    </entry>
+  </section>
+  <section>
+    <title>Supported games</title>
+    <entry>
+      <href>question.supported-games</href>
+      <question>What games does Residual ?</question>
+      <answer>
+		<simpara>
+		We have a <ulink url="http://residual.sourceforge.net/compatibility.php">compatibility
+		list</ulink> on our website that contains an up to date list of which
+		games work, and how well they work.
+		</simpara>
+	</answer>
+    </entry>
+  </section>
+  <section>
+    <title>Running games</title>
+    <entry>
+      <href/>
+      <question>How do I install games to run in Residual?</question>
+      <answer>
+		<simpara>
+		For most games you do not need to run the installer. Simply copy
+		<ulink url="http://apps.sourceforge.net/mediawiki/residual/index.php?title=Datafiles">the files listed here</ulink>
+		from your CD to your hard drive, then read instructions from 
+		<ulink url="http://residual.svn.sourceforge.net/viewvc/residual/residual/trunk/README?view=markup">README</ulink>.
+		</simpara>
+	</answer>
+    </entry>
+  </section>
+  <section>
+    <title>Graphics</title>
+    <entry>
+      <href/>
+      <question>Can I run my game full screen?</question>
+      <answer>
+		<simpara>
+		Yes. You can either start your game using the -f command line parameter, setting 
+		the game to Full Screen in the game options configuration file.
+		</simpara>
+	</answer>
+    </entry>
+  </section>
+  <section>
+    <title>Troubleshooting</title>
+    <entry>
+      <href/>
+      <question>My game crashes at some point.</question>
+      <answer>
+		<simpara>
+		Check the <ulink url="http://residual.sourceforge.net/compatibility.php">Compatibility List</ulink> to see if your game has any known issues.
+		For now please don't report bugs, the Grim engine is in still alpha state.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
+      <question>Residual crashes, but the console window disappears too quickly to see the error message.</question>
+      <answer>
+		<simpara>
+		On Windows, to make it visible, you should run Residual from the command line. To open a 
+		command prompt, open the Start Menu and select the 'Run' option. Under 
+		Windows NT/2000/XP, type 'cmd.exe' (no quotes) in the dialog box that 
+		shows up; under Windows 95/98/Me, type 'command.com' instead. If 
+		necessary, change to the proper drive first by typing 'D:' (where 'D' is 
+		the drive Residual is located). Change to Residual's directory by typing 
+		'cd \your\path\to\residual' (substituting the appropriate path) and then 
+		type 'residual'.
+		</simpara>
+		<simpara>
+		On MacOS X, you can find the error messages by starting Console.app
+		(in Utilities within the Applications folder). If you prefer, you can
+		also run Residual from the terminal. To do this, start Terminal.app
+		(also in the Utilities folder), then drag&amp;drop the Resdual.app
+		application onto the Terminal window, remove the space at the end of
+		the line and add 'Contents/MacOS/residual' (without the quotes). The
+		line should look like this: '/Path/to/Residual.app/Contents/MacOS/residual'.
+		Then press return to start Residual.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
+      <question>I get "WARNING: Unable to open configuration file C:\windows\residual.ini!"</question>
+      <answer>
+		<simpara>
+		Make sure you have enough permissions to write in c:\windows directory. Also note that this warning the
+		first time you run Residual, since the file does not exist yet then.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
+      <question>I get "Failed to save game state to file: xxx"</question>
+      <answer>
+		<simpara>
+		Check savepath in residual config file. That should point to writable directory.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
+      <question>Residual starts, but all I get is a transparent window!</question>
+      <answer>
+		<simpara>
+		This problem has been reported to happen under Windows in some cases. Check
+		that you have the latest drivers for your graphics card. If that does not
+		help, try setting the <envar>SDL_VIDEODRIVER</envar> environment variable to
+		"windib" and try again.
+		</simpara>
+		<simpara>
+		Apparently other applications have had the same problem, because the release
+		notes for SDL 1.2.10 (May 17, 2006) contained the following note:
+		</simpara>
+		<blockquote>
+		<simpara>
+		The "windib" video driver is the default now, to prevent problems with
+		certain laptops, 64-bit Windows, and Windows Vista. The DirectX driver
+		is still available, and can be selected by setting the environment
+		variable <envar>SDL_VIDEODRIVER</envar> to "directx".
+		</simpara>
+		</blockquote>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
+      <question>Residual runs, but sound is stuttering and/or garbled!</question>
+      <answer>
+		<simpara>
+		This problem has been reported to happen under Windows in some cases. Check
+		that you have the latest drivers for your sound card. If that does not help,
+		try setting the <envar>SDL_AUDIODRIVER</envar> environment variable to "waveout"
+		and try again.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
+      <question>How do I set an environment variable?</question>
+      <answer>
+		<simpara>
+		That depends on what operating system and/or command shell you are using.
+		Under Windows, you could try creating a file called
+		<command moreinfo="none">residual.bat</command> in the same folder as
+		<command moreinfo="none">residual.exe</command>. Open this file in your favorite text
+		editor and put something like this in it:
+		</simpara>
+		<blockquote>
+		<programlisting format="linespecific">@echo off
+set SDL_VIDEODRIVER=windib
+set SDL_AUDIODRIVER=waveout
+residual.exe %1 %2 %3 %4 %5 %6 %7 %8 %9</programlisting>
+		</blockquote>
+		<simpara>
+		You should now be able to run Residual by double-clicking on this batch file,
+		instead of the Residual executable.
+		</simpara>
+		<simpara>
+		On more recent versions of Windows, you can also set an environment variable
+		permanently, and for all applications, through the control panel.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
+      <question>Residual starts somewhere in the middle of my two Xinerama monitors in fullscreen mode. Help!</question>
+      <answer>
+		<simpara>
+		In fact, this is SDL problem. SDL does by default has xinerama support
+		enabled. Set the <envar>SDL_VIDEO_FULLSCREEN_HEAD</envar>
+		environment variable to "1" to start Residual (and other SDL applications) in
+		fullscreen on only one monitor. If this does not work make sure your SDL
+		library does have Xinerama support compiled in.
+		</simpara>
+	</answer>
+    </entry>
+  </section>
+</faq>

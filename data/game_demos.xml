@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<game_demos>
+	<group>
+		<name>LucasArts Demos</name>
+		<href>lec</href>
+		<demos>
+			<demo>
+				<name>Grim Fandango</name>
+				<url>http://robertmegone.com/residual/demos/grim-win-demo-en.zip</url>
+				<target>grimdemo</target>
+			</demo>
+			<demo>
+				<name>Escape From Monkey Island</name>
+				<url>http://robertmegone.com/residual/demos/emi-win-demo-en.zip</url>
+				<target>monkeydemo</target>
+			</demo>
+		</demos>
+	</group>
+	<group>
+		<name>Other Demos</name>
+	</group>
+</game_demos>

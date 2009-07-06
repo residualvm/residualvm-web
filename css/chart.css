@@ -1,0 +1,58 @@
+.chart {
+	border: 0px;
+	border-spacing: 0px;
+	margin: 0px auto 1em;
+	padding: 0px;
+	width: 95%;
+}
+
+.chart caption {
+	background: #44a63d url('../images/table-head.gif');
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	margin: 0 auto;
+}
+
+.chart a {
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+
+.chart a:hover {
+	color: #4fc047;
+}
+
+.chart tr,
+.chart th,
+.chart td {
+	margin: 0px;
+	padding: 2px;
+}
+
+.chart th,
+.chart td {
+	border: 1px solid rgb(192, 192, 192);
+}
+
+.chart th {
+	font-weight: normal;
+	text-align: left;
+}
+
+.chart td.details {
+	padding: 1em 3em;
+}
+
+/* query row colors */
+.chart .color0 {
+	background-color: #afe7ab;
+}
+.chart .color1 {
+	background-color: #afe7ab;
+}
+.chart .color2 {
+	background-color: #8ae783;
+}
+.chart .color4 {
+	background-color: #63ba5d;
+}

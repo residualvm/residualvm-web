@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<compatibility xmlns:h="http://www.w3.org/TR/xhtml1/">
+	<company>
+		<name>LucasArts</name>
+		<games>
+			<game>
+				<name>Grim Fandnago</name>
+				<target>grim</target>
+				<percent>50</percent>
+				<notes>
+					Game is partialy playable.
+				</notes>
+			</game>
+			<game>
+				<name>Grim Fandango Demo</name>
+				<target>grimdemo</target>
+				<percent>60</percent>
+				<notes>
+					Demo is finishable with many glitches.
+				</notes>
+			</game>
+			<game>
+				<name>Escape from Monkey Island</name>
+				<target>monkey</target>
+				<percent>1</percent>
+				<notes>
+					Not supported.
+				</notes>
+			</game>
+			<game>
+				<name>Escape from Monkey Island Demo</name>
+				<target>monkeydemo</target>
+				<percent>1</percent>
+				<notes>
+					Not supported.
+				</notes>
+			</game>
+		</games>
+	</company>
+	<company>
+	</company>
+</compatibility>

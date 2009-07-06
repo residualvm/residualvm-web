@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- <file> contains the base of the filename, thumbnail is <file>.jpg, full image is <file>-full.png -->
+<screenshots>
+	<group>
+		<title>LucasArts games</title>
+		<category>lec</category>
+		<game>
+			<name>Grim Fandango</name>
+			<category>grim</category>
+			<image>
+				<file>lec/grim/grim_0</file>
+				<caption>Grim Fandango</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_1</file>
+				<caption>Grim Fandango</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_2</file>
+				<caption>Grim Fandango</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_3</file>
+				<caption>Grim Fandango</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_4</file>
+				<caption>Grim Fandango</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_5</file>
+				<caption>Grim Fandango</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_6</file>
+				<caption>Grim Fandango</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_7</file>
+				<caption>Grim Fandango</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_8</file>
+				<caption>Grim Fandango</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_9</file>
+				<caption>Grim Fandango</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_10</file>
+				<caption>Grim Fandango</caption>
+			</image>
+		</game>
+	</group>
+</screenshots>

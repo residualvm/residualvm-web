@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<downloads xmlns:h="http://www.w3.org/TR/html4/">
+	<section>
+		<title>Subversion Builds</title>
+		<subsection>
+			<anchor>SVN</anchor>
+			<notes>
+				<h:p>
+					<h:b>WARNING:</h:b> The following builds are bleeding edge development
+					versions made directly from our Subversion (= SVN) source repository.
+					That means that they received no proper testing (usually no testing at
+					all) and that any number of things may be broken in the them. For
+					example, they might corrupt your config file, crash frequently or or
+					might not even start. Use them at your own risk!
+    				</h:p>
+				<h:p>
+				  Snapshot builds:
+    				</h:p>
+			</notes>
+			<entries>
+				<file>
+					<category_icon>catpl-windows.png</category_icon>
+					<url local_file="true">residual-win32.exe</url>
+					<name>Win32 Residual Snaphost</name>
+					<type>svn</type>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url local_file="true">residual_debian_i386.deb</url>
+					<name>Debian i386 Residual Snapshot</name>
+					<type>svn</type>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url local_file="true">residual_debian_amd64.deb</url>
+					<name>Debian x86_64 Residual Snapshot</name>
+					<type>svn</type>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url local_file="true">residual_ubuntu_i386.deb</url>
+					<name>Ubuntu i386 Residual Snapshot</name>
+					<type>svn</type>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url local_file="true">residual_ubuntu_amd64.deb</url>
+					<name>Ubuntu x86_64 Residual Snapshot</name>
+					<type>svn</type>
+				</file>
+				<file>
+					<category_icon>catpl-macos.png</category_icon>
+					<url local_file="true">Residual-MacOSX-Intel.dmg</url>
+					<name>Mac OS X Intel Residual Snapshot</name>
+					<type>svn</type>
+				</file>
+			</entries>
+		</subsection>
+	</section>
+	<section>
+		<title>Libraries</title>
+		<anchor>libs</anchor>
+		<subsection>
+			<title>Required Libraries</title>
+			<entries>
+				<link>
+					<name>SDL 1.2.x</name>
+					<url>http://www.libsdl.org/download-1.2.php</url>
+					<description></description>
+				</link>
+			</entries>
+		</subsection>
+		<subsection>
+			<title>Optional Libraries</title>
+			<entries>
+				<link>
+					<name>MAD</name>
+					<url>http://www.underbit.com/products/mad/</url>
+					<description>: MPEG Audio Decoder</description>
+				</link>
+				<link>
+					<name>Ogg Vorbis</name>
+					<url>http://www.xiph.org/vorbis/</url>
+					<description></description>
+				</link>
+				<link>
+					<name>FLAC</name>
+					<url>http://flac.sourceforge.net/</url>
+					<description>: Free Lossless Audio Codec</description>
+				</link>
+			</entries>
+		</subsection>
+	</section>
+</downloads>
