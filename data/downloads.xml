@@ -49,6 +49,12 @@
 					<type>svn</type>
 				</file>
 				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url local_file="true">residual_ubuntu_ppc.deb</url>
+					<name>Ubuntu PowerPC/PS3 Residual Snapshot</name>
+					<type>svn</type>
+				</file>
+				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">Residual-MacOSX-Intel.dmg</url>
 					<name>Mac OS X Intel Residual Snapshot</name>
