@@ -21,43 +21,43 @@
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
 					<url local_file="true">residual-win32.exe</url>
-					<name>Win32 Residual Snaphost</name>
+					<name>Win32</name>
 					<type>svn</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residual_debian_i386.deb</url>
-					<name>Debian i386 Residual Snapshot</name>
+					<name>Debian i386</name>
 					<type>svn</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residual_debian_amd64.deb</url>
-					<name>Debian x86_64 Residual Snapshot</name>
+					<name>Debian x86_64</name>
 					<type>svn</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residual_ubuntu_i386.deb</url>
-					<name>Ubuntu i386 Residual Snapshot</name>
+					<name>Ubuntu i386</name>
 					<type>svn</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residual_ubuntu_amd64.deb</url>
-					<name>Ubuntu x86_64 Residual Snapshot</name>
+					<name>Ubuntu x86_64</name>
 					<type>svn</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residual_ubuntu_ppc.deb</url>
-					<name>Ubuntu PowerPC/PS3 Residual Snapshot</name>
+					<name>Ubuntu PowerPC/PS3</name>
 					<type>svn</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">Residual-MacOSX-Intel.dmg</url>
-					<name>Mac OS X Intel Residual Snapshot</name>
+					<name>Mac OS X Intel</name>
 					<type>svn</type>
 				</file>
 			</entries>
