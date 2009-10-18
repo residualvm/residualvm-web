@@ -57,11 +57,11 @@
     <title>Supported games</title>
     <entry>
       <href>question.supported-games</href>
-      <question>What games does Residual ?</question>
+      <question>What games does Residual support?</question>
       <answer>
 		<simpara>
 		We have a <ulink url="http://residual.sourceforge.net/compatibility.php">compatibility
-		list</ulink> on our website that contains an up to date list of which
+		list</ulink> on our website that contains an up-to-date list of which
 		games work, and how well they work.
 		</simpara>
 	</answer>
@@ -103,7 +103,8 @@
       <answer>
 		<simpara>
 		Check the <ulink url="http://residual.sourceforge.net/compatibility.php">Compatibility List</ulink> to see if your game has any known issues.
-		For now please don't report bugs, the Grim engine is in still alpha state.
+		If you can reproduce this crash more than once, please report it to our Bug Tracker.
+		See "<xref linkend="question.report-bugs" endterm="question.report-bugs.text"/>".
 		</simpara>
 	</answer>
     </entry>
@@ -130,6 +131,25 @@
 		the line and add 'Contents/MacOS/residual' (without the quotes). The
 		line should look like this: '/Path/to/Residual.app/Contents/MacOS/residual'.
 		Then press return to start Residual.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href>question.report-bugs</href>
+      <question>Reporting Bugs.</question>
+      <answer>
+		<simpara>
+		To report a bug, please create a SourceForge account and follow the
+		<ulink url="http://sourceforge.net/tracker/?group_id=259881&amp;atid=1202866;func=browse">bugs</ulink>
+		link from our homepage. Please make sure the bug is reproducible, and
+		still exists in the latest daily build/current Subversion version.
+		In your bugreport please provide the following information:
+
+		<itemizedlist>
+			<listitem><simpara>Bug details, including instructions on reproducing it</simpara></listitem>
+			<listitem><simpara>Language of game (English, German, ...)</simpara></listitem>
+			<listitem><simpara>Platform and Compiler (Win32, Linux, MacOS, ...)</simpara></listitem>
+		</itemizedlist>
 		</simpara>
 	</answer>
     </entry>
