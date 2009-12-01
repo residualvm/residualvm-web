@@ -44,8 +44,8 @@
 				</person>
 				<person>
 					<name>Marcus Comstedt</name>
-					<alias></alias>
-					<description>Dreamcast port</description>
+					<alias>marcus_c</alias>
+					<description>Initial Dreamcast port</description>
 				</person>
 				<person>
 					<name>Andrea Corna</name>
@@ -58,6 +58,11 @@
 					<description>Various code fixes</description>
 				</person>
 				<person>
+					<name>Yaron Tausky</name>
+					<alias>yaront</alias>
+					<description>Fixes to subtitles</description>
+				</person>
+				<person>
 					<name>Vincent Hamm</name>
 					<alias>yazoo</alias>
 					<description>Various engine code</description>
@@ -65,7 +70,7 @@
 				<person>
 					<name>Erich Hoover</name>
 					<alias>Compholio</alias>
-					<description>x86-64, various fixes and comments, menu support, improved state support</description>
+					<description>x86-64 fixes, various fixes and comments, menu support, improved state support</description>
 				</person>
 				<person>
 					<name>Travis Howell</name>
@@ -102,7 +107,7 @@
 	</section>
 	<section>
 		<title>ScummVM code</title>
-		<paragraph>Residual use some ScummVM common code. Copyrights for this code belongs to persons listed below. If you are missed in this list contact us and we'll add you.</paragraph>
+		<paragraph>Residual use some ScummVM code. Copyrights for this code belongs to persons listed below. If you are missed in this list contact us and we'll add you.</paragraph>
 			<group>
 				<name></name>
 				<person>
@@ -121,6 +126,11 @@
 					<description></description>
 				</person>
 				<person>
+					<name>Yotam Barnoy</name>
+					<alias>bluddy</alias>
+					<description></description>
+				</person>
+				<person>
 					<name>James Brown</name>
 					<alias>ender</alias>
 					<description></description>
@@ -131,8 +141,23 @@
 					<description></description>
 				</person>
 				<person>
+					<name>David Corrales-Lopez</name>
+					<alias>david_corrales</alias>
+					<description></description>
+				</person>
+				<person>
+					<name>Oystein Eftevaag</name>
+					<alias>vinterstum</alias>
+					<description></description>
+				</person>
+				<person>
 					<name>Robert G&ouml;ffringmann</name>
 					<alias>lavosspawn</alias>
+					<description></description>
+				</person>
+				<person>
+					<name>Paul Gilbert</name>
+					<alias>dreammaster</alias>
 					<description></description>
 				</person>
 				<person>
@@ -151,8 +176,23 @@
 					<description></description>
 				</person>
 				<person>
+					<name>Sven Hesse</name>
+					<alias>DrMcCoy</alias>
+					<description></description>
+				</person>
+				<person>
+					<name>Matthew Hoops</name>
+					<alias>clone2727</alias>
+					<description></description>
+				</person>
+				<person>
 					<name>Max Horn</name>
 					<alias>Fingolfin</alias>
+					<description></description>
+				</person>
+				<person>
+					<name>Florian Kagerer</name>
+					<alias>athrxx</alias>
 					<description></description>
 				</person>
 				<person>
@@ -176,6 +216,11 @@
 					<description></description>
 				</person>
 				<person>
+					<name>Vicent Marti</name>
+					<alias>tanoku</alias>
+					<description></description>
+				</person>
+				<person>
 					<name>Claudio Matsuoka</name>
 					<alias></alias>
 					<description></description>
@@ -191,6 +236,11 @@
 					<description></description>
 				</person>
 				<person>
+					<name>Chris Page</name>
+					<alias>cp88</alias>
+					<description></description>
+				</person>
+				<person>
 					<name>Willem Jan Palenstijn</name>
 					<alias>wjp</alias>
 					<description></description>
@@ -198,6 +248,16 @@
 				<person>
 					<name>Lars Persson</name>
 					<alias>AnotherGuest</alias>
+					<description></description>
+				</person>
+				<person>
+					<name>Joost Peters</name>
+					<alias>joostp</alias>
+					<description></description>
+				</person>
+				<person>
+					<name>Jordi Vilalta Prat</name>
+					<alias>jvprat</alias>
 					<description></description>
 				</person>
 				<person>
@@ -226,6 +286,11 @@
 					<description></description>
 				</person>
 				<person>
+					<name>Jody Northup</name>
+					<alias>Upthorn</alias>
+					<description></description>
+				</person>
+				<person>
 					<name>Jordi Vilalta</name>
 					<alias></alias>
 					<description></description>
@@ -248,6 +313,17 @@
 				<person>
 					<name>???</name>
 					<alias>peres</alias>
+					<description></description>
+				</person>
+			</group>
+	</section>
+	<section>
+		<title>Website (code)</title>
+			<group>
+				<name></name>
+				<person>
+					<name>Fredrik Wendel</name>
+					<alias></alias>
 					<description></description>
 				</person>
 			</group>
