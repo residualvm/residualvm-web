@@ -5,7 +5,7 @@ ul.downloads li.file a {
 
 ul.downloads li.file a:hover,
 ul.downloads li.link a:hover {
-	color: #4fc047;
+	color: rgb(79, 192, 71);
 }
 
 ul.downloads span.download-extras {
@@ -18,10 +18,11 @@ ul.downloads li.link {
 }
 	
 ul.downloads li.link a {
+	color: rgb(170, 51, 51);
 	text-decoration: underline;
 }
 
-span.svn_provider {
+span.daily_provider {
 	display: block;
 	font-size: 90;
 	padding-left: 3em;

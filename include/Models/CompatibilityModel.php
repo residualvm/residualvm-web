@@ -30,7 +30,34 @@ abstract class CompatibilityModel extends BasicModel {
 		return $entries;
 	}
 
-	/* Get version numbers for all available compatibility charts, excluding the SVN charts. */
+	/**
+	 * Compares two version strings and returns an integer less than, equal
+	 * to, or greater than zero if the first argument is considered to be
+	 * respectively less than, equal to, or greater than the second.
+	 */
+	static public function compareVersions($version1, $version2) {
+		/* Get the length of the numeric part of the version strings. */
+		$lenNumber1 = strspn($version1, ".0123456789");
+		$lenNumber2 = strspn($version2, ".0123456789");
+		if (($lenNumber1 == $lenNumber2) && (substr($version1, 0, $lenNumber1) == substr($version2, 0, $lenNumber2))) {
+			/* Same version number. Handle special cases. */
+			$extraVersion1 = substr($version1, $lenNumber1);
+			$extraVersion2 = substr($version2, $lenNumber2);
+
+			/* Release candidates go before the final release. */
+			$rc1 = substr($extraVersion1, 0, 2);
+			$rc2 = substr($extraVersion2, 0, 2);
+			if (($rc1 == "rc") && ($rc2 != "rc"))
+				return -1;
+			if (($rc2 == "rc") && ($rc1 != "rc"))
+				return 1;
+
+			/* Break the tie with the standard comparison. */
+		}
+		return strnatcmp($version1, $version2);
+	}
+
+	/* Get version numbers for all available compatibility charts, excluding the DEV charts. */
 	static public function getAllVersions() {
 		if (!($files = scandir(DIR_COMPAT))) {
 			throw new ErrorException(self::NO_FILES);
@@ -40,12 +67,12 @@ abstract class CompatibilityModel extends BasicModel {
 			if (substr($file, -4) != '.xml') {
 				continue;
 			}
-			/* Always exclude the SVN-chart. */
-			if (strpos($file, 'SVN') === false) {
+			/* Always exclude the DEV-chart. */
+			if (strpos($file, 'DEV') === false) {
 				$dates[] = substr($file, (strpos($file, '-') + 1), -4);
 			}
 		}
-		natsort($dates);
+		usort($dates, "CompatibilityModel::compareVersions");
 		$dates = array_reverse($dates);
 		return $dates;
 	}

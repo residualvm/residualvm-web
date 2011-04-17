@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <downloads xmlns:h="http://www.w3.org/TR/html4/">
 	<section>
-		<title>Subversion Builds</title>
+		<title>Daily Builds</title>
 		<subsection>
-			<anchor>SVN</anchor>
+			<anchor>daily</anchor>
 			<notes>
 				<h:p>
 					<h:b>WARNING:</h:b> The following builds are bleeding edge development
-					versions made directly from our Subversion (= SVN) source repository.
+					versions made directly from our source repository.
 					That means that they received no proper testing (usually no testing at
 					all) and that any number of things may be broken in the them. For
-					example, they might corrupt your config file, crash frequently or or
+					example, they might corrupt your config file, crash frequently or
 					might not even start. Use them at your own risk!
-    				</h:p>
+    			</h:p>
 				<h:p>
 				  Snapshot builds:
-    				</h:p>
+				</h:p>
 			</notes>
 			<entries>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
 					<url local_file="true">residual-win32.exe</url>
 					<name>Win32</name>
-					<type>svn</type>
+					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residual_debian_i386.deb</url>
 					<name>Debian i386</name>
-					<type>svn</type>
+					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residual_debian_amd64.deb</url>
 					<name>Debian x86_64</name>
-					<type>svn</type>
+					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residual_ubuntu_i386.deb</url>
 					<name>Ubuntu i386</name>
-					<type>svn</type>
+					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residual_ubuntu_amd64.deb</url>
 					<name>Ubuntu x86_64</name>
-					<type>svn</type>
+					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residual_ubuntu_ppc.deb</url>
 					<name>Ubuntu PowerPC/PS3</name>
-					<type>svn</type>
+					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">Residual-MacOSX-Intel.dmg</url>
 					<name>Mac OS X Intel</name>
-					<type>svn</type>
+					<type>daily</type>
 				</file>
 			</entries>
 		</subsection>

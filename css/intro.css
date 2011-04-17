@@ -36,16 +36,16 @@ div.sshots .rbbot {
 	background: url('../images/shots-corner-right.gif') no-repeat bottom right;
 }
 div.sshots .rbtop p {
-	background: #cbe9d2;
-	border-top: solid 1px #9ebca5;
+	background: rgb(203, 233, 210);
+	border-top: solid 1px rgb(158, 188, 165);
 	font: bold medium/normal "Trebuchet MS", Verdana, Tahoma, Sans-Serif;
 	height: 20px;
 	padding: 4px 0px 0px 0px;
 	text-align: center;
 }
 div.sshots .rbbot p {
-	background: #cbe9d2;
-	border-bottom: solid 1px #9ebca5;
+	background: rgb(203, 233, 210);
+	border-bottom: solid 1px rgb(158, 188, 165);
 	height: 24px;
 	margin: 0px 7px;
 }
@@ -63,9 +63,9 @@ div.sshots .rbbot div {
 }
 
 div.sshots .rbcontent  {
-	background: #cbe9d2;
-	border-left: 1px solid #9ebca5;
-	border-right: 1px solid #9ebca5;
+	background: rgb(203, 233, 210);
+	border-left: 1px solid rgb(158, 188, 165);
+	border-right: 1px solid rgb(158, 188, 165);
 	height: 100%;
 	margin: 0px;
 	overflow: hidden;

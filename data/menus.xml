@@ -60,10 +60,14 @@
 			<name>Feature Requests</name>
 			<href>http://sourceforge.net/tracker/?group_id=259881&amp;atid=1127293</href>
 		</link>
-	-->
 		<link>
 			<name>Patch Tracker</name>
 			<href>http://sourceforge.net/tracker/?group_id=259881&amp;atid=1127293</href>
+		</link>
+	-->
+		<link>
+			<name>Daily Snapshots</name>
+			<href>downloads/#daily</href>
 		</link>
 		<link>
 			<name>Source Code Tree</name>

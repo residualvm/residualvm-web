@@ -1,7 +1,6 @@
 <?php
 /* Current version. */
 define('RELEASE', '0.0.6');
-define('RELEASE_TAG', '');
 define('RELEASE_TOOLS', '');
 define('RELEASE_DEBIAN', '');
 
@@ -9,6 +8,8 @@ define('RELEASE_DEBIAN', '');
 define('NEWS_ITEMS', 4);
 /* Number of heroes header files. */
 define('HEROES_NUM', 4);
+/* Time zone to use for news items etc. */
+date_default_timezone_set("UTC");
 
 /* Base URL to the website. */
 if ($_SERVER['SERVER_PORT'] == '80') {

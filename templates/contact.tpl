@@ -28,8 +28,6 @@
 	<div class="subhead-content">
 		<p>
 			Don't report bugs. Residual is very alpha and we KNOW it doesn't work right.
-			If you have made a modification to the Residual source code and want to see it merged back into the Residual main line, you can use our
-			<a href="https://sourceforge.net/tracker/?group_id=259881&atid=1127293">patch tracker</a> for that.
 		</p>
 	</div>
 

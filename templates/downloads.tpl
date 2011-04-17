@@ -19,7 +19,7 @@
 				<ul>
 					<li>
 						For UNSTABLE experimental versions of Residual (for people who know what they
-						are doing), please see the <a href="downloads/#SVN">Subversion Builds</a>
+						are doing), please see the <a href="downloads/#daily">Daily Builds</a>
 						section.
 					</li>
 				</ul>

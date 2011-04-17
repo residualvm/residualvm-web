@@ -9,7 +9,7 @@ div.menugroup {
 
 div.menugroup h1 {
 	background-repeat: no-repeat;
-	color: #def347;
+	color: rgb(222, 243, 71);
 	font-size: 7.5pt;
 	line-height: 3.3;
 	height: 34px;
@@ -36,7 +36,7 @@ div.menugroup h1.menu-misc {
 }
 
 div.menugroup ul {
-	background: #398b4c;
+	background: rgb(57, 139, 76);
 	color: rgb(255, 255, 255);
 	list-style-image: url('../images/bullet.gif');
 	margin: 0px;

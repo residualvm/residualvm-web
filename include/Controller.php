@@ -55,12 +55,15 @@ class Controller {
 		$this->_content_title = '';
 		$this->_content = '';
 
+		/* The menus have caused an exception, need to skip them. */
+		if (!ExceptionHandler::skipMenus()) {
+			$menus = MenuModel::getAllMenus();
+		}
 		/* Set up the common variables before displaying. */
-		$menus = MenuModel::getAllMenus();
 		$vars = array(
 			'release' => RELEASE,
-			'release_tag' => RELEASE_TAG,
 			'baseurl' => URL_BASE,
+			'heroes_num' => HEROES_NUM,
 			'menus' => $menus,
 		);
 		$this->_smarty->assign($vars);
@@ -69,11 +72,11 @@ class Controller {
 	/** Smarty outputfilter, run just before displaying. */
 	public function outputFilter($string, &$smarty) {
 		/* Properly encode all ampersands as "&amp;". */
-		$string = preg_replace('/&(?!([a-z]+|(#\d+));)/', '&amp;', $string);
+		$string = preg_replace('/&(?!([a-z]+|(#\d+));)/i', '&amp;', $string);
 		/* Replace weird characters that appears in some of the data. */
 		$string = str_replace(
-			array(chr(160), chr(194)), 
-			array('&nbsp;', ''), 
+			array(chr(160), chr(194)),
+			array('&nbsp;', ''),
 			$string
 		);
 		return $string;

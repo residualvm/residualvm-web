@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <documentation xmlns:h="http://www.w3.org/TR/html4/">
 	<document>
-		<name>Residual README</name>
-		<url>http://residual.svn.sourceforge.net/viewvc/residual/residual/trunk/README?view=markup</url>
-		<description></description>
-	</document>
-	<document>
 		<name>Game data files</name>
 		<url>http://apps.sourceforge.net/mediawiki/residual/index.php?title=Datafiles</url>
 		<description>This page lists games which files exactly are needed by Residual in order to play that game.</description>

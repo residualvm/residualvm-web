@@ -52,9 +52,9 @@
 				<a href="compatibility.php">compatibility page</a>. Residual is continually improving, so check back often.
 				</p>
 				<p>
-				Our forum and IRC channel, <a href="irc://irc.freenode.net/residual">#residual on
-				irc.freenode.net</a>, are open for comments and suggestions. Please read our
-				<a href="http://residual.sourceforge.net/faq.php">FAQ</a> before posting.
+					Our forum and IRC channel, <a href="irc://irc.freenode.net/residual">#residual on
+					irc.freenode.net</a>, are open for comments and suggestions. Please read our
+					<a href="faq/">FAQ</a> before posting.
 				</p>
 			</div>
 		</div>

@@ -17,7 +17,7 @@ class XMLParser {
 
 	const NS_HTML4 = 'http://www.w3.org/TR/html4/';
 	const NS_XHTML = 'http://www.w3.org/TR/xhtml1/';
-	
+
 	static private $empty_elements = array('br', 'hr', 'img');
 	private $_tree;
 	private $_data;
@@ -57,7 +57,7 @@ class XMLParser {
 		if (!($xml = @file_get_contents($filename))) {
 			throw new ErrorException(self::FILE_NOT_READABLE . $file);
 		}
-		
+
 		/* Parse the XML. */
 		try {
 			return $this->parseByData($xml);

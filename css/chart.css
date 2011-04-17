@@ -7,7 +7,7 @@
 }
 
 .chart caption {
-	background: #44a63d url('../images/table-head.gif');
+	background: rgb(68, 166, 61) url('../images/table-head.gif');
 	color: rgb(255, 255, 255);
 	font-weight: bold;
 	margin: 0 auto;
@@ -19,7 +19,7 @@
 }
 
 .chart a:hover {
-	color: #4fc047;
+	color: rgb( 79, 192, 71);
 }
 
 .chart tr,
@@ -45,14 +45,14 @@
 
 /* query row colors */
 .chart .color0 {
-	background-color: #afe7ab;
+	background-color: rgb(175, 231, 171);
 }
 .chart .color1 {
-	background-color: #afe7ab;
+	background-color: rgb(175, 231, 171);
 }
 .chart .color2 {
-	background-color: #8ae783;
+	background-color: rgb(138, 231, 131);
 }
 .chart .color4 {
-	background-color: #63ba5d;
+	background-color: rgb(99, 186, 93);
 }

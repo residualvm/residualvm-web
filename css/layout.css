@@ -1,6 +1,6 @@
 body {
 	font: normal 8pt/normal verdana, tahoma, arial, helvetica, sans-serif;
-	background: #4889a7 url('../images/body-bg.gif') repeat-x scroll 0 0;
+	background: rgb(72, 137, 167) url('../images/body-bg.gif') repeat-x scroll 0 0;
 	margin-top: 0px;
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 #container {
-	background: #d7ecdc;
+	background: rgb(215, 236, 220);
 	margin: 0;
 	margin: 0px auto;
 	min-height: 700px;
@@ -45,8 +45,9 @@ body {
 	top: -8px;
 }
 
-#menu div a.float_left {
-	margin-bottom: 2px;
+#menu_banners a {
+	float: left;
+	margin-bottom: 3px;
 }
 
 #content {
@@ -71,7 +72,7 @@ body {
 }
 
 #legal {
-	color: #144a63;
+	color: rgb(20, 74, 99);
 	margin: 25px auto 5px auto;
 	text-align: center;
 	width: 90%;
@@ -100,7 +101,7 @@ body {
 	margin-bottom: 8px;
 }
 .box .head {
-	background: #44a63d url('../images/par-head.gif') repeat-x;
+	background: rgb(68, 166, 61) url('../images/par-head.gif') repeat-x;
 	border: 0px;
 	color: rgb(255, 255, 255);
 	font-weight: bold;
@@ -112,7 +113,7 @@ body {
 	text-decoration: none;
 }
 .box .intro {
-	background: #abd4a8;
+	background: rgb(172, 212, 168);
 	margin-bottom: 1em;
 	padding: 4px 8px 4px 5px;
 }
@@ -173,7 +174,7 @@ body {
 }
 
 .navigation a:hover {
-	color: #4fc047;
+	color: rgb(79, 192, 71);
 }
 
 
@@ -197,12 +198,12 @@ body {
 }
 
 a {
-	color: #378632;
+	color: rgb(66, 134, 50);
 	font-size: inherit;
 }
 
 a:hover {
-	color: #4fc047;
+	color: rgb(79, 192, 71);
 	text-decoration: none;
 }
 
@@ -254,7 +255,7 @@ ul.downloads img {
 }
 .rbbot p {
 	background: #fff;
-	border-bottom: solid 1px #9ebca5;
+	border-bottom: solid 1px rgb(158, 188, 165);
 	font-size: 1px;
 	height: 7px;
 	margin: 0px 8px;
@@ -274,8 +275,8 @@ ul.downloads img {
 
 .rbcontent  {
 	background: #fff;
-	border-left: 1px solid #9ebca5;
-	border-right: 1px solid #9ebca5;
+	border-left: 1px solid rgb(158, 188, 165);
+	border-right: 1px solid rgb(158, 188, 165);
 	height: 100%;
 	margin: 0px;
 	overflow: hidden;
