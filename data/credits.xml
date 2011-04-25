@@ -93,6 +93,11 @@
 					<description>Initial engine codebase, LUA support</description>
 				</person>
 				<person>
+					<name>Einar Johan T. S&oslash;m&aring;en</name>
+					<alias>somaen</alias>
+					<description>A lot of play-testing</description>
+				</person>
+				<person>
 					<name>Yaron Tausky</name>
 					<alias>yaront</alias>
 					<description>Fixes to subtitles</description>
