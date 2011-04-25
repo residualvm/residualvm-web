@@ -1,0 +1,21 @@
+<NAME>Sorry for the wait Mr.Flores!</NAME>
+        <DATE>April 25th, 2011</DATE>
+        <AUTHOR>aquadran</AUTHOR>
+        <BODY>
+                <p>
+                        It's been over 2 years since the last news on this page, and a lot has happened.
+                </p>
+                <p>
+                        We have switched from svn to <a href="http://www.github.com/residual/residual">git</a>,
+                        and quite a bit has been fixed, which leads me to today's headline:
+                </p>
+                <p>
+                        Grim Fandango just changed status to <b>"completable with a few minor glitches"</b>.
+                </p>
+                <p>
+                        Yes, that's right, you can now play Grim Fandango right through to the end. As a sidenote we now also accept
+                        <a href="http://sourceforge.net/apps/mediawiki/residual/index.php?title=Reporting_Bugs">Bug Reports</a> for Grim.
+                        So, get on over to the download page, and grab a fresh nightly.
+                        Oh, and that compass in the handle, sure will come in handy too!
+                </p>
+        </BODY>
