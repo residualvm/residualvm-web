@@ -6,17 +6,17 @@
 			<game>
 				<name>Grim Fandango</name>
 				<target>grim</target>
-				<percent>50</percent>
+				<percent>70</percent>
 				<notes>
-					Game is partialy playable.
+					Game is almost completable.
 				</notes>
 			</game>
 			<game>
 				<name>Grim Fandango Demo</name>
 				<target>grimdemo</target>
-				<percent>60</percent>
+				<percent>70</percent>
 				<notes>
-					Demo is finishable with many glitches.
+					Demo is finishable with a few glitches.
 				</notes>
 			</game>
 			<game>

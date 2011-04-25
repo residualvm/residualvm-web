@@ -9,7 +9,7 @@
 		</p>
 		{if $version == 'DEV'}
 			<p>
-				This is the compatibility of the current WIP SVN version, <b>not of a stable release</b>.
+				This is the compatibility of the current WIP Git version, <b>not of a stable release</b>.
 			</p>
 			<p>
 				As this is the status of the development version, occasional temporary bugs
