@@ -65,12 +65,12 @@
 				<person>
 					<name>Vincent Hamm</name>
 					<alias>yazoo</alias>
-					<description>Various engine code</description>
+					<description>Various engine code fixes and improvements</description>
 				</person>
 				<person>
 					<name>Erich Hoover</name>
 					<alias>Compholio</alias>
-					<description>x86-64 fixes, various fixes and comments, menu support, improved state support</description>
+					<description>x86-64 fixes, various code fixes and improvements</description>
 				</person>
 				<person>
 					<name>Travis Howell</name>
@@ -95,12 +95,17 @@
 				<person>
 					<name>Einar Johan T. S&oslash;m&aring;en</name>
 					<alias>somaen</alias>
-					<description>A lot of play-testing</description>
+					<description>Initial EMI support, a lot of play-testing</description>
 				</person>
 				<person>
 					<name>Yaron Tausky</name>
 					<alias>yaront</alias>
 					<description>Fixes to subtitles</description>
+				</person>
+				<person>
+					<name>Joel Teichroeb </name>
+					<alias>klusark</alias>
+					<description>Initial EMI support, various code fixes</description>
 				</person>
 				<person>
 					<name>Pino Toscano</name>
@@ -112,12 +117,27 @@
 					<alias>bbrox</alias>
 					<description>OpenGL optimisations</description>
 				</person>
+				<person>
+					<name>Joni V&auml;h&auml;m&auml;ki</name>
+					<alias>Akz</alias>
+					<description>Various code fixes and improvements</description>
+				</person>
+				<person>
+					<name>???</name>
+					<alias>vpelletier</alias>
+					<description>Various code fixes and improvements</description>
+				</person>
+				<person>
+					<name>???</name>
+					<alias>usineur </alias>
+					<description>Few code improvements</description>
+				</person>
 			</group>
 		</subsection>
 	</section>
 	<section>
 		<title>ScummVM code</title>
-		<paragraph>Residual use a lot of ScummVM code. For list of authors look into COPYRIGHT file. </paragraph>
+		<paragraph>Residual use a lot of ScummVM code. For a list of authors look into COPYRIGHT file. </paragraph>
 	</section>
 	<section>
 		<title>Website code</title>
