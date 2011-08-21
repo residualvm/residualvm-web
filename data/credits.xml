@@ -83,6 +83,11 @@
 					<description>Various code fixes</description>
 				</person>
 				<person>
+					<name>Matthieu Milan</name>
+					<alias>usineur</alias>
+					<description>Few code improvements</description>
+				</person>
+				<person>
 					<name>Christian Neumair</name>
 					<alias>mannythegnome</alias>
 					<description>Various optimisation patches</description>
@@ -95,7 +100,7 @@
 				<person>
 					<name>Einar Johan T. S&oslash;m&aring;en</name>
 					<alias>somaen</alias>
-					<description>Initial EMI support, a lot of play-testing</description>
+					<description>Initial EMI support, various code fixes and improvements</description>
 				</person>
 				<person>
 					<name>Yaron Tausky</name>
@@ -126,11 +131,6 @@
 					<name>???</name>
 					<alias>vpelletier</alias>
 					<description>Various code fixes and improvements</description>
-				</person>
-				<person>
-					<name>???</name>
-					<alias>usineur </alias>
-					<description>Few code improvements</description>
 				</person>
 			</group>
 		</subsection>
