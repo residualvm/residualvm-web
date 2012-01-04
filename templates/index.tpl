@@ -21,7 +21,7 @@
 	<![endif]-->
 	<link rel="alternate" type="application/atom+xml" title="Residual Atom news feed" href="{$baseurl}feeds/atom/">
 	<link rel="alternate" type="application/rss+xml" title="Residual RSS news feed" href="{$baseurl}feeds/rss/">
-	<title>Residual :: {$title}</title>
+	<title>ResidualVM :: {$title}</title>
 </head>
 <body>
 
