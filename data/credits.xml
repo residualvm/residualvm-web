@@ -31,7 +31,12 @@
 				<person>
 					<name>Pawe&#322; Ko&#322;odziejski</name>
 					<alias>aquadran</alias>
-					<description>Core developer</description>
+					<description>Core developer (suspended)</description>
+				</person>
+				<person>
+					<name>Einar Johan T. S&oslash;m&aring;en</name>
+					<alias>somaen</alias>
+					<description>Initial EMI support, various code fixes and improvements</description>
 				</person>
 			</group>
 			<group>
@@ -48,6 +53,16 @@
 					<description>Lipsync, LAF support, various code fixes</description>
 				</person>
 				<person>
+					<name>Robert Biro</name>
+					<alias>DarthJDG</alias>
+					<description>Fixes to antiliasing</description>
+				</person>
+				<person>
+					<name>Bastien Bouclet</name>
+					<alias>bgK</alias>
+					<description>Various fixes to engine</description>
+				</person>
+				<person>
 					<name>Marcus Comstedt</name>
 					<alias>marcus_c</alias>
 					<description>Initial Dreamcast port</description>
@@ -55,7 +70,7 @@
 				<person>
 					<name>Andrea Corna</name>
 					<alias>Yak Bizzarro</alias>
-					<description>Improved font support, patch extractor</description>
+					<description>Improved font support, patch extractor, few code improvements</description>
 				</person>
 				<person>
 					<name>Jonathan Gray</name>
@@ -68,9 +83,19 @@
 					<description>Various engine code fixes and improvements</description>
 				</person>
 				<person>
+					<name>Sven Hesse</name>
+					<alias>DrMcCoy</alias>
+					<description>Various compilation fixes</description>
+				</person>
+				<person>
 					<name>Erich Hoover</name>
 					<alias>Compholio</alias>
 					<description>x86-64 fixes, various code fixes and improvements</description>
+				</person>
+				<person>
+					<name>Max Horn</name>
+					<alias>fingolfin</alias>
+					<description>Minor code fixes</description>
 				</person>
 				<person>
 					<name>Travis Howell</name>
@@ -78,9 +103,24 @@
 					<description>Various code fixes, Windows port</description>
 				</person>
 				<person>
+					<name>Filippos Karapetis</name>
+					<alias>bluegr</alias>
+					<description>Compilation fixes</description>
+				</person>
+				<person>
 					<name>Joost Peters</name>
 					<alias>joostp</alias>
 					<description>Various code fixes</description>
+				</person>
+				<person>
+					<name>George Macon</name>
+					<alias>gmacon</alias>
+					<description>Compilation fixes</description>
+				</person>
+				<person>
+					<name>Josh Matthews</name>
+					<alias>jdm</alias>
+					<description>Few fixes to engine</description>
 				</person>
 				<person>
 					<name>Matthieu Milan</name>
@@ -93,14 +133,14 @@
 					<description>Various optimisation patches</description>
 				</person>
 				<person>
+					<name>Vincent Pelletier</name>
+					<alias>vpelletier</alias>
+					<description>Various engine improvementts and code fixes</description>
+				</person>
+				<person>
 					<name>Daniel Schepler</name>
 					<alias></alias>
 					<description>Initial engine codebase, LUA support</description>
-				</person>
-				<person>
-					<name>Einar Johan T. S&oslash;m&aring;en</name>
-					<alias>somaen</alias>
-					<description>Initial EMI support, various code fixes and improvements</description>
 				</person>
 				<person>
 					<name>Yaron Tausky</name>
@@ -110,7 +150,12 @@
 				<person>
 					<name>Joel Teichroeb </name>
 					<alias>klusark</alias>
-					<description>Initial EMI support, various code fixes</description>
+					<description>Initial EMI support, various code fixes and improvements</description>
+				</person>
+				<person>
+					<name>Julien Templier</name>
+					<alias>Littleboy</alias>
+					<description>create_project tool</description>
 				</person>
 				<person>
 					<name>Pino Toscano</name>
@@ -125,12 +170,17 @@
 				<person>
 					<name>Joni V&auml;h&auml;m&auml;ki</name>
 					<alias>Akz</alias>
-					<description>Various code fixes and improvements</description>
+					<description>A lot engine improvements and fixes</description>
 				</person>
 				<person>
 					<name>???</name>
-					<alias>vpelletier</alias>
-					<description>Various code fixes and improvements</description>
+					<alias>clone2727</alias>
+					<description>Some engine improvements, some work on EMI support</description>
+				</person>
+				<person>
+					<name>???</name>
+					<alias>JenniBee</alias>
+					<description>Compilation fixes</description>
 				</person>
 			</group>
 		</subsection>
