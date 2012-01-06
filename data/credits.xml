@@ -88,6 +88,11 @@
 					<description>Various compilation fixes</description>
 				</person>
 				<person>
+					<name>Matthew Hoops</name>
+					<alias>clone2727</alias>
+					<description>Some engine improvements, some work on EMI support</description>
+				</person>
+				<person>
 					<name>Erich Hoover</name>
 					<alias>Compholio</alias>
 					<description>x86-64 fixes, various code fixes and improvements</description>
@@ -171,11 +176,6 @@
 					<name>Joni V&auml;h&auml;m&auml;ki</name>
 					<alias>Akz</alias>
 					<description>A lot engine improvements and fixes</description>
-				</person>
-				<person>
-					<name>???</name>
-					<alias>clone2727</alias>
-					<description>Some engine improvements, some work on EMI support</description>
 				</person>
 				<person>
 					<name>???</name>
