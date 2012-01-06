@@ -35,21 +35,21 @@
 		<div class="rbtop">
 			<div>
 				<p>
-					{include file='shadowed_text.tpl' text='What Is Residual?' shadowcolor='#fff' textcolor='#356a02'}
+					{include file='shadowed_text.tpl' text='What Is ResidualVM?' shadowcolor='#fff' textcolor='#356a02'}
 				</p>
 			</div>
 		</div>
 		<div class="rbcontent">
 			<div class="rbwrapper">
 				<p>
-				Residual is a cross-platform 3D game interpreter which allows you to play LucasArts'
+				ResidualVM is a cross-platform 3D game interpreter which allows you to play LucasArts'
 				LUA-based 3D adventures: Grim Fandango and Escape from Monkey Island,
-				provided you already have their data files. Residual just replaces
+				provided you already have their data files. ResidualVM just replaces
 				the executables shipped with the games, allowing you to play them on systems for which they were never designed!
 				</p>
 				<p>
 				You can find a thorough list with details on which games are supported and how well on the
-				<a href="compatibility.php">compatibility page</a>. Residual is continually improving, so check back often.
+				<a href="compatibility.php">compatibility page</a>. ResidualVM is continually improving, so check back often.
 				</p>
 				<p>
 					Our forum and IRC channel, <a href="irc://irc.freenode.net/residual">#residual on

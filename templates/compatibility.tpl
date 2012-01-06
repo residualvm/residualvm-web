@@ -1,7 +1,7 @@
 <div class="box">
 	<div class="intro">
 		<p>
-			This page lists the progress of Residual as it relates to individual game compatibility.
+			This page lists the progress of ResidualVM as it relates to individual game compatibility.
 			Please note this list applies to the English versions of games. We attempt to test many versions of games, however there are occasionally problems with other languages.
 		</p>
 		<p>

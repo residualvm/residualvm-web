@@ -1,5 +1,5 @@
 <div class="box">
-	<div class="head">Residual press coverage</div>
+	<div class="head">ResidualVM press coverage</div>
 	<div class="content">
 		<small>(If you wish to contact us in regards to media articles, please e-mail aquadran (@) scummvm.org)</small>
 		{foreach from=$articles item=article}

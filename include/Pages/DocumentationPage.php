@@ -19,7 +19,7 @@ class DocumentationPage extends Controller {
 		return $this->renderPage(
 			array(
 				'title' => 'Documentation',
-				'content_title' => 'Residual Documentation',
+				'content_title' => 'ResidualVM Documentation',
 				'documents' => $documents,
 			),
 			$this->_template

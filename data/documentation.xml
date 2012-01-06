@@ -3,11 +3,11 @@
 	<document>
 		<name>Game data files</name>
 		<url>http://apps.sourceforge.net/mediawiki/residual/index.php?title=Datafiles</url>
-		<description>This page lists games which files exactly are needed by Residual in order to play that game.</description>
+		<description>This page lists games which files exactly are needed by ResidualVM in order to play that game.</description>
 	</document>
 	<document>
-		<name>Residual current areas of focus</name>
+		<name>ResidualVM current areas of focus</name>
 		<url>http://apps.sourceforge.net/mediawiki/residual/index.php?title=TODO</url>
-		<description>This page is the current TODO list for Residual.</description>
+		<description>This page is the current TODO list for ResidualVM.</description>
 	</document>
 </documentation>

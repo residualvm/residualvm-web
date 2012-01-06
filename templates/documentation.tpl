@@ -4,7 +4,7 @@
 	</div>
 	<div class="content">
 		<!-- Ohloh badge with project metrics -->
-		<script type="text/javascript" src="http://www.ohloh.net/p/residual;badge_js"></script>
+		<script type="text/javascript" src="http://www.ohloh.net/p/residualvm;badge_js"></script>
 		{foreach from=$documents item=document}
 		<p>
 			<a href="{eval var=$document->getURL()}">{eval var=$document->getName()}</a><br>

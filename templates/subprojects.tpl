@@ -1,8 +1,8 @@
 <div class="box">
 	<div class="intro">
 		<p>
-			The Residual team occasionally works on various subprojects, separate from
-			the main Residual program. These projects are generally reasonably stagnant
+			The ResidualVM team occasionally works on various subprojects, separate from
+			the main ResidualVM program. These projects are generally reasonably stagnant
 			and not given a high priority. Regardless, this page is here to inform you
 			of them, in the vague hope of attracting more developers to help maintain
 			these side-programs.

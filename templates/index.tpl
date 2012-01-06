@@ -19,8 +19,8 @@
 		@import url("css/ie6.css");
 	</style>
 	<![endif]-->
-	<link rel="alternate" type="application/atom+xml" title="Residual Atom news feed" href="{$baseurl}feeds/atom/">
-	<link rel="alternate" type="application/rss+xml" title="Residual RSS news feed" href="{$baseurl}feeds/rss/">
+	<link rel="alternate" type="application/atom+xml" title="ResidualVM Atom news feed" href="{$baseurl}feeds/atom/">
+	<link rel="alternate" type="application/rss+xml" title="ResidualVM RSS news feed" href="{$baseurl}feeds/rss/">
 	<title>ResidualVM :: {$title}</title>
 </head>
 <body>
@@ -28,7 +28,7 @@
 	{* Header. *}
 	<div id="header">
 		<a href="{$baseurl}">
-			<img src="images/residual_logo.jpg" width="287" height="118" alt="Residual logo" class="float_left">
+			<img src="images/residual_logo.jpg" width="287" height="118" alt="ResidualVM logo" class="float_left">
 		</a>
 
 		<span>
@@ -91,7 +91,7 @@
 
 	<div id="legal">
 		<p>
-			LucasArts, Monkey Island, Grim Fandango, and probably lots of other things are registered trademarks of <a href="http://www.lucasarts.com/">LucasArts, Inc.</a>. All other trademarks and registered trademarks are owned by their respective companies. Residual is not affiliated in any way with LucasArts, Inc.
+			LucasArts, Monkey Island, Grim Fandango, and probably lots of other things are registered trademarks of <a href="http://www.lucasarts.com/">LucasArts, Inc.</a>. All other trademarks and registered trademarks are owned by their respective companies. ResidualVM is not affiliated in any way with LucasArts, Inc.
 		</p>
 	</div>
 

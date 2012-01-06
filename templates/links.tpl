@@ -3,7 +3,7 @@
 		Links
 	</div>
 	<div class="intro">
-		<img src="images/residual-link.png" width="88" height="31" alt="Residual">
+		<img src="images/residual-link.png" width="88" height="31" alt="ResidualVM">
 		<b>Link to us:</b>
 		If you want to link your site to us: please feel free to use this image.
 	</div>

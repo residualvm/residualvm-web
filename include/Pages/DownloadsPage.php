@@ -20,7 +20,7 @@ class DownloadsPage extends Controller {
 		return $this->renderPage(
 			array(
 				'title' => 'Downloads',
-				'content_title' => 'Download Residual',
+				'content_title' => 'Download ResidualVM',
 				'downloads' => $downloads,
 				'sections' => $sections,
 				'release_tools' => RELEASE_TOOLS,

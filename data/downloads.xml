@@ -20,45 +20,45 @@
 			<entries>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
-					<url local_file="true">residual-win32.exe</url>
+					<url local_file="true">residualvm-win32.exe</url>
 					<name>Win32</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
-					<url local_file="true">residual_debian_i386.deb</url>
+					<url local_file="true">residualvm_debian_i386.deb</url>
 					<name>Debian i386</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
-					<url local_file="true">residual_debian_amd64.deb</url>
+					<url local_file="true">residualvm_debian_amd64.deb</url>
 					<name>Debian x86_64</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url local_file="true">residual_ubuntu_i386.deb</url>
+					<url local_file="true">residualvm_ubuntu_i386.deb</url>
 					<name>Ubuntu i386</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url local_file="true">residual_ubuntu_amd64.deb</url>
+					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
 					<name>Ubuntu x86_64</name>
 					<type>daily</type>
 				</file>
 <!--
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url local_file="true">residual_ubuntu_ppc.deb</url>
+					<url local_file="true">residualvm_ubuntu_ppc.deb</url>
 					<name>Ubuntu PowerPC/PS3</name>
 					<type>daily</type>
 				</file>
 -->
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url local_file="true">Residual-MacOSX-Intel.dmg</url>
+					<url local_file="true">Residualvm-MacOSX-Intel.dmg</url>
 					<name>Mac OS X Intel</name>
 					<type>daily</type>
 				</file>

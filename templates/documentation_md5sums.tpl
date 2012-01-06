@@ -12,7 +12,7 @@
 				the table. Email us at <i>residual-devel AT lists DOT sourceforge DOT net</i>.
 			</p>
 			<p>
-				Note: If a game appears here, this does <b>not</b> imply that it is officially supported by Residual or
+				Note: If a game appears here, this does <b>not</b> imply that it is officially supported by ResidualVM or
 				even playable. If you want to find out whether a game is supported, please consult the
 				<a href="compatibility/">compatibility page</a>.
 			</p>
