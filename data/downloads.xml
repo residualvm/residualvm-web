@@ -58,7 +58,7 @@
 -->
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url local_file="true">Residualvm-MacOSX-Intel.dmg</url>
+					<url local_file="true">ResidualVM-MacOSX-Intel.dmg</url>
 					<name>Mac OS X Intel</name>
 					<type>daily</type>
 				</file>
