@@ -2,7 +2,7 @@
 	<div class="intro">
 		<p>
 			<b>Please do not contact the team for questions about using ResidualVM. Instead use the
-			<a href="http://residual.scummvm.org">forums</a></b>
+			<a href="http://forums.residualvm.org">forums</a></b>
 		</p>
 	</div>
 
@@ -17,10 +17,10 @@
 	{include file='subhead.tpl' subhead='Forums'}
 	<div class="subhead-content">
 		<p>
-			We offer <a href="http://residual.scummvm.org">forum</a>.
+			We offer <a href="http://forums.residualvm.org">forum</a>.
 		</p>
 		<p>
-			<b>Don't forget to read <a href="http://residual.scummvm.org/viewtopic.php?t=2">Forum Rules</a> before your first post.</b>
+			<b>Don't forget to read <a href="http://forums.residualvm.org/viewtopic.php?t=2">Forum Rules</a> before your first post.</b>
 		</p>
 	</div>
 
