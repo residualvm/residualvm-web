@@ -38,18 +38,23 @@
 		</games>
 	</company>
 	<company>
-	<name>Presto Studios</name>
-	<games>
-		<game>
-			<name>Myst 3: Exile</name>
-			<target>myst3</target>
-			<percent>25</percent>
-			<notes>
-				Playable with minor glitches, although progressing is not possible yet.
-			</notes>
-		</game>
-	</games>
-	</company>
-	<company>
+		<name>Presto Studios</name>
+		<games>
+			<game>
+				<name>Myst 3 Exile</name>
+				<target>myst3</target>
+				<percent>25</percent>
+				<notes>
+					Playable with minor glitches, although progressing is not possible yet.
+				</notes>
+			</game>
+			<game>
+				<name>Journeyman Project 3</name>
+				<target>journeyman3</target>
+				<percent>1</percent>
+				<notes>
+					Not supported.
+				</notes>
+		</games>
 	</company>
 </compatibility>
