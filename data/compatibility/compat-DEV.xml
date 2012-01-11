@@ -38,5 +38,18 @@
 		</games>
 	</company>
 	<company>
+	<name>Presto Studios</name>
+	<games>
+		<game>
+			<name>Myst 3: Exile</name>
+			<target>myst3</target>
+			<percent>25</percent>
+			<notes>
+				Playable with minor glitches, although progressing is not possible yet.
+			</notes>
+		</game>
+	</games>
+	</company>
+	<company>
 	</company>
 </compatibility>
