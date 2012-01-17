@@ -6,12 +6,12 @@
 		<demos>
 			<demo>
 				<name>Grim Fandango</name>
-				<url>http://robertmegone.com/residual/demos/grim-win-demo-en.zip</url>
+				<url>http://demos.residualvm.org/grim-win-demo-en.zip</url>
 				<target>grimdemo</target>
 			</demo>
 			<demo>
 				<name>Escape From Monkey Island</name>
-				<url>http://robertmegone.com/residual/demos/emi-win-demo-en.zip</url>
+				<url>http://demos.residualvm.org/emi-win-demo-en.zip</url>
 				<target>monkeydemo</target>
 			</demo>
 		</demos>
