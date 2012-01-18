@@ -9,7 +9,7 @@
 	{include file='subhead.tpl' subhead='IRC channel'}
 	<div class="subhead-content">
 		<p>
-			The #residual IRC channel on <a href="http://freenode.net/irc_servers.shtml">irc.freenode.net</a> is also a good
+			The #residualvm IRC channel on <a href="http://freenode.net/irc_servers.shtml">irc.freenode.net</a> is also a good
 			place to ask questions. Many ResidualVM developers hang out there regularly, as well as many ResidualVM users.
 		</p>
 	</div>
