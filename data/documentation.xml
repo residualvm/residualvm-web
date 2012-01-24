@@ -2,12 +2,12 @@
 <documentation xmlns:h="http://www.w3.org/TR/html4/">
 	<document>
 		<name>Game data files</name>
-		<url>http://apps.sourceforge.net/mediawiki/residual/index.php?title=Datafiles</url>
+		<url>http://apps.sourceforge.net/mediawiki/residualvm/index.php?title=Datafiles</url>
 		<description>This page lists games which files exactly are needed by ResidualVM in order to play that game.</description>
 	</document>
 	<document>
 		<name>ResidualVM current areas of focus</name>
-		<url>http://apps.sourceforge.net/mediawiki/residual/index.php?title=TODO</url>
+		<url>http://apps.sourceforge.net/mediawiki/residualvm/index.php?title=TODO</url>
 		<description>This page is the current TODO list for ResidualVM.</description>
 	</document>
 </documentation>
