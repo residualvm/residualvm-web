@@ -62,6 +62,13 @@
 					<name>Mac OS X Intel</name>
 					<type>daily</type>
 				</file>
+				<file>
+					<category_icon>catpl-macos.png</category_icon>
+					<url local_file="true">ResidualVM-MacOSX-PowerPC.dmg</url>
+					<name>Mac OS X PowerPC</name>
+					<type>daily</type>
+				</file>
+
 			</entries>
 		</subsection>
 	</section>
