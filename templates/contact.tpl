@@ -2,7 +2,8 @@
 	<div class="intro">
 		<p>
 			<b>Please do not contact the team for questions about using ResidualVM. Instead use the
-			<a href="http://forums.residualvm.org">forums</a></b>
+			<a href="http://forums.residualvm.org">forums</a> or the
+			<a href="http://github.com/residualvm/residualvm/issues">bug reporting system</a>!</b></b>
 		</p>
 	</div>
 
@@ -27,7 +28,9 @@
 	{include file='subhead.tpl' subhead='Bug reports, feature requests, patches'}
 	<div class="subhead-content">
 		<p>
-			Don't report bugs. ResidualVM is early alpha and we KNOW it doesn't work right.
+			If you think you found a bug, take a look at our, take a look at our <a href="http://github.com/residualvm/residualvm/issues">bug reports</a>.
+			Maybe a similar bug has already been filed, in which case you can add a comment to that bug report. If not, you can submit a new
+			bug report.
 		</p>
 	</div>
 
@@ -35,7 +38,7 @@
 	<div class="subhead-content">
 		<p>
 			There are three ResidualVM related <a href="https://sourceforge.net/mail/?group_id=259881">mailing lists</a>.
-			Two of them are for automated content only. The one where you can send emails to yourself is residual-devel.
+			Two of them are for automated content only. The one where you can send emails to yourself is residualvm-devel.
 		</p>
 	</div>
 </div>
