@@ -23,7 +23,7 @@
 				<file>
 					<category_icon>cat-grim.png</category_icon>
 					<url>http://demos.residualvm.org/patches/gfupd101.exe</url>
-					<name>Grim Fandango Patch v1.1</name>
+					<name>Patch v1.1</name>
 					<extra_info>(2.2M)</extra_info>
 				</file>
 			</entries>
@@ -35,37 +35,37 @@
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate.exe</url>
-					<name>Escape from Monkey Island Patch (English)</name>
+					<name>Original Patch v1.1 (English)</name>
 					<extra_info>(1.1M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_BRZ.exe</url>
-					<name>Escape from Monkey Island Patch (Portuguese)</name>
+					<name>Original Patch v1.1 (Portuguese)</name>
 					<extra_info>(1.4M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_DEU.exe</url>
-					<name>Escape from Monkey Island Patch (German)</name>
+					<name>Original Patch v1.1 (German)</name>
 					<extra_info>(2.2M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_ESP.exe</url>
-					<name>Escape from Monkey Island Patch (Spanish)</name>
+					<name>Original Patch v1.1 (Spanish)</name>
 					<extra_info>(1.4M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_FRA.exe</url>
-					<name>Escape from Monkey Island Patch (French)</name>
+					<name>Original Patch v1.1 (French)</name>
 					<extra_info>(2.3M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_ITA.exe</url>
-					<name>Escape from Monkey Island Patch (Italian)</name>
+					<name>Original Patch v1.1 (Italian)</name>
 					<extra_info>(1.5M)</extra_info>
 				</file>
 			</entries>
