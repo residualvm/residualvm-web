@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <downloads xmlns:h="http://www.w3.org/TR/html4/">
 	<section>
+		<title>Extras downloads</title>
+		<anchor>extras</anchor>
+		<subsection>
+			<title>Grim Fandango</title>
+			<entries>
+				<file>
+					<category_icon>cat-grim.png</category_icon>
+					<url>http://demos.residualvm.org/patches/gfupd101.exe</url>
+					<name>Grim Fandango Patch v1.1</name>
+					<extra_info>(2.2M)</extra_info>
+				</file>
+			</entries>
+		</subsection>
+
+		<subsection>
+			<title>Escape from Monkey Island</title>
+			<entries>
+				<file>
+					<category_icon>cat-emi.png</category_icon>
+					<url>http://demos.residualvm.org/patches/MonkeyUpdate.exe</url>
+					<name>Escape from Monkey Island Patch (English)</name>
+					<extra_info>(1.1M)</extra_info>
+				</file>
+			</entries>
+			<entries>
+				<file>
+					<category_icon>cat-emi.png</category_icon>
+					<url>http://demos.residualvm.org/patches/MonkeyUpdate_BRZ.exe</url>
+					<name>Escape from Monkey Island Patch (Portuguese)</name>
+					<extra_info>(1.4M)</extra_info>
+				</file>
+			</entries>
+			<entries>
+				<file>
+					<category_icon>cat-emi.png</category_icon>
+					<url>http://demos.residualvm.org/patches/MonkeyUpdate_DEU.exe</url>
+					<name>Escape from Monkey Island Patch (German)</name>
+					<extra_info>(2.2M)</extra_info>
+				</file>
+			</entries>
+			<entries>
+				<file>
+					<category_icon>cat-emi.png</category_icon>
+					<url>http://demos.residualvm.org/patches/MonkeyUpdate_ESP.exe</url>
+					<name>Escape from Monkey Island Patch (Spanish)</name>
+					<extra_info>(1.4M)</extra_info>
+				</file>
+			</entries>
+			<entries>
+				<file>
+					<category_icon>cat-emi.png</category_icon>
+					<url>http://demos.residualvm.org/patches/MonkeyUpdate_FRA.exe</url>
+					<name>Escape from Monkey Island Patch (French)</name>
+					<extra_info>(2.3M)</extra_info>
+				</file>
+			</entries>
+			<entries>
+				<file>
+					<category_icon>cat-emi.png</category_icon>
+					<url>http://demos.residualvm.org/patches/MonkeyUpdate_ITA.exe</url>
+					<name>Escape from Monkey Island Patch (Italian)</name>
+					<extra_info>(1.5M)</extra_info>
+				</file>
+			</entries>
+		</subsection>
+
 		<title>Daily Builds</title>
 		<subsection>
 			<anchor>daily</anchor>
@@ -48,14 +114,6 @@
 					<name>Ubuntu x86_64</name>
 					<type>daily</type>
 				</file>
-<!--
-				<file>
-					<category_icon>catpl-ubuntu.png</category_icon>
-					<url local_file="true">residualvm_ubuntu_ppc.deb</url>
-					<name>Ubuntu PowerPC/PS3</name>
-					<type>daily</type>
-				</file>
--->
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">ResidualVM-MacOSX-Intel.dmg</url>
@@ -102,6 +160,16 @@
 					<name>FLAC</name>
 					<url>http://flac.sourceforge.net/</url>
 					<description>: Free Lossless Audio Codec</description>
+				</link>
+				<link>
+					<name>libmpeg2dec</name>
+					<url>http://libmpeg2.sourceforge.net//</url>
+					<description>: MPEG-2 video stream decoder</description>
+				</link>
+				<link>
+					<name>zlib</name>
+					<url>http://zlib.net//</url>
+					<description>: Data Compression</description>
 				</link>
 			</entries>
 		</subsection>
