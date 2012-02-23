@@ -2,17 +2,21 @@
 <downloads xmlns:h="http://www.w3.org/TR/html4/">
 	<section>
 		<title>
-			No release downloads for ResidualVM yet.
+			Downloads for ResidualVM
 		</title>
 		<subsection>
 		<title>Release binaries</title>
 		<anchor>stable</anchor>
+		<notes>
+			No release binaries yet.
+		</notes>
 		</subsection>
 	</section>
 
 	<section>
 		<title>Extras downloads</title>
 		<anchor>extras</anchor>
+
 		<subsection>
 			<title>Grim Fandango</title>
 			<entries>
@@ -34,40 +38,30 @@
 					<name>Escape from Monkey Island Patch (English)</name>
 					<extra_info>(1.1M)</extra_info>
 				</file>
-			</entries>
-			<entries>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_BRZ.exe</url>
 					<name>Escape from Monkey Island Patch (Portuguese)</name>
 					<extra_info>(1.4M)</extra_info>
 				</file>
-			</entries>
-			<entries>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_DEU.exe</url>
 					<name>Escape from Monkey Island Patch (German)</name>
 					<extra_info>(2.2M)</extra_info>
 				</file>
-			</entries>
-			<entries>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_ESP.exe</url>
 					<name>Escape from Monkey Island Patch (Spanish)</name>
 					<extra_info>(1.4M)</extra_info>
 				</file>
-			</entries>
-			<entries>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_FRA.exe</url>
 					<name>Escape from Monkey Island Patch (French)</name>
 					<extra_info>(2.3M)</extra_info>
 				</file>
-			</entries>
-			<entries>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_ITA.exe</url>
