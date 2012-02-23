@@ -70,7 +70,9 @@
 				</file>
 			</entries>
 		</subsection>
+	</section>
 
+	<section>
 		<title>Daily Builds</title>
 		<subsection>
 			<anchor>daily</anchor>
@@ -134,6 +136,7 @@
 			</entries>
 		</subsection>
 	</section>
+
 	<section>
 		<title>Libraries</title>
 		<anchor>libs</anchor>
