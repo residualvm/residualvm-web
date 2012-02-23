@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <downloads xmlns:h="http://www.w3.org/TR/html4/">
 	<section>
+		<title>
+			No release downloads for ResidualVM yet.
+		</title>
+		<subsection>
+		<title>Release binaries</title>
+		<anchor>stable</anchor>
+		</subsection>
+	</section>
+
+	<section>
 		<title>Extras downloads</title>
 		<anchor>extras</anchor>
 		<subsection>
