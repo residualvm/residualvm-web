@@ -9,47 +9,99 @@
 			<category>grim</category>
 			<image>
 				<file>lec/grim/grim_0</file>
-				<caption>Grim Fandango</caption>
+				<caption>Manny's office</caption>
 			</image>
 			<image>
 				<file>lec/grim/grim_1</file>
-				<caption>Grim Fandango</caption>
+				<caption>Splash screen</caption>
 			</image>
 			<image>
 				<file>lec/grim/grim_2</file>
-				<caption>Grim Fandango</caption>
+				<caption>Intro</caption>
 			</image>
 			<image>
 				<file>lec/grim/grim_3</file>
-				<caption>Grim Fandango</caption>
+				<caption>Neckties rope</caption>
 			</image>
 			<image>
 				<file>lec/grim/grim_4</file>
-				<caption>Grim Fandango</caption>
+				<caption>Glottis</caption>
 			</image>
 			<image>
 				<file>lec/grim/grim_5</file>
-				<caption>Grim Fandango</caption>
+				<caption>It's my boss' secretary, Eva</caption>
 			</image>
 			<image>
 				<file>lec/grim/grim_6</file>
-				<caption>Grim Fandango</caption>
+				<caption>The day of the dead</caption>
 			</image>
 			<image>
 				<file>lec/grim/grim_7</file>
-				<caption>Grim Fandango</caption>
+				<caption>Pan de Muertos</caption>
 			</image>
 			<image>
 				<file>lec/grim/grim_8</file>
-				<caption>Grim Fandango</caption>
+				<caption>Cheating boss</caption>
 			</image>
 			<image>
 				<file>lec/grim/grim_9</file>
-				<caption>Grim Fandango</caption>
+				<caption>My scythe - I like to keep it next to where my heart used to be</caption>
 			</image>
 			<image>
 				<file>lec/grim/grim_10</file>
-				<caption>Grim Fandango</caption>
+				<caption>Don Copal's office</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_11</file>
+				<caption>The deamon beavers</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_12</file>
+				<caption>Rubacava</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_13</file>
+				<caption>Ooooh, Ooooooh, Boooooone Waaaaaaaagon...</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_14</file>
+				<caption>Calavera Cafe</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_15</file>
+				<caption>The zeppelin</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_16</file>
+				<caption>The darkest depths of the Sea of Lament</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_17</file>
+				<caption>The edge of the world</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_18</file>
+				<caption>9th Underworld Temple Gate</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_19</file>
+				<caption>The last stop...</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_20</file>
+				<caption>The Hell!</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_21</file>
+				<caption>Domino's bomb</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_22</file>
+				<caption>Hector's casino</caption>
+			</image>
+			<image>
+				<file>lec/grim/grim_23</file>
+				<caption>The Double-N tickets</caption>
 			</image>
 		</game>
 	</group>
