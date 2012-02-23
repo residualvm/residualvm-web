@@ -19,7 +19,7 @@
 			<title>Escape from Monkey Island</title>
 			<entries>
 				<file>
-					<category_icon>cat-emi.png</category_icon>
+					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate.exe</url>
 					<name>Escape from Monkey Island Patch (English)</name>
 					<extra_info>(1.1M)</extra_info>
@@ -27,7 +27,7 @@
 			</entries>
 			<entries>
 				<file>
-					<category_icon>cat-emi.png</category_icon>
+					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_BRZ.exe</url>
 					<name>Escape from Monkey Island Patch (Portuguese)</name>
 					<extra_info>(1.4M)</extra_info>
@@ -35,7 +35,7 @@
 			</entries>
 			<entries>
 				<file>
-					<category_icon>cat-emi.png</category_icon>
+					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_DEU.exe</url>
 					<name>Escape from Monkey Island Patch (German)</name>
 					<extra_info>(2.2M)</extra_info>
@@ -43,7 +43,7 @@
 			</entries>
 			<entries>
 				<file>
-					<category_icon>cat-emi.png</category_icon>
+					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_ESP.exe</url>
 					<name>Escape from Monkey Island Patch (Spanish)</name>
 					<extra_info>(1.4M)</extra_info>
@@ -51,7 +51,7 @@
 			</entries>
 			<entries>
 				<file>
-					<category_icon>cat-emi.png</category_icon>
+					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_FRA.exe</url>
 					<name>Escape from Monkey Island Patch (French)</name>
 					<extra_info>(2.3M)</extra_info>
@@ -59,7 +59,7 @@
 			</entries>
 			<entries>
 				<file>
-					<category_icon>cat-emi.png</category_icon>
+					<category_icon>cat-monkey.png</category_icon>
 					<url>http://demos.residualvm.org/patches/MonkeyUpdate_ITA.exe</url>
 					<name>Escape from Monkey Island Patch (Italian)</name>
 					<extra_info>(1.5M)</extra_info>
