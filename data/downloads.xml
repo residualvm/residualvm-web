@@ -5,11 +5,11 @@
 			Downloads for ResidualVM
 		</title>
 		<subsection>
-		<title>Release binaries</title>
-		<anchor>stable</anchor>
-		<notes>
-			No release binaries yet.
-		</notes>
+			<title>Release binaries</title>
+			<anchor>stable</anchor>
+			<notes>
+				No release binaries yet.
+			</notes>
 		</subsection>
 	</section>
 
@@ -74,8 +74,10 @@
 
 	<section>
 		<title>Daily Builds</title>
+		<anchor>daily</anchor>
+
 		<subsection>
-			<anchor>pre-release 0.1.0</anchor>
+			<title>pre-release 0.1.0</title>
 			<notes>
 				<h:p>
 					The following builds are only for testing Grim Fandango game.
@@ -92,8 +94,10 @@
 					<type>daily</type>
 				</file>
 			</entries>
+		</subsection>
 
-			<anchor>unstable</anchor>
+		<subsection>
+			<title>unstable</title>
 			<notes>
 				<h:p>
 					<h:b>WARNING:</h:b> The following builds are bleeding edge development
