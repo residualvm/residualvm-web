@@ -75,7 +75,25 @@
 	<section>
 		<title>Daily Builds</title>
 		<subsection>
-			<anchor>daily</anchor>
+			<anchor>pre-release 0.1.0</anchor>
+			<notes>
+				<h:p>
+					The following builds are only for testing Grim Fandango game.
+				</h:p>
+				<h:p>
+					Snapshot builds:
+				</h:p>
+			</notes>
+			<entries>
+				<file>
+					<category_icon>catpl-windows.png</category_icon>
+					<url local_file="true">residualvm_0.1.0pre-win32.exe</url>
+					<name>Win32</name>
+					<type>daily</type>
+				</file>
+			</entries>
+
+			<anchor>unstable</anchor>
 			<notes>
 				<h:p>
 					<h:b>WARNING:</h:b> The following builds are bleeding edge development
@@ -84,9 +102,9 @@
 					all) and that any number of things may be broken in the them. For
 					example, they might corrupt your config file, crash frequently or
 					might not even start. Use them at your own risk!
-    			</h:p>
+				</h:p>
 				<h:p>
-				  Snapshot builds:
+					Snapshot builds:
 				</h:p>
 			</notes>
 			<entries>
