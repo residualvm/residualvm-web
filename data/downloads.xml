@@ -89,14 +89,14 @@
 			<entries>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
-					<url local_file="true">residualvm_0.1.0pre-win32.exe</url>
+					<url local_file="true">residualvm-0.1.0pre-win32.exe</url>
 					<name>Win32</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url local_file="true">ResidualVM_0.1.0pre-MacOSX-Intel64.dmg</url>
-					<name>Mac OS X Intel 10.6+</name>
+					<url local_file="true">residualvm-0.1.0pre-macosx-intel64.dmg</url>
+					<name>Mac OS X Intel64 10.6+</name>
 					<type>daily</type>
 				</file>
 			</entries>
@@ -150,13 +150,13 @@
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url local_file="true">ResidualVM-MacOSX-Intel.dmg</url>
+					<url local_file="true">residualvm-macosx-intel.dmg</url>
 					<name>Mac OS X Intel</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url local_file="true">ResidualVM-MacOSX-PowerPC.dmg</url>
+					<url local_file="true">residualvm-macosx-powerpc.dmg</url>
 					<name>Mac OS X PowerPC</name>
 					<type>daily</type>
 				</file>
