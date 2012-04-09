@@ -105,6 +105,12 @@
 					<name>Mac OS X PowerPC 10.4+</name>
 					<type>daily</type>
 				</file>
+				<file>
+					<category_icon>catpl-amiga.png</category_icon>
+					<url local_file="true">residualvm-0.1.0pre-amigaos4.lha</url>
+					<name>AmigaOS 4</name>
+					<type>daily</type>
+				</file>
 			</entries>
 		</subsection>
 
@@ -166,7 +172,12 @@
 					<name>Mac OS X PowerPC 10.4+</name>
 					<type>daily</type>
 				</file>
-
+				<file>
+					<category_icon>catpl-amiga.png</category_icon>
+					<url local_file="true">residualvm-amigaos4.lha</url>
+					<name>AmigaOS 4</name>
+					<type>daily</type>
+				</file>
 			</entries>
 		</subsection>
 	</section>
