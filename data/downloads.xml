@@ -90,25 +90,49 @@
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
 					<url local_file="true">residualvm-0.1.0pre-win32.exe</url>
-					<name>Win32</name>
+					<name>Windows Installer</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url local_file="true">residualvm_0.1.0pre-squeeze.1_i386.deb</url>
+					<name>Debian 6.0 (squeeze) i386 package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url local_file="true">residualvm_0.1.0pre-squeeze.1_amd64.deb</url>
+					<name>Debian 6.0 (squeeze) x86 64bit package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url local_file="true">residualvm_0.1.0pre-oneiric.1_i386.deb</url>
+					<name>Ubuntu 11.10 (oneiric) i386 package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url local_file="true">residualvm_0.1.0pre-oneiric.1_amd64.deb</url>
+					<name>Ubuntu 11.10 (oneiric) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-0.1.0pre-macosx-intel.dmg</url>
-					<name>Mac OS X Intel 10.4+</name>
+					<name>MacOS X 10.4+ Intel Disk Image</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-0.1.0pre-macosx-powerpc.dmg</url>
-					<name>Mac OS X PowerPC 10.4+</name>
+					<name>MacOS X 10.4+ PowerPC Disk Image</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
 					<url local_file="true">residualvm-0.1.0pre-amigaos4.lha</url>
-					<name>AmigaOS 4</name>
+					<name>AmigaOS 4 package</name>
 					<type>daily</type>
 				</file>
 			</entries>
@@ -133,49 +157,49 @@
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
 					<url local_file="true">residualvm-win32.exe</url>
-					<name>Win32</name>
+					<name>Windows Installer</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_i386.deb</url>
-					<name>Debian i386</name>
+					<name>Debian 6.0 (squeeze) i386 package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_amd64.deb</url>
-					<name>Debian x86_64</name>
+					<name>Debian 6.0 (squeeze) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_i386.deb</url>
-					<name>Ubuntu i386</name>
+					<name>Ubuntu 11.10 (oneiric) i386 package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
-					<name>Ubuntu x86_64</name>
+					<name>Ubuntu 11.10 (oneiric) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-macosx-intel.dmg</url>
-					<name>Mac OS X Intel 10.4+</name>
+					<name>MacOS X 10.4+ Intel Disk Image</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-macosx-powerpc.dmg</url>
-					<name>Mac OS X PowerPC 10.4+</name>
+					<name>MacOS X 10.4+ PowerPC Disk Image</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
 					<url local_file="true">residualvm-amigaos4.lha</url>
-					<name>AmigaOS 4</name>
+					<name>AmigaOS 4 package</name>
 					<type>daily</type>
 				</file>
 			</entries>
