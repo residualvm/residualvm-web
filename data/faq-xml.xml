@@ -199,6 +199,15 @@
     </entry>
     <entry>
       <href/>
+      <question>ResidualVM runs in fullscreen mode, but graphics is stretched!</question>
+      <answer>
+		<simpara>
+		It's know issue, it will be fixed in future versions of ResidualVM.
+		</simpara>
+	</answer>
+    </entry>
+    <entry>
+      <href/>
       <question>How do I set an environment variable?</question>
       <answer>
 		<simpara>
