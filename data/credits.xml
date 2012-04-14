@@ -36,7 +36,12 @@
 				<person>
 					<name>Einar Johan T. S&oslash;m&aring;en</name>
 					<alias>somaen</alias>
-					<description>Initial EMI support, various code fixes and improvements</description>
+					<description>EMI support, various code fixes and improvements</description>
+				</person>
+				<person>
+					<name>Joel Teichroeb </name>
+					<alias>klusark</alias>
+					<description>EMI support, various engine fixes and improvements</description>
 				</person>
 			</group>
 			<group>
@@ -53,6 +58,11 @@
 		<paragraph>If you have contributed to this engine then you deserve to be on this list. Contact us and we'll add you.</paragraph>
 			<group>
 				<name>Grim</name>
+				<person>
+					<name>Thomas Allen</name>
+					<alias>olldray</alias>
+					<description>Various engine code fixes and improvements</description>
+				</person>
 				<person>
 					<name>Torbj&ouml;rn Andersson</name>
 					<alias>eriktorbjorn</alias>
@@ -167,11 +177,6 @@
 					<name>Yaron Tausky</name>
 					<alias>yaront</alias>
 					<description>Fixes to subtitles</description>
-				</person>
-				<person>
-					<name>Joel Teichroeb </name>
-					<alias>klusark</alias>
-					<description>Initial EMI support, various engine fixes and improvements</description>
 				</person>
 				<person>
 					<name>Julien Templier</name>
