@@ -43,7 +43,7 @@
 				{include file='menu_group.tpl' menu=$menu}
 			{/foreach}
 			<div id="menu_banners">
-				<a href="http://www.facebook.com/pages/ResidualVM">
+				<a href="http://www.facebook.com/ResidualVM">
 					<img src="images/facebook.png" width="88" height="32" alt="Join us on Facebook">
 				</a>
 				<br>
