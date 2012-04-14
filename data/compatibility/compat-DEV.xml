@@ -6,15 +6,15 @@
 			<game>
 				<name>Grim Fandango</name>
 				<target>grim</target>
-				<percent>70</percent>
+				<percent>80</percent>
 				<notes>
-					Game is completable with a few minor glitches.
+					Game is finishable with a few minor glitches.
 				</notes>
 			</game>
 			<game>
 				<name>Grim Fandango Demo</name>
 				<target>grimdemo</target>
-				<percent>70</percent>
+				<percent>80</percent>
 				<notes>
 					Demo is finishable with a few glitches.
 				</notes>
@@ -22,17 +22,17 @@
 			<game>
 				<name>Escape from Monkey Island</name>
 				<target>monkey</target>
-				<percent>1</percent>
+				<percent>5</percent>
 				<notes>
-					Not supported.
+					Not supported. Play only intro.
 				</notes>
 			</game>
 			<game>
 				<name>Escape from Monkey Island Demo</name>
 				<target>monkeydemo</target>
-				<percent>1</percent>
+				<percent>5</percent>
 				<notes>
-					Not supported.
+					Not supported. Play only intro.
 				</notes>
 			</game>
 		</games>
