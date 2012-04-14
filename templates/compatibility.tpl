@@ -9,7 +9,14 @@
 		</p>
 		{if $version == 'DEV'}
 			<p>
-				This is the compatibility of the current WIP Git version, <b>not of a stable release</b>.
+				This is the compatibility of the current development version, <b>not of a stable release</b>
+				(Please see one of the following for the Compatibility charts of the stable releases:
+				{foreach from=$versions item=ver name=versions_loop}
+					{if $smarty.foreach.versions_loop.last}
+						{assign var='last' value=')'}
+					{/if}
+					<a href="compatibility/{$ver}/">{$ver}</a>{$last}
+				{/foreach}
 			</p>
 			<p>
 				As this is the status of the development version, occasional temporary bugs

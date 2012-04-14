@@ -42,6 +42,16 @@
 			{foreach from=$menus item=menu}
 				{include file='menu_group.tpl' menu=$menu}
 			{/foreach}
+			<div id="menu_banners">
+				<a href="http://www.facebook.com/pages/ResidualVM">
+					<img src="images/facebook.png" width="88" height="32" alt="Join us on Facebook">
+				</a>
+				<br>
+				<a href="http://www.twitter.com/ResidualVM">
+					<img src="images/twitter.png" width="88" height="32" alt="Follow us on Twitter">
+				</a>
+				<br>
+			</div>
 		</div>
 
 		{* Content *}
@@ -99,7 +109,7 @@
 	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 	<script type="text/javascript">
 		_uacct = "UA-29425847-1";
-		_udn = "resiudalvm.org";
+		_udn = "residualvm.org";
 		urchinTracker();
 	</script>
 {* End Google analytics javascript. *}
