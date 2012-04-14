@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <documentation xmlns:h="http://www.w3.org/TR/html4/">
 	<document>
+		<name>README</name>
+		<url>http://github.com/residualvm/residualvm/raw/master/README</url>
+		<description>The ResidualVM README</description>
+	</document>
 		<name>Game data files</name>
 		<url>http://wiki.residualvm.org/index.php?title=Datafiles</url>
 		<description>This page lists games which files exactly are needed by ResidualVM in order to play that game.</description>
 	</document>
 	<document>
-		<name>ResidualVM current areas of focus</name>
-		<url>http://wiki.residualvm.org/index.php?title=TODO</url>
-		<description>This page is the current TODO list for ResidualVM.</description>
+		<name>Source code documentation</name>
+		<url>http://doxygen.residualvm.org</url>
+		<description>Cross referenced source code documentation for ResidualVM, generated using <h:a href="http://www.doxygen.org">Doxygen</h:a></description>
 	</document>
 </documentation>
