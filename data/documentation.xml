@@ -5,6 +5,7 @@
 		<url>http://github.com/residualvm/residualvm/raw/master/README</url>
 		<description>The ResidualVM README</description>
 	</document>
+	</document>
 		<name>Game data files</name>
 		<url>http://wiki.residualvm.org/index.php?title=Datafiles</url>
 		<description>This page lists games which files exactly are needed by ResidualVM in order to play that game.</description>
