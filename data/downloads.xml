@@ -96,7 +96,7 @@
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_0.1.0pre-squeeze.1_i386.deb</url>
-					<name>Debian 6.0 (squeeze) i386 package</name>
+					<name>Debian 6.0 (squeeze) i386 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
@@ -108,13 +108,25 @@
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_0.1.0pre-oneiric.1_i386.deb</url>
-					<name>Ubuntu 11.10 (oneiric) i386 package</name>
+					<name>Ubuntu 11.10 (oneiric) i386 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
-					<category_icon>catpl-ubuntu.png</category_icon>
+					<category_icon>catpl-fedora.png</category_icon>
 					<url local_file="true">residualvm_0.1.0pre-oneiric.1_amd64.deb</url>
 					<name>Ubuntu 11.10 (oneiric) x86 64bit package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-fedora.png</category_icon>
+					<url local_file="true">residualvm-f16-0.1.0pre-1.i686.rpm</url>
+					<name>Fedora 16 i686 32-bit package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-fedora.png</category_icon>
+					<url local_file="true">residualvm-f16-0.1.0pre-1.x86_64.rpm</url>
+					<name>Fedora 16 x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
@@ -182,6 +194,18 @@
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
 					<name>Ubuntu 11.10 (oneiric) x86 64bit package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-fedora.png</category_icon>
+					<url local_file="true">residualvm-f16.i686.rpm</url>
+					<name>Fedora 16 i686 32-bit package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-fedora.png</category_icon>
+					<url local_file="true">residualvm-f16.x86_64.rpm</url>
+					<name>Fedora 16 x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
