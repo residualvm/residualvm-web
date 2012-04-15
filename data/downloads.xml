@@ -112,7 +112,7 @@
 					<type>daily</type>
 				</file>
 				<file>
-					<category_icon>catpl-fedora.png</category_icon>
+					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_0.1.0pre-oneiric.1_amd64.deb</url>
 					<name>Ubuntu 11.10 (oneiric) x86 64bit package</name>
 					<type>daily</type>
