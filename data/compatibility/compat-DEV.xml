@@ -48,14 +48,6 @@
 					Playable with minor glitches, although progressing is not possible yet.
 				</notes>
 			</game>
-			<game>
-				<name>Journeyman Project 3</name>
-				<target>journeyman3</target>
-				<percent>1</percent>
-				<notes>
-					Not supported.
-				</notes>
-			</game>
 		</games>
 	</company>
 </compatibility>
