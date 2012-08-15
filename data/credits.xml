@@ -76,7 +76,7 @@
 				<person>
 					<name>Robert Biro</name>
 					<alias>DarthJDG</alias>
-					<description>Fixes to antiliasing</description>
+					<description>Antialiasing support</description>
 				</person>
 				<person>
 					<name>Bastien Bouclet</name>
@@ -196,7 +196,7 @@
 				<person>
 					<name>Joni V&auml;h&auml;m&auml;ki</name>
 					<alias>Akz</alias>
-					<description>A lot engine improvements and fixes</description>
+					<description>A lot of engine improvements and fixes</description>
 				</person>
 				<person>
 					<name>???</name>
@@ -216,7 +216,7 @@
 	</section>
 	<section>
 		<title>ScummVM code</title>
-		<paragraph>ResidualVM use a lot of ScummVM code. For a list of authors look into COPYRIGHT file. </paragraph>
+		<paragraph>ResidualVM uses a lot of ScummVM code. For a list of authors look into COPYRIGHT file. </paragraph>
 	</section>
 	<section>
 		<title>Website code</title>
