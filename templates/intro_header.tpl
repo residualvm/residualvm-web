@@ -43,7 +43,7 @@
 			<div class="rbwrapper">
 				<p>
 					ResidualVM is a cross-platform 3D game interpreter which allows you to play LucasArts'
-					LUA-based 3D adventures: Grim Fandango and Escape from Monkey Island,
+					Lua-based 3D adventures: Grim Fandango and Escape from Monkey Island,
 					provided you already have their data files. ResidualVM just replaces
 					the executables shipped with the games, allowing you to play them on systems for which they were never designed!
 				</p>
@@ -52,7 +52,7 @@
 					<a href="compatibility.php">compatibility page</a>. ResidualVM is continually improving, so check back often.
 				</p>
 				<p>
-					Our forum and IRC channel, <a href="irc://irc.freenode.net/residual"> #residualvm on
+					Our forum and IRC channel, <a href="irc://irc.freenode.net/residualvm"> #residualvm on
 					irc.freenode.net</a>, are open for comments and suggestions. Please read our
 					<a href="faq/">FAQ</a> before posting.
 				</p>
