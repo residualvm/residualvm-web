@@ -29,6 +29,11 @@
 					<description>Core developer</description>
 				</person>
 				<person>
+					<name>Dries Harnie</name>
+					<alias>Botje</alias>
+					<description>EMI support, various code fixes and improvements</description>
+				</person>
+				<person>
 					<name>Pawe&#322; Ko&#322;odziejski</name>
 					<alias>aquadran</alias>
 					<description>Core developer (suspended)</description>
@@ -99,6 +104,11 @@
 					<description>Various code fixes</description>
 				</person>
 				<person>
+					<name>Azamat H. Hackimov</name>
+					<alias>winterheart</alias>
+					<description>Configure fix</description>
+				</person>
+				<person>
 					<name>Vincent Hamm</name>
 					<alias>yazoo</alias>
 					<description>Various engine code fixes and improvements</description>
@@ -146,7 +156,7 @@
 				<person>
 					<name>George Macon</name>
 					<alias>gmacon</alias>
-					<description>Compilation fixes</description>
+					<description>Few fixes</description>
 				</person>
 				<person>
 					<name>Josh Matthews</name>
@@ -202,6 +212,11 @@
 					<name>???</name>
 					<alias>JenniBee</alias>
 					<description>Compilation fixes</description>
+				</person>
+				<person>
+					<name>???</name>
+					<alias>tobigun</alias>
+					<description>Initial Android port, few engines fixes</description>
 				</person>
 			</group>
 			<group>
