@@ -76,7 +76,7 @@
 		<title>Daily Builds</title>
 		<anchor>daily</anchor>
 
-		<subsection>
+<!--		<subsection>
 			<title>pre-release 0.1.0</title>
 			<notes>
 				<h:p>
@@ -148,7 +148,7 @@
 					<type>daily</type>
 				</file>
 			</entries>
-		</subsection>
+		</subsection> -->
 
 		<subsection>
 			<title>unstable</title>
