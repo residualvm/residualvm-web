@@ -4,12 +4,17 @@
 	<section>
 		<title>ResidualVM</title>
 		<subsection>
-			<title>Project Leader</title>
+			<title>Project Leaders</title>
 			<group>
 				<name></name>
 				<person>
 					<name>Pawe&#322; Ko&#322;odziejski</name>
 					<alias>aquadran</alias>
+					<description></description>
+				</person>
+				<person>
+					<name>Einar Johan T. S&oslash;m&aring;en</name>
+					<alias>somaen</alias>
 					<description></description>
 				</person>
 			</group>
