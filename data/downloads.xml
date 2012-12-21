@@ -4,8 +4,8 @@
 		<title>
 			Downloads for ResidualVM
 		</title>
+		<baseurl>http://prdownloads.sourceforge.net/residualvm/</baseurl>
 		<subsection>
-			<baseurl>http://prdownloads.sourceforge.net/residualvm/</baseurl>
 			<title>{$release} Release binaries</title>
 			<anchor>stable</anchor>
 			<notes>
@@ -81,7 +81,6 @@
 		</subsection>
 
 		<subsection>
-			<baseurl>http://prdownloads.sourceforge.net/residualvm/</baseurl>
 			<title>{$release} Source Code</title>
 			<anchor>source</anchor>
 			<entries>
