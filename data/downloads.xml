@@ -5,11 +5,105 @@
 			Downloads for ResidualVM
 		</title>
 		<subsection>
-			<title>Release binaries</title>
+			<baseurl>http://prdownloads.sourceforge.net/residualvm/</baseurl>
+			<title>{$release} Release binaries</title>
 			<anchor>stable</anchor>
 			<notes>
-				No release binaries yet.
 			</notes>
+			<entries>
+				<file>
+					<category_icon>catpl-windows.png</category_icon>
+					<url>residualvm-0.1.0-win32.exe</url>
+					<name>Windows Installer</name>
+					<extra_info>(1.7M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-windows.png</category_icon>
+					<url>residualvm-0.1.0-win32.zip</url>
+					<name>Windows zipfile</name>
+					<extra_info>(2.7M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url>residualvm_0.1.0-squeeze.1_i386.deb</url>
+					<name>Debian 6.0 (squeeze) i386 32bit package</name>
+					<extra_info>(1.6M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url>residualvm_0.1.0-squeeze.1_amd64.deb</url>
+					<name>Debian 6.0 (squeeze) x86 64bit package</name>
+					<extra_info>(1.7M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_0.1.0-quantal.1_i386.deb</url>
+					<name>Ubuntu 12.10 (quantal) i386 32bit package</name>
+					<extra_info>(1.7M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_0.1.0-quantal.1_amd64.deb</url>
+					<name>Ubuntu 12.10 (quantal) x86 64bit package</name>
+					<extra_info>(1.7M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-fedora.png</category_icon>
+					<url>residualvm-f16-0.1.0-1.i686.rpm</url>
+					<name>Fedora 16 i686 32-bit package</name>
+					<extra_info>(1.4M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-fedora.png</category_icon>
+					<url>residualvm-f16-0.1.0-1.x86_64.rpm</url>
+					<name>Fedora 16 x86 64bit package</name>
+					<extra_info>(1.4M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-macos.png</category_icon>
+					<url>residualvm-0.1.0-macosx-intel.dmg</url>
+					<name>MacOS X 10.4+ Intel Disk Image</name>
+					<extra_info>(2.2M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-macos.png</category_icon>
+					<url>residualvm-0.1.0-macosx-powerpc.dmg</url>
+					<name>MacOS X 10.4+ PowerPC Disk Image</name>
+					<extra_info>(2.2M)</extra_info>
+				</file>
+<!--				<file>
+					<category_icon>catpl-amiga.png</category_icon>
+					<url>residualvm-0.1.0-amigaos4.lha</url>
+					<name>AmigaOS 4 package</name>
+					<extra_info>(4.7M)</extra_info>
+				</file>-->
+			</entries>
+		</subsection>
+
+		<subsection>
+			<baseurl>http://prdownloads.sourceforge.net/residualvm/</baseurl>
+			<title>{$release} Source Code</title>
+			<anchor>source</anchor>
+			<entries>
+				<file>
+					<category_icon>catpl-cpp.png</category_icon>
+					<url>residualvm-{$release}-source.tar.bz2?download</url>
+					<name>ResidualVM - Source .tar.bz2</name>
+					<extra_info>(4.7M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-cpp.png</category_icon>
+					<url>residualvm-{$release}-source.tar.gz?download</url>
+					<name>ResidualVM - Source .tar.gz</name>
+					<extra_info>(5.0M)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-cpp.png</category_icon>
+					<url>residualvm-{$release}-source.zip?download</url>
+					<name>ResidualVM - Source .zip</name>
+					<extra_info>(5.7M)</extra_info>
+				</file>
+			</entries>
 		</subsection>
 	</section>
 
@@ -187,13 +281,13 @@
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_i386.deb</url>
-					<name>Ubuntu 11.10 (oneiric) i386 package</name>
+					<name>Ubuntu 12.10 (quantal) i386 package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
-					<name>Ubuntu 11.10 (oneiric) x86 64bit package</name>
+					<name>Ubuntu 12.10 (quantal) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
