@@ -1,0 +1,41 @@
+<NAME>The edge is here: ResidualVM 0.1.0 - The Edge of the World released</NAME>
+		<DATE>December 21st, 2012</DATE>
+		<AUTHOR>somaen</AUTHOR>
+		<BODY>
+				<p>
+					The day is finally upon us, after 9 years, 4 months and 6 days, we are proud to
+					announce the first stable release of ResidualVM, and what day would be better for this
+					occasion, than the end of the world as we know it. (or so the Mayan Mechanical Gremlins told us).
+				</p>
+				<p>
+					This initial stable release of ResidualVM now opens the world of Grim Fandango to
+					a modern audience, whether you are using Windows, Linux or OS X, you'll now be able
+					to take your 4 year journey of the soul, and find out if that compass in the handle
+					actually WILL come in handy.
+				</p>
+				<p>
+					We would like to note that, while we have tested ResidualVM quite thoroughly,
+					there MIGHT be cases where you end up in a situation where the game is incompletable,
+					some of these were actually also existent in the original game (while the game itself
+					is designed to be dead-end-free, the bugs in it weren't, nor were our own). So, please
+					follow the old adventure-game mantra of <i>"save early, save often".</i>
+				</p>
+				<p>
+					Over the past few years a lot has happened, even though the code base didn't reach
+					a mature state until the past year. Lots of bugs have been fixed, even quite a few
+					bugs left in the original game have been resolved. The team would like to thank all 
+					those that have been involved with getting ResidualVM to this point for their efforts.
+				</p>
+				<p>
+					Finally, we would like to thank:
+					<ul>
+					<li>The LUA developers, for creating a nice compact script interpreter.</li>
+					<li>Tim Schafer, for obvious reasons, and everybody else who helped make Grim Fandango a brilliant game; and the EMI team for giving it their best try.</li>
+					<li>Bret Mogilefsky, for managing to create a SPUTM-style 3D LUA engine, and avoiding the horrible hack it could have been.</li>
+					</ul>
+				</p>
+				<p>
+					So, jump on over to our <a href="http://residualvm.org/downloads/">downloads-page</a>, and grab a copy
+					of ResidualVM 0.1.0 (but don't forget to download the 1.1-patch for Grim Fandango while you're there).
+				</p>
+		</BODY>
