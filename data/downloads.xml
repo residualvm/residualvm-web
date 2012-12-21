@@ -86,20 +86,20 @@
 			<entries>
 				<file>
 					<category_icon>catpl-cpp.png</category_icon>
-					<url>residualvm-{$release}-source.tar.bz2?download</url>
-					<name>ResidualVM - Source .tar.bz2</name>
+					<url>residualvm-{$release}-sources.tar.bz2?download</url>
+					<name>ResidualVM - Sources .tar.bz2</name>
 					<extra_info>(4.7M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-cpp.png</category_icon>
-					<url>residualvm-{$release}-source.tar.gz?download</url>
-					<name>ResidualVM - Source .tar.gz</name>
+					<url>residualvm-{$release}-sources.tar.gz?download</url>
+					<name>ResidualVM - Sources .tar.gz</name>
 					<extra_info>(5.0M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-cpp.png</category_icon>
-					<url>residualvm-{$release}-source.zip?download</url>
-					<name>ResidualVM - Source .zip</name>
+					<url>residualvm-{$release}-sources.zip?download</url>
+					<name>ResidualVM - Sources .zip</name>
 					<extra_info>(5.7M)</extra_info>
 				</file>
 			</entries>
