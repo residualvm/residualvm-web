@@ -109,6 +109,11 @@
 					<description>Various code fixes</description>
 				</person>
 				<person>
+					<name>Tobias Gunkel</name>
+					<alias>tobigun</alias>
+					<description>Initial Android port, few engines fixes</description>
+				</person>
+				<person>
 					<name>Azamat H. Hackimov</name>
 					<alias>winterheart</alias>
 					<description>Configure fix</description>
@@ -217,11 +222,6 @@
 					<name>???</name>
 					<alias>JenniBee</alias>
 					<description>Compilation fixes</description>
-				</person>
-				<person>
-					<name>???</name>
-					<alias>tobigun</alias>
-					<description>Initial Android port, few engines fixes</description>
 				</person>
 			</group>
 			<group>
