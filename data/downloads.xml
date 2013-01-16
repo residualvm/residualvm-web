@@ -105,8 +105,8 @@
 				<file>
 					<category_icon>catpl-gentoo.png</category_icon>
 					<url>http://packages.gentoo.org/package/games-engines/residualvm</url>
-					<name>Gentoo</name>
-					<extra_info>Official package definition</extra_info>
+					<name>Gentoo package</name>
+					<extra_info>(Official package definition)</extra_info>
 				</file>
 			</entries>
 		</subsection>
@@ -328,8 +328,8 @@
 				<file>
 					<category_icon>catpl-gentoo.png</category_icon>
 					<url>http://github.com/hasufell/hasufell-overlay/tree/master/games-engines/residualvm</url>
-					<name>Gentoo</name>
-					<extra_info>Unofficial live-ebuild</extra_info>
+					<name>Gentoo package</name>
+					<extra_info>(Unofficial live-ebuild)</extra_info>
 				</file>
 			</entries>
 		</subsection>
