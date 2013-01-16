@@ -102,6 +102,12 @@
 					<name>ResidualVM - Sources .zip</name>
 					<extra_info>(5.7M)</extra_info>
 				</file>
+				<file>
+					<category_icon>catpl-gentoo.png</category_icon>
+					<url>http://packages.gentoo.org/package/games-engines/residualvm</url>
+					<name>Gentoo</name>
+					<extra_info>Official package definition</extra_info>
+				</file>
 			</entries>
 		</subsection>
 	</section>
@@ -318,6 +324,12 @@
 					<url local_file="true">residualvm-amigaos4.lha</url>
 					<name>AmigaOS 4 package</name>
 					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-gentoo.png</category_icon>
+					<url>http://github.com/hasufell/hasufell-overlay/tree/master/games-engines/residualvm</url>
+					<name>Gentoo</name>
+					<extra_info>Unofficial live-ebuild</extra_info>
 				</file>
 			</entries>
 		</subsection>
