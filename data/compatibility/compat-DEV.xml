@@ -6,7 +6,7 @@
 			<game>
 				<name>Grim Fandango</name>
 				<target>grim</target>
-				<percent>80</percent>
+				<percent>85</percent>
 				<notes>
 					Game is finishable with a few minor glitches.
 				</notes>
@@ -14,7 +14,7 @@
 			<game>
 				<name>Grim Fandango Demo</name>
 				<target>grimdemo</target>
-				<percent>80</percent>
+				<percent>85</percent>
 				<notes>
 					Demo is finishable with a few glitches.
 				</notes>
