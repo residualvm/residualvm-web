@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<compatibility xmlns:h="http://www.w3.org/TR/xhtml1/">
+	<company>
+		<name>LucasArts</name>
+		<games>
+			<game>
+				<name>Grim Fandango</name>
+				<target>grim</target>
+				<percent>85</percent>
+				<notes>
+					Game is finishable with a few minor glitches.
+				</notes>
+			</game>
+			<game>
+				<name>Grim Fandango Demo</name>
+				<target>grimdemo</target>
+				<percent>85</percent>
+				<notes>
+					Demo is finishable with a few glitches.
+				</notes>
+			</game>
+		</games>
+	</company>
+	<company>
+	</company>
+</compatibility>
