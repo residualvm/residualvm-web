@@ -13,61 +13,61 @@
 			<entries>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
-					<url>residualvm-0.1.0-win32.exe</url>
+					<url>residualvm-0.1.1-win32.exe</url>
 					<name>Windows Installer</name>
 					<extra_info>(1.7M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
-					<url>residualvm-0.1.0-win32.zip</url>
+					<url>residualvm-0.1.1-win32.zip</url>
 					<name>Windows zipfile</name>
 					<extra_info>(2.7M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
-					<url>residualvm_0.1.0-squeeze.1_i386.deb</url>
+					<url>residualvm_0.1.1-squeeze.1_i386.deb</url>
 					<name>Debian 6.0 (squeeze) i386 32bit package</name>
 					<extra_info>(1.6M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
-					<url>residualvm_0.1.0-squeeze.1_amd64.deb</url>
+					<url>residualvm_0.1.1-squeeze.1_amd64.deb</url>
 					<name>Debian 6.0 (squeeze) x86 64bit package</name>
 					<extra_info>(1.7M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url>residualvm_0.1.0-quantal.1_i386.deb</url>
+					<url>residualvm_0.1.1-quantal.1_i386.deb</url>
 					<name>Ubuntu 12.10 (quantal) i386 32bit package</name>
 					<extra_info>(1.7M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url>residualvm_0.1.0-quantal.1_amd64.deb</url>
+					<url>residualvm_0.1.1-quantal.1_amd64.deb</url>
 					<name>Ubuntu 12.10 (quantal) x86 64bit package</name>
 					<extra_info>(1.7M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-fedora.png</category_icon>
-					<url>residualvm-f16-0.1.0-1.i686.rpm</url>
+					<url>residualvm-f16-0.1.1-1.i686.rpm</url>
 					<name>Fedora 16 i686 32-bit package</name>
 					<extra_info>(1.4M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-fedora.png</category_icon>
-					<url>residualvm-f16-0.1.0-1.x86_64.rpm</url>
+					<url>residualvm-f16-0.1.1-1.x86_64.rpm</url>
 					<name>Fedora 16 x86 64bit package</name>
 					<extra_info>(1.4M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url>residualvm-0.1.0-macosx-intel.dmg</url>
+					<url>residualvm-0.1.1-macosx-intel.dmg</url>
 					<name>MacOS X 10.4+ Intel Disk Image</name>
 					<extra_info>(2.2M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url>residualvm-0.1.0-macosx-powerpc.dmg</url>
+					<url>residualvm-0.1.1-macosx-powerpc.dmg</url>
 					<name>MacOS X 10.4+ PowerPC Disk Image</name>
 					<extra_info>(2.2M)</extra_info>
 				</file>
