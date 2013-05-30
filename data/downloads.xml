@@ -274,27 +274,28 @@
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_i386.deb</url>
-					<name>Debian 6.0 (squeeze) i386 package</name>
+					<name>Debian 7.0 (wheezy) i386 package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_amd64.deb</url>
-					<name>Debian 6.0 (squeeze) x86 64bit package</name>
+					<name>Debian 7.0 (wheezy) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_i386.deb</url>
-					<name>Ubuntu 12.10 (quantal) i386 package</name>
+					<name>Ubuntu 13.04 (raring) i386 package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
-					<name>Ubuntu 12.10 (quantal) x86 64bit package</name>
+					<name>Ubuntu 13.04 (raring) x86 64bit package</name>
 					<type>daily</type>
 				</file>
+<!--
 				<file>
 					<category_icon>catpl-fedora.png</category_icon>
 					<url local_file="true">residualvm-f16.i686.rpm</url>
@@ -307,6 +308,7 @@
 					<name>Fedora 16 x86 64bit package</name>
 					<type>daily</type>
 				</file>
+-->
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-macosx-intel.dmg</url>
