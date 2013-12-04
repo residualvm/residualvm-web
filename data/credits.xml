@@ -159,6 +159,16 @@
 					<description>Compilation fixes</description>
 				</person>
 				<person>
+					<name>Christian Krause</name>
+					<alias>chkr</alias>
+					<description>Various fixes and improvements for EMI</description>
+				</person>
+				<person>
+					<name>Ingo van Lil</name>
+					<alias>inguin</alias>
+					<description>Various fixes and improvements for EMI</description>
+				</person>
+				<person>
 					<name>Joost Peters</name>
 					<alias>joostp</alias>
 					<description>Various code fixes</description>
@@ -194,6 +204,11 @@
 					<description>Initial engine codebase, LUA support</description>
 				</person>
 				<person>
+					<name>Dmitry Smirnov</name>
+					<alias>onlyjob</alias>
+					<description>Minor spelling corrections</description>
+				</person>
+				<person>
 					<name>Yaron Tausky</name>
 					<alias>yaront</alias>
 					<description>Fixes to subtitles</description>
@@ -222,6 +237,11 @@
 					<name>???</name>
 					<alias>JenniBee</alias>
 					<description>Compilation fixes</description>
+				</person>
+				<person>
+					<name>???</name>
+					<alias>karjonas</alias>
+					<description>Various engine code fixes</description>
 				</person>
 			</group>
 			<group>
