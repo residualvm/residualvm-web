@@ -44,6 +44,11 @@
 					<description>Core developer (suspended)</description>
 				</person>
 				<person>
+					<name>Christian Krause</name>
+					<alias>chkr</alias>
+					<description>>EMI support, various engine fixes and improvements</description>
+				</person>
+				<person>
 					<name>Einar Johan T. S&oslash;m&aring;en</name>
 					<alias>somaen</alias>
 					<description>EMI support, various code fixes and improvements</description>
@@ -157,11 +162,6 @@
 					<name>Filippos Karapetis</name>
 					<alias>bluegr</alias>
 					<description>Compilation fixes</description>
-				</person>
-				<person>
-					<name>Christian Krause</name>
-					<alias>chkr</alias>
-					<description>Various fixes and improvements for EMI</description>
 				</person>
 				<person>
 					<name>Ingo van Lil</name>
