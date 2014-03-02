@@ -22,15 +22,15 @@
 			<game>
 				<name>Escape from Monkey Island</name>
 				<target>monkey</target>
-				<percent>10</percent>
+				<percent>60</percent>
 				<notes>
-					Not supported. 1 act completable with major glitches.
+					Not supported. Almost completable with major glitches.
 				</notes>
 			</game>
 			<game>
 				<name>Escape from Monkey Island Demo</name>
 				<target>monkeydemo</target>
-				<percent>10</percent>
+				<percent>60</percent>
 				<notes>
 					Not supported. Almost completable with major glitches.
 				</notes>
