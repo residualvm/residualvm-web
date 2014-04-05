@@ -73,10 +73,11 @@ background: #ccc;
 	padding: 10px;
 	text-align: center;
 	width: 256px;
-	height: 238px;
+	height: 220px;
 }
 
 .screenshot .caption {
+	padding: 5px;
 	text-align: center;
 }
 
