@@ -28,6 +28,11 @@
 		<name>Other sites of interest</name>
 		<description>The following are links to sites that provide news and help on retro-gaming or are otherwise of interest.</description>
 		<link>
+			<name>ScummVM</name>
+			<url>http://www.scummvm.org/</url>
+			<description>ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games.</description>
+		</link>
+		<link>
 			<name>VOGONS :: Very Old Games On New Systems</name>
 			<url>http://vogons.zetafleet.com/</url>
 			<description>VOGONS is a large forum site, offering supports and tips for people who need help running older classic games on their modern computers and operating systems. If you want to play a game that ResidualVM doesn't support, this is the place to ask for help!</description>
@@ -36,6 +41,16 @@
 			<name>MixNMojo :: The Purple LucasArts Fan Site</name>
 			<url>http://www.mixnmojo.com/</url>
 			<description>MixNmojo is one of the longest running, and definitely largest, LucasArts sites out there. If your looking for information, hints, news... or even just a place to hang... with hosted and partnered sites catering for everything, the International House of Mojo should be your very first stop.</description>
+		</link>
+		<link>
+			<name>DoubleFine :: Where taking over the word is a news scripts job</name>
+			<url>http://www.doublefine.com/news.htm</url>
+			<description>DoubleFine is the company of the lovable Tim Schafer, the genius behind some of the best of the worst gags and games in LucasArts history. Go buy Psychonauts, their new game. Because if you don't, the rats will get you and eat your family, computer and house. And poop everywhere.</description>
+		</link>
+		<link>
+			<name>Grumpy Gamer</name>
+			<url>http://grumpygamer.com/</url>
+			<description>The personal blog of Ron Gilbert, the man behind many great LucasArts adventures, like Maniac Mansion and Monkey Island.</description>
 		</link>
 	</group>
 </external_links>

@@ -117,6 +117,16 @@
 		<anchor>extras</anchor>
 
 		<subsection>
+			<title>Game demos</title>
+			<entries>
+				<link>
+					<name>Demos page</name>
+					<url>demos</url>
+				</link>
+			</entries>
+		</subsection>
+
+		<subsection>
 			<title>Grim Fandango</title>
 			<entries>
 				<file>
@@ -256,10 +266,10 @@
 					<h:b>WARNING:</h:b> The following builds are bleeding edge development
 					versions made directly from our source repository.
 					That means that they received no proper testing (usually no testing at
-					all) and that any number of things may be broken in the them. For
+					all) and that any number of things may be broken in them. For
 					example, they might corrupt your config file, crash frequently or
 					might not even start. Use them at your own risk!
-				</h:p>
+    			</h:p>
 				<h:p>
 					Snapshot builds:
 				</h:p>
@@ -369,9 +379,19 @@
 					<description>: Free Lossless Audio Codec</description>
 				</link>
 				<link>
-					<name>libmpeg2dec</name>
-					<url>http://libmpeg2.sourceforge.net//</url>
-					<description>: MPEG-2 video stream decoder</description>
+					<name>mpeg2</name>
+					<url>http://libmpeg2.sourceforge.net/</url>
+					<description>: mpeg2 Decoder</description>
+				</link>
+				<link>
+					<name>png</name>
+					<url>http://www.libpng.org/pub/png/libpng.html</url>
+					<description>: png image format decoder</description>
+				</link>
+				<link>
+					<name>jpeg</name>
+					<url>http://www.ijg.org</url>
+					<description> (or jpeg-turbo): jpeg image format decoder</description>
 				</link>
 				<link>
 					<name>zlib</name>

@@ -40,31 +40,37 @@
 		</p>
 	</div>
 	<div class="content">
-		<table class="chart color4">
+		<table class="chart color4 colorKeyTable">
 			<caption>Color Key</caption>
 			<tbody>
 				<tr class="color2">
-					<td class="pct0" align="center">&nbsp;0</td>
-					<td class="pct5" align="center">&nbsp;5</td>
-					<td class="pct10" align="center">10</td>
-					<td class="pct15" align="center">15</td>
-					<td class="pct20" align="center">20</td>
-					<td class="pct25" align="center">25</td>
-					<td class="pct30" align="center">30</td>
-					<td class="pct35" align="center">35</td>
-					<td class="pct40" align="center">40</td>
-					<td class="pct45" align="center">45</td>
-					<td class="pct50" align="center">50</td>
-					<td class="pct55" align="center">55</td>
-					<td class="pct60" align="center">60</td>
-					<td class="pct65" align="center">65</td>
-					<td class="pct70" align="center">70</td>
-					<td class="pct75" align="center">75</td>
-					<td class="pct80" align="center">80</td>
-					<td class="pct85" align="center">85</td>
-					<td class="pct90" align="center">90</td>
-					<td class="pct95" align="center">95</td>
-					<td class="pct100" align="center">100</td>
+					{if $old_layout == 'no'}
+						{foreach from=$support_level_desc key=level item=desc}
+							<td class={$support_level_class.$level} align='center'>{$desc}</td>
+						{/foreach}
+					{else}
+						<td class="pct0">&nbsp;0</td>
+						<td class="pct5">&nbsp;5</td>
+						<td class="pct10">10</td>
+						<td class="pct15">15</td>
+						<td class="pct20">20</td>
+						<td class="pct25">25</td>
+						<td class="pct30">30</td>
+						<td class="pct35">35</td>
+						<td class="pct40">40</td>
+						<td class="pct45">45</td>
+						<td class="pct50">50</td>
+						<td class="pct55">55</td>
+						<td class="pct60">60</td>
+						<td class="pct65">65</td>
+						<td class="pct70">70</td>
+						<td class="pct75">75</td>
+						<td class="pct80">80</td>
+						<td class="pct85">85</td>
+						<td class="pct90">90</td>
+						<td class="pct95">95</td>
+						<td class="pct100">100</td>
+					{/if}
 				</tr>
 			</tbody>
 		</table>
@@ -74,18 +80,30 @@
 				<caption>{$company} Game Compatibility Chart</caption>
 				<thead>
 					<tr class="color4">
-						<th>Game Full Name</th>
-						<th>Game Short Name</th>
-						<th>% Completed</th>
+						<th class="gameFullName">Game Full Name</th>
+						<th class="gameShortName">Game Short Name</th>
+						{if $old_layout == 'no'}
+							<th class="gameSupportLevel">Support Level</th>
+						{else}
+							<th class="gameSupportLevel">% Completed</th>
+						{/if}
 					</tr>
 				</thead>
 				<tbody>
 				{foreach from=$games item=game}
-					{math equation="x - (x % 5)" x=$game->getPercent() assign='pct_class'}
+					{if $old_layout == 'no'}
+						{assign var="x" value=$game->getSupportLevel()}
+						{assign var="pct_class" value=$support_level_class.$x}
+						{assign var="support_level" value=$support_level_desc.$x}
+					{else}
+						{math equation="x - (x % 5)" x=$game->getSupportLevel() assign='pct_class'}
+						{assign var="pct_class" value="pct"|cat:$pct_class}
+						{assign var="support_level" value=$game->getSupportLevel()|cat:"%"}
+					{/if}
 					<tr class="color{cycle values='2,0'}">
-						<td><a href="compatibility/{$version}/{$game->getTarget()}/">{$game->getName()}</a></td>
-						<td>{$game->getTarget()}</td>
-						<td align="center" class="pct{$pct_class}">{$game->getPercent()}%</td>
+						<td class="gameFullName"><a href="compatibility/{$version}/{$game->getTarget()}/">{$game->getName()}</a></td>
+						<td class="gameShortName">{$game->getTarget()}</td>
+						<td class="gameSupportLevel {$pct_class}">{$support_level}</td>
 					</tr>
 				{/foreach}
 				</tbody>

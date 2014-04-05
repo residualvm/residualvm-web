@@ -43,6 +43,10 @@
 				{include file='menu_group.tpl' menu=$menu}
 			{/foreach}
 			<div id="menu_banners">
+				<a href="https://github.com/residualvm">
+					<img src="images/github-logo.png" alt="ResidualVM on GitHub" width="88" height="32">
+ 				</a>
+				<br>
 				<a href="http://www.facebook.com/ResidualVM">
 					<img src="images/facebook.png" width="88" height="32" alt="Join us on Facebook">
 				</a>
@@ -50,7 +54,6 @@
 				<a href="http://www.twitter.com/ResidualVM">
 					<img src="images/twitter.png" width="88" height="32" alt="Follow us on Twitter">
 				</a>
-				<br>
 			</div>
 		</div>
 
@@ -82,7 +85,7 @@
 		{strip}
 		<div id="footer">
 			<a href="http://sourceforge.net/projects/residualvm">
-				<img src="http://sflogo.sourceforge.net/sflogo.php?group_id=37116&amp;type=13" width="120" height="30" alt="Get ScummVM at SourceForge.net. Fast, secure and Free Open Source software downloads">
+				<img src="http://sflogo.sourceforge.net/sflogo.php?group_id=37116&amp;type=13" width="120" height="30" alt="Get ResidualVM at SourceForge.net. Fast, secure and Free Open Source software downloads">
 			</a>
 			<a href="http://validator.w3.org/check/referer">
 				<img src="http://www.w3.org/Icons/valid-html401" width="88" height="31" alt="Valid HTML 4.01!">

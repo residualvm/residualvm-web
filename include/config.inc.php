@@ -3,9 +3,11 @@
 define('RELEASE', '0.1.1');
 define('RELEASE_TOOLS', '');
 define('RELEASE_DEBIAN', '');
+/* Version when the percentages on the compat page were removed */
+define('COMPAT_LAYOUT_CHANGE', '1.7.0');
 
 /* News items on the front page. */
-define('NEWS_ITEMS', 4);
+define('NEWS_ITEMS', 5);
 /* Number of heroes header files. */
 define('HEROES_NUM', 4);
 /* Time zone to use for news items etc. */

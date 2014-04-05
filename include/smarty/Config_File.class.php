@@ -29,7 +29,7 @@
  * @package Smarty
  */
 
-/* $Id: Config_File.class.php 40926 2009-05-26 21:12:21Z fredrik_w $ */
+/* $Id$ */
 
 /**
  * Config file reading class

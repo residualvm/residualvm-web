@@ -47,7 +47,7 @@
 		ResidualVM should be able to be compiled on any SDL platform, with modifications.
 		</simpara>
 		<simpara>
-		Currently tested platforms include Windows (Windows 95/98/ME/NT/2000/XP/Vista/7), Linux,
+		Currently tested platforms include Windows (Windows 95/98/ME/NT/2000/XP/Vista/7/8), Linux,
 		Mac OS X, AmigaOS 4.
 		</simpara>
 	</answer>
@@ -157,7 +157,7 @@
       <question>I get "Failed to save game state to file: xxx"</question>
       <answer>
 		<simpara>
-		Check savepath in ResidualVM config file. That should point to writable directory.
+		Check savepath in Options-&gt;Paths-&gt;Save Path. That should point to writable directory.
 		</simpara>
 	</answer>
     </entry>
@@ -195,6 +195,8 @@
 		try setting the <envar>SDL_AUDIODRIVER</envar> environment variable to "waveout"
 		and try again.
 		</simpara>
+		Note using the "waveout" SDL audio driver causes an increased delay in sound,
+		especially under Windows Vista and later versions.
 	</answer>
     </entry>
     <entry>

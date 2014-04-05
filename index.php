@@ -3,6 +3,7 @@
 require_once('include/config.inc.php');
 /* Set up the include path. */
 set_include_path(get_include_path() . PATH_SEPARATOR . DIR_INCLUDE);
+error_reporting(E_ALL & ~(E_STRICT | E_NOTICE | E_WARNING));	// disable notices, warnings, strict
 
 if (!is_writeable(SMARTY_DIR_COMPILE)) {
 	print "Smarty compile dir (" . SMARTY_DIR_COMPILE . ") isn't writeable!<br>\n";
@@ -31,7 +32,7 @@ $pages = array(
 );
 
 /* Default to the news page. */
-if (!array_key_exists(($page = $_GET['p']), $pages)) {
+if (!array_key_exists(($page = isset($_GET['p']) ? $_GET['p'] : null), $pages)) {
 	$page = 'news';
 }
 

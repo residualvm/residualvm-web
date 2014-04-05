@@ -6,7 +6,7 @@
 			<game>
 				<name>Grim Fandango</name>
 				<target>grim</target>
-				<percent>90</percent>
+				<support_level>good</support_level>
 				<notes>
 					Game is finishable with a few minor glitches.
 				</notes>
@@ -14,7 +14,7 @@
 			<game>
 				<name>Grim Fandango Demo</name>
 				<target>grimdemo</target>
-				<percent>85</percent>
+				<support_level>good</support_level>
 				<notes>
 					Demo is finishable with a few glitches.
 				</notes>
@@ -22,7 +22,7 @@
 			<game>
 				<name>Escape from Monkey Island</name>
 				<target>monkey</target>
-				<percent>60</percent>
+				<support_level>bugged</support_level>
 				<notes>
 					Not supported. Almost completable with major glitches.
 				</notes>
@@ -30,7 +30,7 @@
 			<game>
 				<name>Escape from Monkey Island Demo</name>
 				<target>monkeydemo</target>
-				<percent>60</percent>
+				<support_level>bugged</support_level>
 				<notes>
 					Not supported. Almost completable with major glitches.
 				</notes>
@@ -43,7 +43,7 @@
 			<game>
 				<name>Myst 3 Exile</name>
 				<target>myst3</target>
-				<percent>70</percent>
+				<support_level>bugged</support_level>
 				<notes>
 					Not supported. Completable but still missing a few features.
 				</notes>
