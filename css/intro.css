@@ -13,6 +13,7 @@
 
 div.intro .rbcontent {
 	padding: 0px;
+	min-height: 115px;
 }
 
 div.sshots {
