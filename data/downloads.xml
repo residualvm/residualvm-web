@@ -2,7 +2,7 @@
 <downloads xmlns:h="http://www.w3.org/TR/html4/">
 	<section>
 		<title>
-			Downloads for ResidualVM
+			Downloads for ResidualVM <h:span style="color: rgb(80, 80, 80);">version {$release}</h:span>
 		</title>
 		<baseurl>http://prdownloads.sourceforge.net/residualvm/</baseurl>
 		<subsection>
@@ -13,69 +13,75 @@
 			<entries>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
-					<url>residualvm-0.1.1-win32.exe</url>
+					<url>residualvm-{$release}-win32.exe</url>
 					<name>Windows Installer</name>
-					<extra_info>(1.7M)</extra_info>
+					<extra_info>(1.7M Win32 .exe)</extra_info>
+					<user_agent>Windows</user_agent>
 				</file>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
-					<url>residualvm-0.1.1-win32.zip</url>
+					<url>residualvm-{$release}-win32.zip</url>
 					<name>Windows zipfile</name>
-					<extra_info>(2.7M)</extra_info>
+					<extra_info>(2.7M .zip)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
-					<url>residualvm_0.1.1-squeeze.1_i386.deb</url>
+					<url>residualvm_{$release}-squeeze.1_i386.deb</url>
 					<name>Debian 6.0 (squeeze) i386 32bit package</name>
-					<extra_info>(1.6M)</extra_info>
+					<extra_info>(1.6M .deb)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
-					<url>residualvm_0.1.1-squeeze.1_amd64.deb</url>
+					<url>residualvm_{$release}-squeeze.1_amd64.deb</url>
 					<name>Debian 6.0 (squeeze) x86 64bit package</name>
-					<extra_info>(1.7M)</extra_info>
+					<extra_info>(1.7M .deb)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url>residualvm_0.1.1-quantal.1_i386.deb</url>
+					<url>residualvm_{$release}-quantal.1_i386.deb</url>
 					<name>Ubuntu 12.10 (quantal) i386 32bit package</name>
-					<extra_info>(1.7M)</extra_info>
+					<extra_info>(1.7M .deb)</extra_info>
+					<user_agent>Ubuntu</user_agent>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url>residualvm_0.1.1-quantal.1_amd64.deb</url>
+					<url>residualvm_{$release}-quantal.1_amd64.deb</url>
 					<name>Ubuntu 12.10 (quantal) x86 64bit package</name>
-					<extra_info>(1.7M)</extra_info>
+					<extra_info>(1.7M .deb)</extra_info>
+					<user_agent>Ubuntu</user_agent>
 				</file>
 				<file>
 					<category_icon>catpl-fedora.png</category_icon>
-					<url>residualvm-f16-0.1.1-1.i686.rpm</url>
+					<url>residualvm-f16-{$release}-1.i686.rpm</url>
 					<name>Fedora 16 i686 32-bit package</name>
-					<extra_info>(1.4M)</extra_info>
+					<extra_info>(1.4M .RPM)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-fedora.png</category_icon>
-					<url>residualvm-f16-0.1.1-1.x86_64.rpm</url>
+					<url>residualvm-f16-{$release}-1.x86_64.rpm</url>
 					<name>Fedora 16 x86 64bit package</name>
-					<extra_info>(1.4M)</extra_info>
+					<extra_info>(1.4M .RPM)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url>residualvm-0.1.1-macosx-intel.dmg</url>
+					<url>residualvm-{$release}-macosx-intel.dmg</url>
 					<name>MacOS X 10.4+ Intel Disk Image</name>
-					<extra_info>(2.2M)</extra_info>
+					<extra_info>(2.2M disk image)</extra_info>
+					<user_agent>Macintosh</user_agent>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url>residualvm-0.1.1-macosx-powerpc.dmg</url>
+					<url>residualvm-{$release}-macosx-powerpc.dmg</url>
 					<name>MacOS X 10.4+ PowerPC Disk Image</name>
-					<extra_info>(2.2M)</extra_info>
+					<extra_info>(2.2M disk image)</extra_info>
+					<user_agent>Macintosh</user_agent>
 				</file>
 <!--				<file>
 					<category_icon>catpl-amiga.png</category_icon>
-					<url>residualvm-0.1.0-amigaos4.lha</url>
+					<url>residualvm-{$release}-amigaos4.lha</url>
 					<name>AmigaOS 4 package</name>
-					<extra_info>(4.7M)</extra_info>
+					<extra_info>(4.7M .lha)</extra_info>
+					<user_agent>Amiga</user_agent>
 				</file>-->
 			</entries>
 		</subsection>
