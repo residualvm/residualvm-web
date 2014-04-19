@@ -36,7 +36,7 @@
 				<person>
 					<name>Dries Harnie</name>
 					<alias>Botje</alias>
-					<description>EMI support, various code fixes and improvements</description>
+					<description>EMI, Android, OpenGL ES developer</description>
 				</person>
 				<person>
 					<name>Pawe&#322; Ko&#322;odziejski</name>
@@ -46,17 +46,17 @@
 				<person>
 					<name>Christian Krause</name>
 					<alias>chkr</alias>
-					<description>EMI support, various engine fixes and improvements</description>
+					<description>EMI developer</description>
 				</person>
 				<person>
 					<name>Einar Johan T. S&oslash;m&aring;en</name>
 					<alias>somaen</alias>
-					<description>EMI support, various code fixes and improvements</description>
+					<description>Grim, EMI developer</description>
 				</person>
 				<person>
 					<name>Joel Teichroeb </name>
 					<alias>klusark</alias>
-					<description>EMI support, various engine fixes and improvements</description>
+					<description>EMI, Android developer</description>
 				</person>
 			</group>
 			<group>
@@ -146,12 +146,17 @@
 				<person>
 					<name>Max Horn</name>
 					<alias>fingolfin</alias>
-					<description>Minor code fixes</description>
+					<description>Few code fixes</description>
 				</person>
 				<person>
 					<name>Travis Howell</name>
 					<alias>Kirben</alias>
 					<description>Various code fixes, Windows port</description>
+				</person>
+				<person>
+					<name>Joseph Jezak</name>
+					<alias>JoseJX</alias>
+					<description>Few fixes to engine</description>
 				</person>
 				<person>
 					<name>Guillem Jover</name>
@@ -169,6 +174,11 @@
 					<description>Various fixes and improvements for EMI</description>
 				</person>
 				<person>
+					<name>Vincent Pelletier</name>
+					<alias>vpelletier</alias>
+					<description>Various engine improvements and code fixes</description>
+				</person>
+				<person>
 					<name>Joost Peters</name>
 					<alias>joostp</alias>
 					<description>Various code fixes</description>
@@ -184,6 +194,11 @@
 					<description>Few fixes to engine</description>
 				</person>
 				<person>
+					<name>Gregory Montoir</name>
+					<alias>cyx</alias>
+					<description>Few fixes to engine</description>
+				</person>
+				<person>
 					<name>Matthieu Milan</name>
 					<alias>usineur</alias>
 					<description>Various engine improvements</description>
@@ -194,14 +209,9 @@
 					<description>Various optimisation patches</description>
 				</person>
 				<person>
-					<name>Vincent Pelletier</name>
-					<alias>vpelletier</alias>
-					<description>Various engine improvements and code fixes</description>
-				</person>
-				<person>
 					<name>Daniel Schepler</name>
 					<alias></alias>
-					<description>Initial engine codebase, LUA support</description>
+					<description>Initial grim engine contributor, LUA support</description>
 				</person>
 				<person>
 					<name>Dmitry Smirnov</name>
@@ -235,6 +245,11 @@
 				</person>
 				<person>
 					<name>???</name>
+					<alias>cmayer0087</alias>
+					<description>Various engine code fixes</description>
+				</person>
+				<person>
+					<name>???</name>
 					<alias>JenniBee</alias>
 					<description>Compilation fixes</description>
 				</person>
@@ -242,6 +257,11 @@
 					<name>???</name>
 					<alias>karjonas</alias>
 					<description>Various engine code fixes</description>
+				</person>
+				<person>
+					<name>???</name>
+					<alias>sietschie</alias>
+					<description>Few fixes to engine</description>
 				</person>
 			</group>
 			<group>
