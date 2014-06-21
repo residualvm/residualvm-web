@@ -51,6 +51,20 @@
 					<user_agent>Ubuntu</user_agent>
 				</file>
 				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_{$release}-trusty.1_i386.deb</url>
+					<name>Ubuntu 14.04 (trusty) i386 32bit package</name>
+					<extra_info>(1.3M .deb)</extra_info>
+					<user_agent>Ubuntu</user_agent>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_{$release}-trusty.1_amd64.deb</url>
+					<name>Ubuntu 14.04 (trusty) x86 64bit package</name>
+					<extra_info>(1.3M .deb)</extra_info>
+					<user_agent>Ubuntu</user_agent>
+				</file>
+				<file>
 					<category_icon>catpl-fedora.png</category_icon>
 					<url>residualvm-f16-{$release}-1.i686.rpm</url>
 					<name>Fedora 16 i686 32-bit package</name>
