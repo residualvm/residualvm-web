@@ -37,6 +37,18 @@
 					<extra_info>(1.7M .deb)</extra_info>
 				</file>
 				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url>residualvm_{$release}-wheezy.1_i386.deb</url>
+					<name>Debian 7.0 (wheezy) i386 32bit package</name>
+					<extra_info>(1.6M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url>residualvm_{$release}-wheezy.1_amd64.deb</url>
+					<name>Debian 7.0 (wheezy) x86 64bit package</name>
+					<extra_info>(1.7M .deb)</extra_info>
+				</file>
+				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url>residualvm_{$release}-quantal.1_i386.deb</url>
 					<name>Ubuntu 12.10 (quantal) i386 32bit package</name>
