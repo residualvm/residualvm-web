@@ -98,7 +98,7 @@
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-{$release}-macosx-powerpc.dmg</url>
-					<name>MacOS X 10.4+ PowerPC Disk Image</name>
+					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
 					<extra_info>(2.2M disk image)</extra_info>
 					<user_agent>Macintosh</user_agent>
 				</file>
@@ -279,7 +279,7 @@
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-0.1.0pre-macosx-powerpc.dmg</url>
-					<name>MacOS X 10.4+ PowerPC Disk Image</name>
+					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
 					<type>daily</type>
 				</file>
 				<file>
@@ -360,7 +360,7 @@
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-macosx-powerpc.dmg</url>
-					<name>MacOS X 10.4+ PowerPC Disk Image</name>
+					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
 					<type>daily</type>
 				</file>
 				<file>
