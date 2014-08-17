@@ -77,18 +77,6 @@
 					<user_agent>Ubuntu</user_agent>
 				</file>
 				<file>
-					<category_icon>catpl-fedora.png</category_icon>
-					<url>residualvm-f16-{$release}-1.i686.rpm</url>
-					<name>Fedora 16 i686 32-bit package</name>
-					<extra_info>(1.4M .RPM)</extra_info>
-				</file>
-				<file>
-					<category_icon>catpl-fedora.png</category_icon>
-					<url>residualvm-f16-{$release}-1.x86_64.rpm</url>
-					<name>Fedora 16 x86 64bit package</name>
-					<extra_info>(1.4M .RPM)</extra_info>
-				</file>
-				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-{$release}-macosx-intel.dmg</url>
 					<name>MacOS X 10.4+ Intel Disk Image</name>
@@ -259,18 +247,6 @@
 					<type>daily</type>
 				</file>
 				<file>
-					<category_icon>catpl-fedora.png</category_icon>
-					<url local_file="true">residualvm-f16-0.1.0pre-1.i686.rpm</url>
-					<name>Fedora 16 i686 32-bit package</name>
-					<type>daily</type>
-				</file>
-				<file>
-					<category_icon>catpl-fedora.png</category_icon>
-					<url local_file="true">residualvm-f16-0.1.0pre-1.x86_64.rpm</url>
-					<name>Fedora 16 x86 64bit package</name>
-					<type>daily</type>
-				</file>
-				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-0.1.0pre-macosx-intel.dmg</url>
 					<name>MacOS X 10.4+ Intel Disk Image</name>
@@ -337,20 +313,18 @@
 					<name>Ubuntu 14.04 (trusty) x86 64bit package</name>
 					<type>daily</type>
 				</file>
-<!--
 				<file>
-					<category_icon>catpl-fedora.png</category_icon>
-					<url local_file="true">residualvm-f16.i686.rpm</url>
-					<name>Fedora 16 i686 32-bit package</name>
+					<category_icon>catpl-x11.png</category_icon>
+					<url local_file="true">residualvm-linux32.tar.gz</url>
+					<name>Linux Generic 32bit - package .tar.gz</name>
 					<type>daily</type>
 				</file>
 				<file>
-					<category_icon>catpl-fedora.png</category_icon>
-					<url local_file="true">residualvm-f16.x86_64.rpm</url>
-					<name>Fedora 16 x86 64bit package</name>
+					<category_icon>catpl-x11.png</category_icon>
+					<url local_file="true">residualvm-linux64.tar.gz</url>
+					<name>Linux Generic 64bit - package .tar.gz</name>
 					<type>daily</type>
 				</file>
--->
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-macosx-intel.dmg</url>
