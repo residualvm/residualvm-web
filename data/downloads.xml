@@ -314,13 +314,13 @@
 					<type>daily</type>
 				</file>
 				<file>
-					<category_icon>catpl-x11.png</category_icon>
+					<category_icon>catpl-linux.png</category_icon>
 					<url local_file="true">residualvm-linux32.tar.gz</url>
 					<name>Linux Generic 32bit - package .tar.gz</name>
 					<type>daily</type>
 				</file>
 				<file>
-					<category_icon>catpl-x11.png</category_icon>
+					<category_icon>catpl-linux.png</category_icon>
 					<url local_file="true">residualvm-linux64.tar.gz</url>
 					<name>Linux Generic 64bit - package .tar.gz</name>
 					<type>daily</type>
