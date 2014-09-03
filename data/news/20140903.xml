@@ -2,6 +2,9 @@
 <DATE>September 3rd, 2014</DATE>
 <AUTHOR>bgk</AUTHOR>
 <BODY>
+        <p>
+                <img src="/data/screenshots/presto/myst3/myst3_0.jpg" alt="Myst III Logo" align="middle">
+        </p>
 	<p>
 		Adding support for Myst III: Exile to ResidualVM is nearly done.
 		Now, we only need your help to find the last rough edges by playing the game thoroughly and reporting any issues you encounter.
