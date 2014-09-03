@@ -105,4 +105,40 @@
 			</image>
 		</game>
 	</group>
+	<group>
+		<title>Presto Studios games</title>
+		<category>presto</category>
+		<game>
+			<name>Myst III: Exile</name>
+			<category>myst3</category>
+			<image>
+				<file>presto/myst3/myst3_0</file>
+				<caption>Intro</caption>
+			</image>
+			<image>
+				<file>presto/myst3/myst3_1</file>
+				<caption>Thonahna</caption>
+			</image>
+			<image>
+				<file>presto/myst3/myst3_2</file>
+				<caption>J'nanin</caption>
+			</image>
+			<image>
+				<file>presto/myst3/myst3_3</file>
+				<caption>Amateria</caption>
+			</image>
+			<image>
+				<file>presto/myst3/myst3_4</file>
+				<caption>Edanna</caption>
+			</image>
+			<image>
+				<file>presto/myst3/myst3_5</file>
+				<caption>Voltaic</caption>
+			</image>
+			<image>
+				<file>presto/myst3/myst3_6</file>
+				<caption>Narayan</caption>
+			</image>
+		</game>
+	</group>
 </screenshots>
