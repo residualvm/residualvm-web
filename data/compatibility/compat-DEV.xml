@@ -22,17 +22,25 @@
 			<game>
 				<name>Escape from Monkey Island</name>
 				<target>monkey</target>
+				<support_level>good</support_level>
+				<notes>
+					Game is finishable with a few minor glitches.
+				</notes>
+			</game>
+			<game>
+				<name>Escape from Monkey Island (PS2)</name>
+				<target>monkey</target>
 				<support_level>bugged</support_level>
 				<notes>
-					Not supported. Almost completable with major glitches.
+					Not supported and not tested.
 				</notes>
 			</game>
 			<game>
 				<name>Escape from Monkey Island Demo</name>
 				<target>monkeydemo</target>
-				<support_level>bugged</support_level>
+				<support_level>good</support_level>
 				<notes>
-					Not supported. Almost completable with major glitches.
+					Demo is finishable with a few minor glitches.
 				</notes>
 			</game>
 		</games>
@@ -43,9 +51,9 @@
 			<game>
 				<name>Myst 3 Exile</name>
 				<target>myst3</target>
-				<support_level>bugged</support_level>
+				<support_level>good</support_level>
 				<notes>
-					Not supported. Completable but still missing a few features.
+					Game is finishable with a few minor glitches.
 				</notes>
 			</game>
 			<game>
