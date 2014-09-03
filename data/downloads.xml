@@ -199,6 +199,42 @@
 				</file>
 			</entries>
 		</subsection>
+
+		<subsection>
+			<title>Myst III: Exile</title>
+			<entries>
+				<file>
+					<category_icon>cat-myst3.png</category_icon>
+					<url>http://demos.residualvm.org/patches/myst3v122patch.exe</url>
+					<name>Original Patch v1.22 (English CD)</name>
+					<extra_info>(6.5M)</extra_info>
+				</file>
+				<file>
+					<category_icon>cat-myst3.png</category_icon>
+					<url>http://demos.residualvm.org/patches/myst_3_v1.22_fr.zip</url>
+					<name>Original Patch v1.22 (French CD)</name>
+					<extra_info>(0.4M)</extra_info>
+				</file>
+				<file>
+					<category_icon>cat-myst3.png</category_icon>
+					<url>http://demos.residualvm.org/patches/myst3_patch_pcv122b172.zip</url>
+					<name>Original Patch v1.22 (German CD)</name>
+					<extra_info>(0.4M)</extra_info>
+				</file>
+				<file>
+					<category_icon>cat-myst3.png</category_icon>
+					<url>http://demos.residualvm.org/patches/myst3v124j.zip</url>
+					<name>Original Patch v1.24 (Japanese CD)</name>
+					<extra_info>(1.3M)</extra_info>
+				</file>
+				<file>
+					<category_icon>cat-myst3.png</category_icon>
+					<url>http://demos.residualvm.org/patches/myst3pc122.zip</url>
+					<name>Original Patch v1.22 (Spanish CD)</name>
+					<extra_info>(0.4M)</extra_info>
+				</file>
+			</entries>
+		</subsection>
 	</section>
 
 	<section>
