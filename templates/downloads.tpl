@@ -19,7 +19,7 @@
 				<p>
 					Downloads are mostly hosted with SourceForge.net. If you have one of the supported systems, you can directly
 					download the appropriate binary distribution. If you have another system, download the source and read the
-					<a href="http://github.com/residualvm/residualvm/blob/{$release}/README">README</a>
+					<a href="http://github.com/residualvm/residualvm/blob/{$release}/README.md">README</a>
 					file for directions on how to build ResidualVM.
 					If you have successfully ported ResidualVM to a platform not listed, please drop us a note, telling which OS, etc.
 					you used.
