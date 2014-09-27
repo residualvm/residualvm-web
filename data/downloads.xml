@@ -92,9 +92,9 @@
 				</file>
 <!--				<file>
 					<category_icon>catpl-amiga.png</category_icon>
-					<url>residualvm-{$release}-amigaos4.lha</url>
+					<url>residualvm-{$release}-amigaos4.zip</url>
 					<name>AmigaOS 4 package</name>
-					<extra_info>(4.7M .lha)</extra_info>
+					<extra_info>(4.7M .zip)</extra_info>
 					<user_agent>Amiga</user_agent>
 				</file>-->
 			</entries>
@@ -296,7 +296,7 @@
 				</file>
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
-					<url local_file="true">residualvm-0.1.0pre-amigaos4.lha</url>
+					<url local_file="true">residualvm-0.1.0pre-amigaos4.zip</url>
 					<name>AmigaOS 4 package</name>
 					<type>daily</type>
 				</file>
@@ -375,7 +375,7 @@
 				</file>
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
-					<url local_file="true">residualvm-amigaos4.lha</url>
+					<url local_file="true">residualvm-amigaos4.zip</url>
 					<name>AmigaOS 4 package</name>
 					<type>daily</type>
 				</file>
