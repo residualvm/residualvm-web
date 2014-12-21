@@ -26,12 +26,12 @@
 				<person>
 					<name>James Brown</name>
 					<alias>ender</alias>
-					<description>Core developer (retired)</description>
+					<description>Grim developer (retired)</description>
 				</person>
 				<person>
 					<name>Giulio Camuffo</name>
 					<alias>giucam</alias>
-					<description>Core developer</description>
+					<description>Grim developer</description>
 				</person>
 				<person>
 					<name>Dries Harnie</name>
@@ -57,6 +57,11 @@
 					<name>Joel Teichroeb </name>
 					<alias>klusark</alias>
 					<description>EMI, Android developer</description>
+				</person>
+				<person>
+					<name>Joni V&auml;h&auml;m&auml;ki</name>
+					<alias>Akz</alias>
+					<description>EMI developer</description>
 				</person>
 			</group>
 			<group>
@@ -156,7 +161,7 @@
 				<person>
 					<name>Joseph Jezak</name>
 					<alias>JoseJX</alias>
-					<description>Few fixes to engine</description>
+					<description>A lot of engine improvements and fixes</description>
 				</person>
 				<person>
 					<name>Guillem Jover</name>
@@ -194,14 +199,19 @@
 					<description>Few fixes to engine</description>
 				</person>
 				<person>
+					<name>Matthieu Milan</name>
+					<alias>usineur</alias>
+					<description>Various engine improvements</description>
+				</person>
+				<person>
 					<name>Gregory Montoir</name>
 					<alias>cyx</alias>
 					<description>Few fixes to engine</description>
 				</person>
 				<person>
-					<name>Matthieu Milan</name>
-					<alias>usineur</alias>
-					<description>Various engine improvements</description>
+					<name>Stefano Musumeci</name>
+					<alias>subr3v</alias>
+					<description>TinyGL backend and engine driver improvements</description>
 				</person>
 				<person>
 					<name>Christian Neumair</name>
@@ -239,11 +249,6 @@
 					<description>OpenGL optimisations</description>
 				</person>
 				<person>
-					<name>Joni V&auml;h&auml;m&auml;ki</name>
-					<alias>Akz</alias>
-					<description>A lot of engine improvements and fixes</description>
-				</person>
-				<person>
 					<name>???</name>
 					<alias>cmayer0087</alias>
 					<description>Various engine code fixes</description>
@@ -270,6 +275,11 @@
 					<name>Matthew Hoops</name>
 					<alias>clone2727</alias>
 					<description>Various engine improvements and code fixes</description>
+				</person>
+				<person>
+					<name>Stefano Musumeci</name>
+					<alias>subr3v</alias>
+					<description>TinyGL engine driver support</description>
 				</person>
 			</group>
 		</subsection>
