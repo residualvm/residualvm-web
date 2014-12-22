@@ -241,11 +241,11 @@
 		<title>Daily Builds</title>
 		<anchor>daily</anchor>
 
-<!--		<subsection>
-			<title>pre-release 0.1.0</title>
+		<subsection>
+			<title>pre-release 0.2.0</title>
 			<notes>
 				<h:p>
-					The following builds are only for testing Grim Fandango.
+					The following builds are only for testing Grim Fandango and Myst III.
 				</h:p>
 				<h:p>
 					Snapshot builds:
@@ -254,54 +254,66 @@
 			<entries>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
-					<url local_file="true">residualvm-0.1.0pre-win32.exe</url>
+					<url local_file="true">residualvm-pre-win32.exe</url>
 					<name>Windows Installer</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
-					<url local_file="true">residualvm_0.1.0pre-squeeze.1_i386.deb</url>
-					<name>Debian 6.0 (squeeze) i386 32bit package</name>
+					<url local_file="true">residualvm_pre_debian_i386.deb</url>
+					<name>Debian 7.0 (wheezy) i386 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
-					<url local_file="true">residualvm_0.1.0pre-squeeze.1_amd64.deb</url>
-					<name>Debian 6.0 (squeeze) x86 64bit package</name>
+					<url local_file="true">residualvm_pre_debian_amd64.deb</url>
+					<name>Debian 7.0 (wheezy) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url local_file="true">residualvm_0.1.0pre-oneiric.1_i386.deb</url>
-					<name>Ubuntu 11.10 (oneiric) i386 32bit package</name>
+					<url local_file="true">residualvm_pre_ubuntu_i386.deb</url>
+					<name>Ubuntu 14.10 (utopic) i386 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url local_file="true">residualvm_0.1.0pre-oneiric.1_amd64.deb</url>
-					<name>Ubuntu 11.10 (oneiric) x86 64bit package</name>
+					<url local_file="true">residualvm_pre_ubuntu_amd64.deb</url>
+					<name>Ubuntu 14.10 (utopic) x86 64bit package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-linux.png</category_icon>
+					<url local_file="true">residualvm-pre-linux32.tar.gz</url>
+					<name>Linux Generic 32bit - package .tar.gz</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-linux.png</category_icon>
+					<url local_file="true">residualvm-pre-linux64.tar.gz</url>
+					<name>Linux Generic 64bit - package .tar.gz</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url local_file="true">residualvm-0.1.0pre-macosx-intel.dmg</url>
+					<url local_file="true">residualvm-pre-macosx-intel.dmg</url>
 					<name>MacOS X 10.4+ Intel Disk Image</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url local_file="true">residualvm-0.1.0pre-macosx-powerpc.dmg</url>
+					<url local_file="true">residualvm-pre-macosx-powerpc.dmg</url>
 					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
-					<url local_file="true">residualvm-0.1.0pre-amigaos4.zip</url>
+					<url local_file="true">residualvm-pre-amigaos4.zip</url>
 					<name>AmigaOS 4 package</name>
 					<type>daily</type>
 				</file>
 			</entries>
-		</subsection> -->
+		</subsection>
 
 		<subsection>
 			<title>unstable</title>
