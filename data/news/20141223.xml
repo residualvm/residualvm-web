@@ -5,7 +5,7 @@
 		<p>
 			We are going to release ResidualVM with support for Myst III as second supported game.
 			During development of support for Escape from Monkey Island we did a lot of changes in the Grim engine.
-			To make sure that we don't have any big showstoppers for Grim Fandango, we need your help.
+			The Grim engine has had quite a few changes since 0.1.1, so to avoid any big showstoppers for Grim Fandango, we need <it>your</it> help.
 		</p>
 		<p>                 
 			We need people to play through the Grim Fandango and Myst III, preferably testing all the optional parts
