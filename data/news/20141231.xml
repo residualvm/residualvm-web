@@ -1,0 +1,37 @@
+<NAME>ResidualVM 0.2.0 - "Delivrance" released</NAME>
+		<DATE>December 31st, 2014</DATE>
+		<AUTHOR>bgK</AUTHOR>
+		<BODY>
+				<p>
+					We are proud to annouce the release of a new version of ResidualVM, bringing
+					Myst III: Exile support, more than thirteen years after its original release.
+				</p>
+				<p>
+					Initial work towards adding Myst III support began back in 2009 as a side project.
+					A work in progress version of the engine was mainlined in ResidualVM
+					two years later. The game became completable in 2012, but only now we feel confident
+					enough to release a stable version providing a feature complete experience.
+				</p>
+				<p>
+					This new release of ResidualVM supports Grim Fandango even better than the previous
+					one thanks to a few fixed bugs. Whether you are using Windows, Linux or OS X, you can go
+					right now to our <a href="http://residualvm.org/downloads/">downloads page</a>, get yourself
+					a copy of ResidualVM 0.2.0, and decide later if you'd rather visit the land of the dead or
+					the land of a revengeful trapped man. The changes in version 0.2.0 are detailed in our
+					<a href="https://github.com/residualvm/residualvm/blob/branch-0-2/NEWS">NEWS file</a>.
+					Instructions to setup the games can be found on our <a href="http://wiki.residualvm.org/">wiki</a>.
+				</p>
+				<p>
+					As usual, even though we have tested the games thoroughly you might encounter game-breaking
+					bugs. So, please save often and report bugs to our
+					<a href="https://github.com/residualvm/residualvm/issues">bug tracker</a>.
+				</p>
+				<p>
+					Our thanks go to Presto Studios, for releasing such a great game, and to the people involved
+					with testing ResidualVM over the years, allowing us to provide high quality releases.
+				</p>
+				<p>
+					2015 already looks like a promising year for ResidualVM, thanks to the ongoing effort
+					for adding Escape from Monkey Island support.
+				</p>
+		</BODY>
