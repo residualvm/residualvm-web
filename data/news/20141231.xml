@@ -1,4 +1,4 @@
-<NAME>ResidualVM 0.2.0 - "Delivrance" released</NAME>
+<NAME>ResidualVM 0.2.0 - "Deliverance" released</NAME>
 		<DATE>December 31st, 2014</DATE>
 		<AUTHOR>bgK</AUTHOR>
 		<BODY>
@@ -13,10 +13,11 @@
 					enough to release a stable version providing a feature complete experience.
 				</p>
 				<p>
-					This new release of ResidualVM supports Grim Fandango even better than the previous
-					one thanks to a few fixed bugs. Whether you are using Windows, Linux or OS X, you can go
-					right now to our <a href="http://residualvm.org/downloads/">downloads page</a>, get yourself
-					a copy of ResidualVM 0.2.0, and decide later if you'd rather visit the land of the dead or
+					This new release of ResidualVM supports Grim Fandango even better than the previous release
+					thanks to a large number fixed bugs, many of which were present in the original game.
+					Whether you are using Windows, Linux or OS X, you can go right now to our
+					<a href="http://residualvm.org/downloads/">downloads page</a>, get yourself a copy of
+					ResidualVM 0.2.0, and decide later if you'd rather visit the land of the dead or
 					the land of a revengeful trapped man. The changes in version 0.2.0 are detailed in our
 					<a href="https://github.com/residualvm/residualvm/blob/branch-0-2/NEWS">NEWS file</a>.
 					Instructions to setup the games can be found on our <a href="http://wiki.residualvm.org/">wiki</a>.
