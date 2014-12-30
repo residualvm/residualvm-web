@@ -8,13 +8,17 @@
 				</p>
 				<p>
 					Initial work towards adding Myst III support began back in 2009 as a side project.
-					A work in progress version of the engine was mainlined in ResidualVM
-					two years later. The game became completable in 2012, but only now we feel confident
+					A work in progress version of the engine was included in ResidualVM
+					two years later. The game became completable in 2012, but only now do we feel confident
 					enough to release a stable version providing a feature complete experience.
 				</p>
 				<p>
-					This new release of ResidualVM still supports Grim Fandango. Whether you are using Windows,
-					Linux or OS X, you can go right now to our
+					Additionally, some bugs have been fixed in Grim Fandango, and game data verification.
+					has been added on first launch, so that you'll know if your game data was.
+					copied correctly from your CDs.
+				</p>
+				<p>
+					Whether you are using Windows, Linux or OS X, you can go right now to our
 					<a href="http://residualvm.org/downloads/">downloads page</a>, get yourself a copy of
 					ResidualVM 0.2.0, and decide later if you'd rather visit the land of the dead or
 					the land of a revengeful trapped man. The changes in version 0.2.0 are detailed in our
