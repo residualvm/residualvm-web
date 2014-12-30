@@ -53,16 +53,14 @@
 				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url>residualvm-{$release}-linux32.tar.gz</url>
-					<name>Linux Generic 32bit - package .tar.gz</name>
-					<extra_info>(13.0M .deb)</extra_info>
-					<type>daily</type>
+					<name>Linux (Generic) 32bit package</name>
+					<extra_info>(13.0M .tar.gz)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url>residualvm-{$release}-linux64.tar.gz</url>
-					<name>Linux Generic 64bit - package .tar.gz</name>
-					<extra_info>(13.0M .deb)</extra_info>
-					<type>daily</type>
+					<name>Linux (Generic) 64bit package</name>
+					<extra_info>(13.0M .tar.gz)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
@@ -341,13 +339,13 @@
 				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url local_file="true">residualvm-pre-linux32.tar.gz</url>
-					<name>Linux Generic 32bit - package .tar.gz</name>
+					<name>Linux (Generic) 32bit package .tar.gz</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url local_file="true">residualvm-pre-linux64.tar.gz</url>
-					<name>Linux Generic 64bit - package .tar.gz</name>
+					<name>Linux (Generic) 64bit package .tar.gz</name>
 					<type>daily</type>
 				</file>
 				<file>
@@ -420,13 +418,13 @@
 				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url local_file="true">residualvm-linux32.tar.gz</url>
-					<name>Linux Generic 32bit - package .tar.gz</name>
+					<name>Linux (Generic) 32bit package .tar.gz</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url local_file="true">residualvm-linux64.tar.gz</url>
-					<name>Linux Generic 64bit - package .tar.gz</name>
+					<name>Linux (Generic) 64bit package .tar.gz</name>
 					<type>daily</type>
 				</file>
 				<file>
