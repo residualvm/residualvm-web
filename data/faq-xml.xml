@@ -47,7 +47,7 @@
 		ResidualVM should be able to be compiled on any SDL platform, with modifications.
 		</simpara>
 		<simpara>
-		Currently tested platforms include Windows (Windows 95/98/ME/NT/2000/XP/Vista/7/8), Linux,
+		Currently tested platforms include Windows (Windows 2000/XP/Vista/7/8), Linux,
 		Mac OS X, AmigaOS 4.
 		</simpara>
 	</answer>
@@ -101,9 +101,8 @@
 		<simpara>
 		On Windows, to make it visible, you should run ResidualVM from the command line. To open a 
 		command prompt, open the Start Menu and select the 'Run' option. Under 
-		Windows NT/2000/XP/Vista/7, type 'cmd.exe' (no quotes) in the dialog box that 
-		shows up; under Windows 95/98/Me, type 'command.com' instead. If 
-		necessary, change to the proper drive first by typing 'D:' (where 'D' is 
+		Windows 2000/XP/Vista/7/8, type 'cmd.exe' (no quotes) in the dialog box that 
+		shows up. If necessary, change to the proper drive first by typing 'D:' (where 'D' is 
 		the drive ResidualVM is located). Change to ResidualVM's directory by typing 
 		'cd \your\path\to\residualvm' (substituting the appropriate path) and then 
 		type 'residualvm'.
