@@ -15,88 +15,76 @@
 					<category_icon>catpl-windows.png</category_icon>
 					<url>residualvm-{$release}-win32.exe</url>
 					<name>Windows Installer</name>
-					<extra_info>(1.7M Win32 .exe)</extra_info>
+					<extra_info>(2.7M Win32 .exe)</extra_info>
 					<user_agent>Windows</user_agent>
 				</file>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
 					<url>residualvm-{$release}-win32.zip</url>
 					<name>Windows zipfile</name>
-					<extra_info>(2.7M .zip)</extra_info>
-				</file>
-				<file>
-					<category_icon>catpl-debian.png</category_icon>
-					<url>residualvm_{$release}-squeeze.1_i386.deb</url>
-					<name>Debian 6.0 (squeeze) i386 32bit package</name>
-					<extra_info>(1.6M .deb)</extra_info>
-				</file>
-				<file>
-					<category_icon>catpl-debian.png</category_icon>
-					<url>residualvm_{$release}-squeeze.1_amd64.deb</url>
-					<name>Debian 6.0 (squeeze) x86 64bit package</name>
-					<extra_info>(1.7M .deb)</extra_info>
+					<extra_info>(3.4M .zip)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url>residualvm_{$release}-wheezy.1_i386.deb</url>
 					<name>Debian 7.0 (wheezy) i386 32bit package</name>
-					<extra_info>(1.6M .deb)</extra_info>
+					<extra_info>(1.8M .deb)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url>residualvm_{$release}-wheezy.1_amd64.deb</url>
 					<name>Debian 7.0 (wheezy) x86 64bit package</name>
-					<extra_info>(1.7M .deb)</extra_info>
+					<extra_info>(1.9M .deb)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url>residualvm_{$release}-quantal.1_i386.deb</url>
-					<name>Ubuntu 12.10 (quantal) i386 32bit package</name>
-					<extra_info>(1.7M .deb)</extra_info>
+					<url>residualvm_{$release}-utopic.1_i386.deb</url>
+					<name>Ubuntu 14.10 (utopic) i386 32bit package</name>
+					<extra_info>(1.9M .deb)</extra_info>
 					<user_agent>Ubuntu</user_agent>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url>residualvm_{$release}-quantal.1_amd64.deb</url>
-					<name>Ubuntu 12.10 (quantal) x86 64bit package</name>
-					<extra_info>(1.7M .deb)</extra_info>
+					<url>residualvm_{$release}-utopic.1_amd64.deb</url>
+					<name>Ubuntu 14.10 (utopic) x86 64bit package</name>
+					<extra_info>(1.9M .deb)</extra_info>
 					<user_agent>Ubuntu</user_agent>
 				</file>
 				<file>
-					<category_icon>catpl-ubuntu.png</category_icon>
-					<url>residualvm_{$release}-trusty.1_i386.deb</url>
-					<name>Ubuntu 14.04 (trusty) i386 32bit package</name>
-					<extra_info>(1.3M .deb)</extra_info>
-					<user_agent>Ubuntu</user_agent>
+					<category_icon>catpl-linux.png</category_icon>
+					<url>residualvm-{$release}-linux32.tar.gz</url>
+					<name>Linux Generic 32bit - package .tar.gz</name>
+					<extra_info>(13.0M .deb)</extra_info>
+					<type>daily</type>
 				</file>
 				<file>
-					<category_icon>catpl-ubuntu.png</category_icon>
-					<url>residualvm_{$release}-trusty.1_amd64.deb</url>
-					<name>Ubuntu 14.04 (trusty) x86 64bit package</name>
-					<extra_info>(1.3M .deb)</extra_info>
-					<user_agent>Ubuntu</user_agent>
+					<category_icon>catpl-linux.png</category_icon>
+					<url>residualvm-{$release}-linux64.tar.gz</url>
+					<name>Linux Generic 64bit - package .tar.gz</name>
+					<extra_info>(13.0M .deb)</extra_info>
+					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-{$release}-macosx-intel.dmg</url>
 					<name>MacOS X 10.4+ Intel Disk Image</name>
-					<extra_info>(2.2M disk image)</extra_info>
+					<extra_info>(3.8M disk image)</extra_info>
 <!--					<user_agent>Macintosh</user_agent>-->
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-{$release}-macosx-powerpc.dmg</url>
 					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
-					<extra_info>(2.2M disk image)</extra_info>
+					<extra_info>(3.6M disk image)</extra_info>
 <!--					<user_agent>Macintosh</user_agent>-->
 				</file>
-<!--				<file>
+				<file>
 					<category_icon>catpl-amiga.png</category_icon>
 					<url>residualvm-{$release}-amigaos4.zip</url>
 					<name>AmigaOS 4 package</name>
-					<extra_info>(4.7M .zip)</extra_info>
+					<extra_info>(9.5M .zip)</extra_info>
 					<user_agent>Amiga</user_agent>
-				</file>-->
+				</file>
 			</entries>
 		</subsection>
 
@@ -108,26 +96,26 @@
 					<category_icon>catpl-cpp.png</category_icon>
 					<url>residualvm-{$release}-sources.tar.bz2?download</url>
 					<name>ResidualVM - Sources .tar.bz2</name>
-					<extra_info>(4.7M)</extra_info>
+					<extra_info>(5.5M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-cpp.png</category_icon>
 					<url>residualvm-{$release}-sources.tar.gz?download</url>
 					<name>ResidualVM - Sources .tar.gz</name>
-					<extra_info>(5.0M)</extra_info>
+					<extra_info>(5.9M)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-cpp.png</category_icon>
 					<url>residualvm-{$release}-sources.zip?download</url>
 					<name>ResidualVM - Sources .zip</name>
-					<extra_info>(5.7M)</extra_info>
+					<extra_info>(9.0M)</extra_info>
 				</file>
-				<file>
+<!--				<file>
 					<category_icon>catpl-gentoo.png</category_icon>
 					<url>http://packages.gentoo.org/package/games-engines/residualvm</url>
 					<name>Gentoo package</name>
 					<extra_info>(Official package definition)</extra_info>
-				</file>
+				</file>-->
 			</entries>
 		</subsection>
 	</section>
@@ -238,9 +226,77 @@
 	</section>
 
 	<section>
+		<title>
+			Older versions
+		</title>
+		<baseurl>http://prdownloads.sourceforge.net/residualvm/</baseurl>
+		<subsection>
+			<title>0.1.1 Release binaries</title>
+			<anchor>older</anchor>
+			<notes>
+			</notes>
+			<entries>
+				<file>
+					<category_icon>catpl-windows.png</category_icon>
+					<url>residualvm-0.1.1-win32.exe</url>
+					<name>Windows Installer</name>
+					<extra_info>(1.7M Win32 .exe)</extra_info>
+					<user_agent>Windows</user_agent>
+				</file>
+				<file>
+					<category_icon>catpl-windows.png</category_icon>
+					<url>residualvm-0.1.1-win32.zip</url>
+					<name>Windows zipfile</name>
+					<extra_info>(2.7M .zip)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url>residualvm_0.1.1-wheezy.1_i386.deb</url>
+					<name>Debian 7.0 (wheezy) i386 32bit package</name>
+					<extra_info>(1.6M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url>residualvm_0.1.1-wheezy.1_amd64.deb</url>
+					<name>Debian 7.0 (wheezy) x86 64bit package</name>
+					<extra_info>(1.7M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_0.1.1-quantal.1_i386.deb</url>
+					<name>Ubuntu 12.10 (quantal) i386 32bit package</name>
+					<extra_info>(1.7M .deb)</extra_info>
+					<user_agent>Ubuntu</user_agent>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_0.1.1-trusty.1_amd64.deb</url>
+					<name>Ubuntu 14.04 (trusty) x86 64bit package</name>
+					<extra_info>(1.3M .deb)</extra_info>
+					<user_agent>Ubuntu</user_agent>
+				</file>
+				<file>
+					<category_icon>catpl-macos.png</category_icon>
+					<url>residualvm-0.1.1-macosx-intel.dmg</url>
+					<name>MacOS X 10.4+ Intel Disk Image</name>
+					<extra_info>(2.2M disk image)</extra_info>
+<!--					<user_agent>Macintosh</user_agent>-->
+				</file>
+				<file>
+					<category_icon>catpl-macos.png</category_icon>
+					<url>residualvm-0.1.1-macosx-powerpc.dmg</url>
+					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
+					<extra_info>(2.2M disk image)</extra_info>
+<!--					<user_agent>Macintosh</user_agent>-->
+				</file>
+			</entries>
+		</subsection>
+	</section>
+
+	<section>
 		<title>Daily Builds</title>
 		<anchor>daily</anchor>
-
+<!--
 		<subsection>
 			<title>pre-release 0.2.0</title>
 			<notes>
@@ -313,7 +369,7 @@
 					<type>daily</type>
 				</file>
 			</entries>
-		</subsection>
+		</subsection>-->
 
 		<subsection>
 			<title>unstable</title>
