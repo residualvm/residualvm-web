@@ -261,8 +261,8 @@
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url>residualvm_0.1.1-quantal.1_i386.deb</url>
-					<name>Ubuntu 12.10 (quantal) i386 32bit package</name>
+					<url>residualvm_0.1.1-trusty.1_i386.deb</url>
+					<name>Ubuntu 14.04 (trusty) i386 32bit package</name>
 					<extra_info>(1.7M .deb)</extra_info>
 					<user_agent>Ubuntu</user_agent>
 				</file>
