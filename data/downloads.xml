@@ -239,7 +239,6 @@
 					<url>residualvm-0.1.1-win32.exe</url>
 					<name>Windows Installer</name>
 					<extra_info>(1.7M Win32 .exe)</extra_info>
-					<user_agent>Windows</user_agent>
 				</file>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
@@ -264,28 +263,24 @@
 					<url>residualvm_0.1.1-trusty.1_i386.deb</url>
 					<name>Ubuntu 14.04 (trusty) i386 32bit package</name>
 					<extra_info>(1.7M .deb)</extra_info>
-					<user_agent>Ubuntu</user_agent>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url>residualvm_0.1.1-trusty.1_amd64.deb</url>
 					<name>Ubuntu 14.04 (trusty) x86 64bit package</name>
 					<extra_info>(1.3M .deb)</extra_info>
-					<user_agent>Ubuntu</user_agent>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-0.1.1-macosx-intel.dmg</url>
 					<name>MacOS X 10.4+ Intel Disk Image</name>
 					<extra_info>(2.2M disk image)</extra_info>
-<!--					<user_agent>Macintosh</user_agent>-->
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-0.1.1-macosx-powerpc.dmg</url>
 					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
 					<extra_info>(2.2M disk image)</extra_info>
-<!--					<user_agent>Macintosh</user_agent>-->
 				</file>
 			</entries>
 		</subsection>
