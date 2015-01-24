@@ -40,7 +40,7 @@
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url>residualvm_{$release}-utopic.1_i386.deb</url>
 					<name>Ubuntu 14.10 (utopic) i386 32bit package</name>
-					<extra_info>(1.9M .deb)</extra_info>
+					<extra_info>(2.0M .deb)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
@@ -64,31 +64,37 @@
 					<category_icon>catpl-linux.png</category_icon>
 					<url>residualvm-{$release}-linux32.tar.gz</url>
 					<name>Linux (Generic) 32bit package</name>
-					<extra_info>(13.0M .tar.gz)</extra_info>
+					<extra_info>(12.6M .tar.gz)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url>residualvm-{$release}-linux64.tar.gz</url>
 					<name>Linux (Generic) 64bit package</name>
-					<extra_info>(13.0M .tar.gz)</extra_info>
+					<extra_info>(13.2M .tar.gz)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-{$release}-macosx-intel.dmg</url>
 					<name>MacOS X 10.4+ Intel Disk Image</name>
-					<extra_info>(3.8M disk image)</extra_info>
+					<extra_info>(3.9M disk image)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-{$release}-macosx-powerpc.dmg</url>
 					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
-					<extra_info>(3.6M disk image)</extra_info>
+					<extra_info>(3.7M disk image)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-irix.png</category_icon>
+					<url>residualvm-{$release}-irix-mips4.tar.gz?download</url>
+					<name>IRIX (6.5.*, n32, mips4) package</name>
+					<extra_info>(2.9M .tar.gz)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
 					<url>residualvm-{$release}-amigaos4.zip</url>
 					<name>AmigaOS 4 package</name>
-					<extra_info>(9.5M .zip)</extra_info>
+					<extra_info>(10M .zip)</extra_info>
 					<user_agent>Amiga</user_agent>
 				</file>
 			</entries>
@@ -114,7 +120,7 @@
 					<category_icon>catpl-cpp.png</category_icon>
 					<url>residualvm-{$release}-sources.zip?download</url>
 					<name>ResidualVM - Sources .zip</name>
-					<extra_info>(9.0M)</extra_info>
+					<extra_info>(7.0M)</extra_info>
 				</file>
 <!--				<file>
 					<category_icon>catpl-gentoo.png</category_icon>
@@ -277,37 +283,37 @@
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url>residualvm_{$release}-utopic.1_amd64.deb</url>
 					<name>Ubuntu 14.10 (utopic) x86 64bit package</name>
-					<extra_info>(1.9M .deb)</extra_info>
+					<extra_info>(2.0M .deb)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url>residualvm-{$release}-linux32.tar.gz</url>
 					<name>Linux (Generic) 32bit package</name>
-					<extra_info>(13.0M .tar.gz)</extra_info>
+					<extra_info>(12.6M .tar.gz)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url>residualvm-{$release}-linux64.tar.gz</url>
 					<name>Linux (Generic) 64bit package</name>
-					<extra_info>(13.0M .tar.gz)</extra_info>
+					<extra_info>(13.2M .tar.gz)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-{$release}-macosx-intel.dmg</url>
 					<name>MacOS X 10.4+ Intel Disk Image</name>
-					<extra_info>(3.8M disk image)</extra_info>
+					<extra_info>(3.9M disk image)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-{$release}-macosx-powerpc.dmg</url>
 					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
-					<extra_info>(3.6M disk image)</extra_info>
+					<extra_info>(3.7M disk image)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
 					<url>residualvm-{$release}-amigaos4.zip</url>
 					<name>AmigaOS 4 package</name>
-					<extra_info>(9.5M .zip)</extra_info>
+					<extra_info>(10M .zip)</extra_info>
 					<user_agent>Amiga</user_agent>
 				</file>
 			</entries>
