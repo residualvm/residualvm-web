@@ -4,10 +4,10 @@
 		<BODY>
 				<p>
 					Version 0.2.1 is a follow-up release for 0.2.0. It fixes a crash bug when using the
-					subtitles in the Polish version of Myst III, and also fixes the Irix port.
+					subtitles in the Polish version of Myst III, and also fixes the IRIX port.
 				</p>
 				<p>
-					This new version can be obtained for AmigaOS, Irix, Linux, MacOS X, and Windows from our
+					This new version can be obtained for AmigaOS 4, IRIX, Linux, MacOS X, and Windows from our
 					<a href="http://residualvm.org/downloads/">downloads page</a>.
 				</p>
 		</BODY>
