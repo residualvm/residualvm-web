@@ -5,13 +5,23 @@
 		<href>lec</href>
 		<demos>
 			<demo>
-				<name>Grim Fandango</name>
-				<url>http://demos.residualvm.org/grim-win-demo-en.zip</url>
+				<name>Grim Fandango (Windows demo)</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/grim-win-demo-en.zip/download</url>
 				<target>grimdemo</target>
 			</demo>
 			<demo>
-				<name>Escape From Monkey Island</name>
-				<url>http://demos.residualvm.org/emi-win-demo-en.zip</url>
+				<name>Grim Fandango (Windows Spanish demo)</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/grim-win-demo-sp.zip/download</url>
+				<target>grimdemo</target>
+			</demo>
+			<demo>
+				<name>Escape From Monkey Island (Windows demo)</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/emi-win-demo-en.zip/download</url>
+				<target>monkeydemo</target>
+			</demo>
+			<demo>
+				<name>Escape From Monkey Island (Windows Spanish demo)</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/emi-win-demo-sp.zip/download</url>
 				<target>monkeydemo</target>
 			</demo>
 		</demos>
