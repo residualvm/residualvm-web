@@ -5,24 +5,49 @@
 		<href>lec</href>
 		<demos>
 			<demo>
-				<name>Grim Fandango (Windows demo)</name>
-				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/grim-win-demo-en.zip/download</url>
-				<target>grimdemo</target>
-			</demo>
-			<demo>
-				<name>Grim Fandango (Windows Spanish demo)</name>
-				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/grim-win-demo-sp.zip/download</url>
-				<target>grimdemo</target>
-			</demo>
-			<demo>
-				<name>Escape From Monkey Island (Windows demo)</name>
+				<name>Escape From Monkey Island (Windows demo)- Requires ResidualVM 0.3.0git</name>
 				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/emi-win-demo-en.zip/download</url>
 				<target>monkeydemo</target>
 			</demo>
 			<demo>
-				<name>Escape From Monkey Island (Windows Spanish demo)</name>
+				<name>Escape From Monkey Island (Windows German demo)- Requires ResidualVM 0.3.0git</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/emi-win-demo-de.zip/download</url>
+				<target>monkeydemo</target>
+			</demo>
+			<demo>
+				<name>Escape From Monkey Island (Windows Spanish demo)- Requires ResidualVM 0.3.0git</name>
 				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/emi-win-demo-sp.zip/download</url>
 				<target>monkeydemo</target>
+			</demo>
+			<demo>
+				<name>Grim Fandango (Windows small demo)</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/grim-win-demo1-en.zip/download</url>
+				<target>grimdemo</target>
+			</demo>
+			<demo>
+				<name>Grim Fandango (Windows large demo)</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/grim-win-demo2-en.zip/download</url>
+				<target>grimdemo</target>
+			</demo>
+			<demo>
+				<name>Grim Fandango (Windows French demo)</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/grim-win-demo-fr.zip/download</url>
+				<target>grimdemo</target>
+			</demo>
+			<demo>
+				<name>Grim Fandango (Windows German demo)</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/grim-win-demo-de.zip/download</url>
+				<target>grimdemo</target>
+			</demo>
+			<demo>
+				<name>Grim Fandango (Windows Italian demo) - Requires ResidualVM 0.3.0git</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/grim-win-demo-it.zip/download</url>
+				<target>grimdemo</target>
+			</demo>
+			<demo>
+				<name>Grim Fandango (Windows Spanish demo) - Requires ResidualVM 0.3.0git</name>
+				<url>http://sourceforge.net/projects/residualvm/files/demos/grim/grim-win-demo-sp.zip/download</url>
+				<target>grimdemo</target>
 			</demo>
 		</demos>
 	</group>
