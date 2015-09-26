@@ -104,6 +104,11 @@
 					<description>Various fixes to engine</description>
 				</person>
 				<person>
+					<name>David Cardwell</name>
+					<alias>d356</alias>
+					<description>Few fixes to EMI</description>
+				</person>
+				<person>
 					<name>Marcus Comstedt</name>
 					<alias>marcus_c</alias>
 					<description>Initial Dreamcast port</description>
@@ -262,6 +267,11 @@
 					<name>???</name>
 					<alias>karjonas</alias>
 					<description>Various engine code fixes</description>
+				</person>
+				<person>
+					<name>???</name>
+					<alias>PoulpiFr</alias>
+					<description>Few fixes to Android port</description>
 				</person>
 				<person>
 					<name>???</name>
