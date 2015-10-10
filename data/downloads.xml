@@ -26,14 +26,38 @@
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
+					<url>residualvm_{$release}-jessie.1_i386.deb</url>
+					<name>Debian 8 (jessie) i386 32bit package</name>
+					<extra_info>(1.8M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url>residualvm_{$release}-jessie.1_amd64.deb</url>
+					<name>Debian 8 (jessie) x86 64bit package</name>
+					<extra_info>(1.9M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
 					<url>residualvm_{$release}-wheezy.1_i386.deb</url>
-					<name>Debian 7.0 (wheezy) i386 32bit package</name>
+					<name>Debian 7 (wheezy) i386 32bit package</name>
 					<extra_info>(1.8M .deb)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url>residualvm_{$release}-wheezy.1_amd64.deb</url>
-					<name>Debian 7.0 (wheezy) x86 64bit package</name>
+					<name>Debian 7 (wheezy) x86 64bit package</name>
+					<extra_info>(1.9M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_{$release}-vivid.1_i386.deb</url>
+					<name>Ubuntu 15.04 (vivid) i386 32bit package</name>
+					<extra_info>(2.0M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_{$release}-vivid.1_amd64.deb</url>
+					<name>Ubuntu 15.04 (vivid) x86 64bit package</name>
 					<extra_info>(1.9M .deb)</extra_info>
 				</file>
 				<file>
@@ -264,13 +288,13 @@
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url>residualvm_{$release}-wheezy.1_i386.deb</url>
-					<name>Debian 7.0 (wheezy) i386 32bit package</name>
+					<name>Debian 7 (wheezy) i386 32bit package</name>
 					<extra_info>(1.8M .deb)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url>residualvm_{$release}-wheezy.1_amd64.deb</url>
-					<name>Debian 7.0 (wheezy) x86 64bit package</name>
+					<name>Debian 7 (wheezy) x86 64bit package</name>
 					<extra_info>(1.9M .deb)</extra_info>
 				</file>
 				<file>
@@ -340,13 +364,13 @@
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url>residualvm_0.1.1-wheezy.1_i386.deb</url>
-					<name>Debian 7.0 (wheezy) i386 32bit package</name>
+					<name>Debian 7 (wheezy) i386 32bit package</name>
 					<extra_info>(1.6M .deb)</extra_info>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url>residualvm_0.1.1-wheezy.1_amd64.deb</url>
-					<name>Debian 7.0 (wheezy) x86 64bit package</name>
+					<name>Debian 7 (wheezy) x86 64bit package</name>
 					<extra_info>(1.7M .deb)</extra_info>
 				</file>
 				<file>
@@ -480,25 +504,25 @@
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_i386.deb</url>
-					<name>Debian 7.0 (wheezy) i386 package</name>
+					<name>Debian 8 (jessie) i386 package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_amd64.deb</url>
-					<name>Debian 7.0 (wheezy) x86 64bit package</name>
+					<name>Debian 8 (jessie) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_i386.deb</url>
-					<name>Ubuntu 14.10 (utopic) i386 package</name>
+					<name>Ubuntu 15.04 (vivid) i386 package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
-					<name>Ubuntu 14.10 (utopic) x86 64bit package</name>
+					<name>Ubuntu 15.04 (vivid) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
