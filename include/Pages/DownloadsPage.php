@@ -21,7 +21,7 @@ class DownloadsPage extends Controller {
 					
 					if ($userAgent != "") {
 						$url = str_replace('{$release}', RELEASE, $curItem->getURL());
-						sscanf($url, "http://prdownloads.sourceforge.net/residualvm/residualvm-%s", $versionStr);
+						sscanf($url, "http://www.residualvm.org/release/%s/residualvm-%s", $versionStr, $versionStr);
 						$version = substr($versionStr, 0, strpos($versionStr, "-"));
 						$name = strip_tags($curItem->getName());
 						$js .= "\t\t\t'{$userAgent}':\t{ 'os':\t'{$name}', 'ver':\t'{$version}', 'desc':\t'{$curItem->getExtraInfo()}', 'url':\t'{$url}'},\n";

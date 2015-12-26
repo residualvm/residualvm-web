@@ -48,23 +48,9 @@
 		<name>Development</name>
 		<class>menu-sf</class>
 		<link>
-			<name>SF.net Project Home</name>
-			<href>http://sourceforge.net/projects/residualvm/</href>
-		</link>
-		<link>
 			<name>Issue Reports</name>
 			<href>http://github.com/residualvm/residualvm/issues</href>
 		</link>
-	<!--
-		<link>
-			<name>Feature Requests</name>
-			<href>http://sourceforge.net/tracker/?group_id=259881&amp;atid=1127293</href>
-		</link>
-		<link>
-			<name>Patch Tracker</name>
-			<href>http://sourceforge.net/tracker/?group_id=259881&amp;atid=1127293</href>
-		</link>
-	-->
 		<link>
 			<name>Daily Snapshots</name>
 			<href>downloads/#daily</href>

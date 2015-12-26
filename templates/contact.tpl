@@ -33,12 +33,4 @@
 			bug report.
 		</p>
 	</div>
-
-	{include file='subhead.tpl' subhead='Mailing lists'}
-	<div class="subhead-content">
-		<p>
-			There are two ResidualVM related <a href="https://sourceforge.net/mail/?group_id=259881">mailing lists</a>.
-			One of them are for automated content only. The one where you can send emails to yourself is residualvm-devel.
-		</p>
-	</div>
 </div>

@@ -84,15 +84,6 @@
 
 		{strip}
 		<div id="footer">
-			<a href="http://sourceforge.net/projects/residualvm">
-				<img src="http://sflogo.sourceforge.net/sflogo.php?group_id=37116&amp;type=13" width="120" height="30" alt="Get ResidualVM at SourceForge.net. Fast, secure and Free Open Source software downloads">
-			</a>
-			<a href="http://validator.w3.org/check/referer">
-				<img src="http://www.w3.org/Icons/valid-html401" width="88" height="31" alt="Valid HTML 4.01!">
-			</a>
-			<a href="http://jigsaw.w3.org/css-validator/check/referer">
-				<img src="http://jigsaw.w3.org/css-validator/images/vcss" width="88" height="31" alt="Valid CSS!">
-			</a>
 		</div>
 		{/strip}
 		<img src="images/content-right-bottom.gif" alt="bottom-right corner" width="12" height="12" class="float_right tentacle">
@@ -116,20 +107,5 @@
 		urchinTracker();
 	</script>
 {* End Google analytics javascript. *}
-{* Piwik javascript. *}
-<!--
-{literal}
-	<script type="text/javascript">
-	var pkBaseURL = (("https:" == document.location.protocol) ? "https://sourceforge.net/apps/piwik/residualvm/" : "http://sourceforge.net/apps/piwik/residualvm/");
-	document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script type="text/javascript">
-	try {
-	var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3);
-	piwikTracker.trackPageView();
-	piwikTracker.enableLinkTracking();
-	} catch( err ) {}
-	</script><noscript><p><img src="http://sourceforge.net/apps/piwik/residualvm/piwik.php?idsite=3" style="border:0" alt=""/></p></noscript>
-{/literal}-->
-{* End Piwik javascript. *}
 </body>
 </html>
