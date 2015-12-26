@@ -4,7 +4,7 @@
 		<title>
 			Downloads for ResidualVM <h:span style="color: rgb(80, 80, 80);">version {$release}</h:span>
 		</title>
-		<baseurl>http://prdownloads.sourceforge.net/residualvm/</baseurl>
+		<baseurl>http://www.residualvm.org/downloads/release/{$release}/</baseurl>
 		<subsection>
 			<title>{$release} Release binaries</title>
 			<anchor>stable</anchor>
