@@ -277,7 +277,6 @@
 					<url>0.2.0/residualvm-0.2.0-win32.exe</url>
 					<name>Windows Installer</name>
 					<extra_info>(2.7M Win32 .exe)</extra_info>
-					<user_agent>Windows</user_agent>
 				</file>
 				<file>
 					<category_icon>catpl-windows.png</category_icon>
@@ -338,7 +337,6 @@
 					<url>0.2.0/residualvm-0.2.0-amigaos4.zip</url>
 					<name>AmigaOS 4 package</name>
 					<extra_info>(10M .zip)</extra_info>
-					<user_agent>Amiga</user_agent>
 				</file>
 			</entries>
 		</subsection>
