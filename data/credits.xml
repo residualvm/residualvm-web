@@ -72,6 +72,19 @@
 					<description>Core developer</description>
 				</person>
 			</group>
+			<group>
+				<name>Stark Team</name>
+				<person>
+					<name>Bastien Bouclet</name>
+					<alias>bgK</alias>
+					<description>Core developer</description>
+				</person>
+				<person>
+					<name>Einar Johan T. S&oslash;m&aring;en</name>
+					<alias>somaen</alias>
+					<description>Core developer (retired)</description>
+				</person>
+			</group>
 		</subsection>
 		<subsection>
 			<title>Contributors</title>
@@ -290,6 +303,34 @@
 					<name>Stefano Musumeci</name>
 					<alias>subr3v</alias>
 					<description>TinyGL engine driver support</description>
+				</person>
+			</group>
+			<group>
+				<name>Stark</name>
+				<person>
+					<name>Matthew Hoops</name>
+					<alias>clone2727</alias>
+					<description>ADPCM decoder</description>
+				</person>
+				<person>
+					<name>Pawe&#322; Ko&#322;odziejski</name>
+					<alias>aquadran</alias>
+					<description>Various engine code fixes</description>
+				</person>
+				<person>
+					<name>Vincent Pelletier</name>
+					<alias>vpelletier</alias>
+					<description>Raw sound support</description>
+				</person>
+				<person>
+					<name>Jordi Vilalta Prat</name>
+					<alias>jvprat</alias>
+					<description>Initial engine contributor</description>
+				</person>
+				<person>
+					<name>Scott Thomas</name>
+					<alias>ST</alias>
+					<description>Initial engine author</description>
 				</person>
 			</group>
 		</subsection>
