@@ -50,6 +50,18 @@
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_{$release}-wily.1_i386.deb</url>
+					<name>Ubuntu 15.10 (wily) i386 32bit package</name>
+					<extra_info>(2.0M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_{$release}-wily.1_amd64.deb</url>
+					<name>Ubuntu 15.10 (wily) x86 64bit package</name>
+					<extra_info>(1.9M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
 					<url>residualvm_{$release}-vivid.1_i386.deb</url>
 					<name>Ubuntu 15.04 (vivid) i386 32bit package</name>
 					<extra_info>(2.0M .deb)</extra_info>
