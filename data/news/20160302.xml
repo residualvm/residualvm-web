@@ -1,0 +1,27 @@
+<NAME>Welcome to Google Summer of Code</NAME>
+<DATE>March 2, 2016</DATE>
+<AUTHOR>aquadran</AUTHOR>
+<BODY>
+<p>
+     <img src="data/news/GSoC2016Logo.png" alt="GSoC 2016 Logo" align="middle">
+</p>
+
+<p>
+We are happy to announce that we are participating in this year's <a href="https://developers.google.com/open-source/gsoc/">
+Google Summer of Code</a> under the umbrella of our sister project <a href="http://www.scummvm.org">ScummVM</a>.
+</p>
+
+<p>
+If this sounds like something you would be interested in, please take a look at the
+<a href="http://wiki.scummvm.org/index.php/Summer_of_Code/GSoC_Ideas_2016">merged list of ideas</a>,
+the ResidualVM ideas are at the bottom.
+</p>
+
+<p>
+You can also propose projects of your own; we'll be happy to help you shape your idea into a
+concrete project. If you want to participate or have questions about GSoC, come talk to us on IRC
+<a href="http://freenode.net/irc_servers.shtml">irc.freenode.net</a>; #residualvm)
+or ask on the <a href="http://forums.residualvm.org">forums</a>.
+</p>
+
+</BODY>
