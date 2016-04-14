@@ -133,6 +133,12 @@
 					<extra_info>(10M .zip)</extra_info>
 					<user_agent>Amiga</user_agent>
 				</file>
+				<file>
+					<category_icon>catpl-haiku.png</category_icon>
+					<url>residualvm_{$release}-1-x86_gcc2.hpkg?download</url>
+					<name>Haiku package</name>
+					<extra_info>(2.9M .hpkg)</extra_info>
+				</file>
 			</entries>
 		</subsection>
 
