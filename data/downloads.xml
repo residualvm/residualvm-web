@@ -544,13 +544,13 @@
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_lts_i386.deb</url>
-					<name>Ubuntu 14.04 LTS (trusty) x86 32bit package</name>
+					<name>Ubuntu 16.04 LTS (xenial) x86 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_lts_amd64.deb</url>
-					<name>Ubuntu 14.04 LTS (trusty) x86 64bit package</name>
+					<name>Ubuntu 16.04 LTS (xenial) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
