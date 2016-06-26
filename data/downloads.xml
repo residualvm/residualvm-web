@@ -50,6 +50,18 @@
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_{$release}-xenial.1_i386.deb</url>
+					<name>Ubuntu 16.04 (xenial) i386 32bit package</name>
+					<extra_info>(1.9M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>residualvm_{$release}-xenial.1_amd64.deb</url>
+					<name>Ubuntu 16.04 (xenial) x86 64bit package</name>
+					<extra_info>(1.8M .deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
 					<url>residualvm_{$release}-wily.1_i386.deb</url>
 					<name>Ubuntu 15.10 (wily) i386 32bit package</name>
 					<extra_info>(2.0M .deb)</extra_info>
