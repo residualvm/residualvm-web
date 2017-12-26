@@ -517,7 +517,7 @@
 					all) and that any number of things may be broken in them. For
 					example, they might corrupt your config file, crash frequently or
 					might not even start. Use them at your own risk!
-    			</h:p>
+			</h:p>
 				<h:p>
 					Snapshot builds:
 				</h:p>
@@ -565,6 +565,7 @@
 					<name>Ubuntu 16.04 LTS (xenial) x86 64bit package</name>
 					<type>daily</type>
 				</file>
+<!--
 				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url local_file="true">residualvm-linux32.tar.gz</url>
@@ -577,6 +578,7 @@
 					<name>Linux (Generic) x86 64bit package .tar.gz</name>
 					<type>daily</type>
 				</file>
+-->
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-macosx-intel.dmg</url>
