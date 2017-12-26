@@ -532,25 +532,25 @@
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_i386.deb</url>
-					<name>Debian 8 (jessie) i386 package</name>
+					<name>Debian 9 (stretch) i386 package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_amd64.deb</url>
-					<name>Debian 8 (jessie) x86 64bit package</name>
+					<name>Debian 9 (stretch) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_i386.deb</url>
-					<name>Ubuntu 15.10 (wily) i386 package</name>
+					<name>Ubuntu 17.04 (zesty) i386 package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
-					<name>Ubuntu 15.10 (wily) x86 64bit package</name>
+					<name>Ubuntu 17.04 (zesty) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
