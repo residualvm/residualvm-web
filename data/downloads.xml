@@ -90,12 +90,12 @@
 					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
 					<extra_info>(3.7M disk image)</extra_info>
 				</file>
-				<file>
+<!--				<file>
 					<category_icon>catpl-irix.png</category_icon>
 					<url>residualvm-{$release}-irix-mips4.tar.gz?download</url>
 					<name>IRIX (6.5.*, n32, mips4) package</name>
 					<extra_info>(2.9M .tar.gz)</extra_info>
-				</file>
+				</file>-->
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
 					<url>residualvm-{$release}-amigaos4.zip</url>
