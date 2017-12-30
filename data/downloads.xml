@@ -80,13 +80,7 @@
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
-					<url>residualvm-{$release}-macosx-intel.dmg</url>
-					<name>MacOS X 10.4+ Intel 32 bits Disk Image</name>
-					<extra_info>(3.9M disk image)</extra_info>
-				</file>
-				<file>
-					<category_icon>catpl-macos.png</category_icon>
-					<url>residualvm-{$release}-macosx-intel.dmg</url>
+					<url>residualvm-{$release}-macosx-intel32.dmg</url>
 					<name>MacOS X 10.4+ Intel 32 bits Disk Image</name>
 					<extra_info>(3.9M disk image)</extra_info>
 				</file>
