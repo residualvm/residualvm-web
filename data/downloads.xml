@@ -100,7 +100,7 @@
 					<category_icon>catpl-amiga.png</category_icon>
 					<url>residualvm-{$release}-amigaos4.zip</url>
 					<name>AmigaOS 4 package</name>
-					<extra_info>(10M .zip)</extra_info>
+					<extra_info>(.zip)</extra_info>
 					<user_agent>Amiga</user_agent>
 				</file>
 <!--				<file>
