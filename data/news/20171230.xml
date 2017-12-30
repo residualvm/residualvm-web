@@ -1,0 +1,28 @@
+<NAME>ResidualVM 0.3.0 is here</NAME>
+<DATE>December 30, 2017</DATE>
+<AUTHOR>bgK</AUTHOR>
+<BODY>
+
+<p>
+	ResidualVM 0.3.0 is released. Go <a href="http://www.residualvm.org/downloads/">grab it</a>. Let's get it over with, this new version does not have any new supported games to offer. But that does not mean there is nothing interesting in there. It's packed with almost three years worth of fixes and improvements. Most notably:
+	<ul>
+		<li>Better compatibility with newer operating systems thanks to switching from SDL 1 to SDL 2.</li>
+		<li>A multilingual user interface.</li>
+		<li>A widescreen mode for Myst III.</li>
+		<li>Both Grim Fandango and Myst III have received a lot of awesome user play testing, and as a result many bugs have been fixed.</li>
+	</ul>
+</p>
+<p>
+	Detailed release notes can be browsed in our <a href="https://github.com/residualvm/residualvm/blob/branch-0-3-0/NEWS">NEWS file</a>.
+</p>
+<p>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/px7I2z4QOmc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</p>
+<p>
+	What's next? The development version of ResidualVM contains two additional work in progress games, Escape from Monkey Island and The Longest Journey. A lot of work remains before they can make their way into a release. But if you are interested in helping, <a href="http://www.residualvm.org/contact/">contact us!</a>
+</p>
+<p>
+	We at ResidualVM wish you a happy new year!
+</p>
+
+</BODY>
