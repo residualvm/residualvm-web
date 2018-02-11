@@ -7,47 +7,47 @@
 			<demo>
 				<name>Escape From Monkey Island (Windows demo) - Requires ResidualVM 0.3.0git</name>
 				<url>http://demos.residualvm.org/emi-win-demo-en.zip</url>
-				<target>monkeydemo</target>
+				<target>monkey4-demo-win</target>
 			</demo>
 			<demo>
 				<name>Escape From Monkey Island (Windows German demo) - Requires ResidualVM 0.3.0git</name>
 				<url>http://demos.residualvm.org/emi-win-demo-de.zip</url>
-				<target>monkeydemo</target>
+				<target>monkey4-demo-win-de</target>
 			</demo>
 			<demo>
 				<name>Escape From Monkey Island (Windows Spanish demo) - Requires ResidualVM 0.3.0git</name>
 				<url>http://demos.residualvm.org/emi-win-demo-sp.zip</url>
-				<target>monkeydemo</target>
+				<target>monkey4-demo-win</target>
 			</demo>
 			<demo>
 				<name>Grim Fandango (Windows small demo)</name>
 				<url>http://demos.residualvm.org/grim-win-demo1-en.zip</url>
-				<target>grimdemo</target>
+				<target>grim-demo-win</target>
 			</demo>
 			<demo>
 				<name>Grim Fandango (Windows large demo)</name>
 				<url>http://demos.residualvm.org/grim-win-demo2-en.zip</url>
-				<target>grimdemo</target>
+				<target>grim-demo-win</target>
 			</demo>
 			<demo>
 				<name>Grim Fandango (Windows French demo)</name>
 				<url>http://demos.residualvm.org/grim-win-demo-fr.zip</url>
-				<target>grimdemo</target>
+				<target>grim-demo-win-fr</target>
 			</demo>
 			<demo>
 				<name>Grim Fandango (Windows German demo)</name>
 				<url>http://demos.residualvm.org/grim-win-demo-de.zip</url>
-				<target>grimdemo</target>
+				<target>grim-demo-win-de</target>
 			</demo>
 			<demo>
-				<name>Grim Fandango (Windows Italian demo) - Requires ResidualVM 0.3.0git</name>
+				<name>Grim Fandango (Windows Italian demo)</name>
 				<url>http://demos.residualvm.org/grim-win-demo-it.zip</url>
-				<target>grimdemo</target>
+				<target>grim-demo-win</target>
 			</demo>
 			<demo>
-				<name>Grim Fandango (Windows Spanish demo) - Requires ResidualVM 0.3.0git</name>
+				<name>Grim Fandango (Windows Spanish demo)</name>
 				<url>http://demos.residualvm.org/grim-win-demo-sp.zip</url>
-				<target>grimdemo</target>
+				<target>grim-demo-win</target>
 			</demo>
 		</demos>
 	</group>
