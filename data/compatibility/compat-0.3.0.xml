@@ -5,7 +5,7 @@
 		<games>
 			<game>
 				<name>Grim Fandango</name>
-				<target>grim-win</target>
+				<target>grim</target>
 				<support_level>good</support_level>
 				<notes>
 					Game is finishable with a few minor glitches.
@@ -13,7 +13,7 @@
 			</game>
 			<game>
 				<name>Grim Fandango Demo</name>
-				<target>grim-demo-win</target>
+				<target>grim</target>
 				<support_level>good</support_level>
 				<notes>
 					Demo is finishable with a few glitches.
@@ -26,7 +26,7 @@
 		<games>
 			<game>
 				<name>Myst 3 Exile</name>
-				<target>myst3-win</target>
+				<target>myst3</target>
 				<support_level>good</support_level>
 				<notes>
 					Game is finishable with a few minor glitches.

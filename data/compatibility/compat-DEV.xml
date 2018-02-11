@@ -5,7 +5,7 @@
 		<games>
 			<game>
 				<name>Grim Fandango</name>
-				<target>grim-win</target>
+				<target>grim</target>
 				<support_level>good</support_level>
 				<notes>
 					Game is finishable with a few minor glitches.
@@ -13,7 +13,7 @@
 			</game>
 			<game>
 				<name>Grim Fandango Demo</name>
-				<target>grim-demo-win</target>
+				<target>grim</target>
 				<support_level>good</support_level>
 				<notes>
 					Demo is finishable with a few glitches.
@@ -21,7 +21,7 @@
 			</game>
 			<game>
 				<name>Escape from Monkey Island</name>
-				<target>monkey4-win</target>
+				<target>monkey4</target>
 				<support_level>good</support_level>
 				<notes>
 					Game is finishable with a few minor glitches.
@@ -29,7 +29,7 @@
 			</game>
 			<game>
 				<name>Escape from Monkey Island (PS2)</name>
-				<target>monkey4-ps2</target>
+				<target>monkey4</target>
 				<support_level>bugged</support_level>
 				<notes>
 					Not supported and not tested.
@@ -37,7 +37,7 @@
 			</game>
 			<game>
 				<name>Escape from Monkey Island Demo</name>
-				<target>monkey4-demo-win</target>
+				<target>monkey4</target>
 				<support_level>good</support_level>
 				<notes>
 					Demo is finishable with a few minor glitches.
