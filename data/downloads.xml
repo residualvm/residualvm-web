@@ -24,7 +24,7 @@
 					<name>Windows zipfile</name>
 					<extra_info>(.zip)</extra_info>
 				</file>
-				<file>
+<!--				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url>residualvm_{$release}-stretch.1_i386.deb</url>
 					<name>Debian 9 (stretch) i386 32bit package</name>
@@ -60,7 +60,7 @@
 					<name>Ubuntu 16.04 LTS (xenial) x86 64bit package</name>
 					<extra_info>(.deb)</extra_info>
 				</file>
-<!--				<file>
+				<file>
 					<category_icon>catpl-linux.png</category_icon>
 					<url>residualvm-{$release}-linux32.tar.gz</url>
 					<name>Linux (Generic) x86 32bit package</name>
@@ -71,7 +71,7 @@
 					<url>residualvm-{$release}-linux64.tar.gz</url>
 					<name>Linux (Generic) x86 64bit package</name>
 					<extra_info>(.tar.gz)</extra_info>
-				</file>-->
+				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-{$release}-macosx-intel.dmg</url>
@@ -90,12 +90,12 @@
 					<name>MacOS X 10.4+ PowerPC G4+</name>
 					<extra_info>(disk image)</extra_info>
 				</file>
-<!--				<file>
+				<file>
 					<category_icon>catpl-irix.png</category_icon>
 					<url>residualvm-{$release}-irix-mips4.tar.gz?download</url>
 					<name>IRIX (6.5.*, n32, mips4) package</name>
 					<extra_info>(.tar.gz)</extra_info>
-				</file>-->
+				</file>
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
 					<url>residualvm-{$release}-amigaos4.zip</url>
@@ -103,7 +103,7 @@
 					<extra_info>(.zip)</extra_info>
 					<user_agent>Amiga</user_agent>
 				</file>
-<!--				<file>
+				<file>
 					<category_icon>catpl-haiku.png</category_icon>
 					<url>residualvm_{$release}-1-x86_gcc2.hpkg?download</url>
 					<name>Haiku package</name>
@@ -252,6 +252,78 @@
 		</title>
 		<baseurl>http://www.residualvm.org/downloads/release/</baseurl>
 		<subsection>
+			<title>0.3.0 Release binaries</title>
+			<anchor>stable</anchor>
+			<notes>
+			</notes>
+			<entries>
+				<file>
+					<category_icon>catpl-windows.png</category_icon>
+					<url>0.3.0/residualvm-0.3.0-win32.exe</url>
+					<name>Windows Installer</name>
+					<extra_info>(2.7M Win32 .exe)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-windows.png</category_icon>
+					<url>0.3.0/residualvm-0.3.0-win32.zip</url>
+					<name>Windows zipfile</name>
+					<extra_info>(3.4M .zip)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url>0.3.0/residualvm_0.3.0-stretch.1_i386.deb</url>
+					<name>Debian 9 (stretch) i386 32bit package</name>
+					<extra_info>(.deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url>0.3.0/residualvm_0.3.0-stretch.1_amd64.deb</url>
+					<name>Debian 9 (stretch) x86 64bit package</name>
+					<extra_info>(.deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>0.3.0/residualvm_0.3.0-zesty.1_i386.deb</url>
+					<name>Ubuntu 17.04 (zesty) i386 32bit package</name>
+					<extra_info>(.deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>0.3.0/residualvm_0.3.0-zesty.1_amd64.deb</url>
+					<name>Ubuntu 17.04 (zesty) x86 64bit package</name>
+					<extra_info>(.deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>0.3.0/residualvm_0.3.0-xenial.1_i386.deb</url>
+					<name>Ubuntu 16.04 LTS (xenial) i386 32bit package</name>
+					<extra_info>(.deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
+					<url>0.3.0/residualvm_0.3.0-xenial.1_amd64.deb</url>
+					<name>Ubuntu 16.04 LTS (xenial) x86 64bit package</name>
+					<extra_info>(.deb)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-macos.png</category_icon>
+					<url>0.3.0/residualvm-0.3.0-macosx-intel.dmg</url>
+					<name>MacOS X 10.4+ Intel Disk Image</name>
+					<extra_info>(.dmg)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-macos.png</category_icon>
+					<url>0.3.0/residualvm-0.3.0-macosx-powerpc.dmg</url>
+					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
+					<extra_info>(.dmg)</extra_info>
+				</file>
+				<file>
+					<category_icon>catpl-amiga.png</category_icon>
+					<url>0.3.0/residualvm-0.3.0-amigaos4.zip</url>
+					<name>AmigaOS 4 package</name>
+					<extra_info>(.zip)</extra_info>
+				</file>
+			</entries>
 			<title>0.2.1 Release binaries</title>
 			<anchor>stable</anchor>
 			<notes>

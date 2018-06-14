@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<compatibility xmlns:h="http://www.w3.org/TR/xhtml1/">
+	<company>
+		<name>LucasArts</name>
+		<games>
+			<game>
+				<name>Grim Fandango</name>
+				<target>grim</target>
+				<support_level>good</support_level>
+				<notes>
+					Game is finishable with a few minor glitches.
+				</notes>
+			</game>
+			<game>
+				<name>Grim Fandango Demo</name>
+				<target>grim</target>
+				<support_level>good</support_level>
+				<notes>
+					Demo is finishable with a few glitches.
+				</notes>
+			</game>
+		</games>
+	</company>
+	<company>
+		<name>Presto Studios</name>
+		<games>
+			<game>
+				<name>Myst 3 Exile</name>
+				<target>myst3</target>
+				<support_level>good</support_level>
+				<notes>
+					Game is finishable with a few minor glitches.
+				</notes>
+			</game>
+			<game>
+			</game>
+		</games>
+	</company>
+</compatibility>
