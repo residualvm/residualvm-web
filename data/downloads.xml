@@ -77,7 +77,7 @@
 					<url>residualvm-{$release}-macosx-intel.dmg</url>
 					<name>MacOS X 10.7+ Intel 64 bits</name>
 					<extra_info>(disk image)</extra_info>
-				</file>
+				</file>-->
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>residualvm-{$release}-macosx-intel32.dmg</url>
@@ -90,12 +90,12 @@
 					<name>MacOS X 10.4+ PowerPC G4+</name>
 					<extra_info>(disk image)</extra_info>
 				</file>
-				<file>
+<!--				<file>
 					<category_icon>catpl-irix.png</category_icon>
 					<url>residualvm-{$release}-irix-mips4.tar.gz?download</url>
 					<name>IRIX (6.5.*, n32, mips4) package</name>
 					<extra_info>(.tar.gz)</extra_info>
-				</file>
+				</file>-->
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
 					<url>residualvm-{$release}-amigaos4.zip</url>
@@ -103,7 +103,7 @@
 					<extra_info>(.zip)</extra_info>
 					<user_agent>Amiga</user_agent>
 				</file>
-				<file>
+<!--				<file>
 					<category_icon>catpl-haiku.png</category_icon>
 					<url>residualvm_{$release}-1-x86_gcc2.hpkg?download</url>
 					<name>Haiku package</name>
