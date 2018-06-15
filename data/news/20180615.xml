@@ -1,0 +1,20 @@
+<NAME>ResidualVM 0.3.1</NAME>
+<DATE>June 15, 2018</DATE>
+<AUTHOR>bgK</AUTHOR>
+<BODY>
+
+<p>
+	Our previous release is already a few months old, it's time for a bug-fix release! ResidualVM 0.3.1 is available <a href="http://www.residualvm.org/downloads/">on our downloads page</a>. It fixes a couple of Myst III bugs:
+	<ul>
+		<li>Fixed a rare crash when walking near the magnetic rings in Amateria.</li>
+		<li>Fixed unresponsive controls for the holographic projectors in J'nanin.</li>
+	</ul>
+</p>
+<p>
+	That's not much, but Cyan and GOG.com are planning to use ResidualVM for the Myst III digital release and we want it to be as stable as possible.
+</p>
+<p>
+	In other news, progress on adding support for The Longest Journey to ResidualVM continues thanks to our GSoC student Liu "Douglas" Zhaosong. You can follow his work on <a href="https://douglasingsoc.blogspot.com/">his blog</a>.
+</p>
+
+</BODY>
