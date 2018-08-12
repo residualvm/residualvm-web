@@ -84,6 +84,11 @@
 					<alias>somaen</alias>
 					<description>Core developer (retired)</description>
 				</person>
+				<person>
+					<name>Liu Zhaosong</name>
+					<alias>Douglas</alias>
+					<description>Core developer</description>
+				</person>
 			</group>
 		</subsection>
 		<subsection>
@@ -337,7 +342,7 @@
 	</section>
 	<section>
 		<title>ScummVM code</title>
-		<paragraph>ResidualVM uses a lot of ScummVM code. For a list of authors look into COPYRIGHT file. </paragraph>
+		<paragraph>ResidualVM uses a lot of ScummVM code. For a list of authors look into COPYRIGHT file.</paragraph>
 	</section>
 	<section>
 		<title>Website code</title>
@@ -352,9 +357,9 @@
 	</section>
 	<section>
 		<title>Special thanks to</title>
-		<paragraph>The LUA developers, for creating a nice compact script interpreter. </paragraph>
+		<paragraph>The LUA developers, for creating a nice compact script interpreter.</paragraph>
 		<paragraph>Tim Schafer, for obvious reasons, and everybody else who helped make Grim Fandango a brilliant game; and the EMI team for giving it their best try.</paragraph>
 		<paragraph>Bret Mogilefsky, for managing to create a SPUTM-style 3D LUA engine, and avoiding the horrible hack it could have been.</paragraph>
-		<paragraph>Benjamin Haisch, for emimeshviewer, which our EMI code borrows heavily from. </paragraph>
+		<paragraph>Benjamin Haisch, for emimeshviewer, which our EMI code borrows heavily from.</paragraph>
 	</section>
 </credits>
