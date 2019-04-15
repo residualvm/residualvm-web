@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>ResidualVM news</title>
-		<link>http://www.residualvm.org/</link>
+		<link>https://www.residualvm.org/</link>
 		<atom:link rel="self" type="application/rss+xml" href="{$baseurl}feeds/rss/" />
 		<description>ResidualVM is a cross-platform 3D game interpreter.</description>
 		<language>en</language>

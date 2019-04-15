@@ -13,7 +13,7 @@
 		</link>
 		<link>
 			<name>Forums</name>
-			<href>http://forums.residualvm.org/</href>
+			<href>https://forums.residualvm.org/</href>
 		</link>
 		<link>
 			<name>Downloads</name>
@@ -37,7 +37,7 @@
 		</link>
 		<link>
 			<name>Wiki</name>
-			<href>http://wiki.residualvm.org/</href>
+			<href>https://wiki.residualvm.org/</href>
 		</link>
 		<link>
 			<name>Credits</name>
@@ -49,7 +49,7 @@
 		<class>menu-sf</class>
 		<link>
 			<name>Issue Reports</name>
-			<href>http://github.com/residualvm/residualvm/issues</href>
+			<href>https://github.com/residualvm/residualvm/issues</href>
 		</link>
 		<link>
 			<name>Daily Snapshots</name>
@@ -57,11 +57,11 @@
 		</link>
 		<link>
 			<name>Source Code Tree</name>
-			<href>http://github.com/residualvm/residualvm</href>
+			<href>https://github.com/residualvm/residualvm</href>
 		</link>
 		<link>
 			<name>Buildbot</name>
-			<href>http://buildbot.residualvm.org/</href>
+			<href>https://buildbot.residualvm.org/</href>
 		</link>
 	</group>
 	<group>

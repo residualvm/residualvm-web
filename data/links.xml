@@ -5,22 +5,22 @@
 		<description>The following lists some libraries and technologies ResidualVM makes use of (depending on which system your run it and which configuration is chosen).</description>
 		<link>
 			<name>SDL</name>
-			<url>http://www.libsdl.org/</url>
+			<url>https://www.libsdl.org/</url>
 			<description>SDL (Simple DirectMedia Layer) is a cross-platform multimedia library, and used by the primary backend of ResidualVM.</description>
 		</link>
 		<link>
 			<name>MAD</name>
-			<url>http://www.underbit.com/products/mad/</url>
+			<url>https://www.underbit.com/products/mad/</url>
 			<description>MAD is a high-quality MPEG (MP3) audio decoder. ResidualVM optionally supports playback of CD tracks and other audio data encoded using MP3.</description>
 		</link>
 		<link>
 			<name>Ogg Vorbis</name>
-			<url>http://www.xiph.org/ogg/vorbis/</url>
+			<url>https://www.xiph.org/ogg/vorbis/</url>
 			<description>Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. ResidualVM optionally supports playback of CD tracks and other audio data encoded using Ogg Vorbis.</description>
 		</link>
 		<link>
 			<name>FLAC</name>
-			<url>http://flac.sourceforge.net/</url>
+			<url>https://www.xiph.org/flac/</url>
 			<description>FLAC stands for Free Lossless Audio Codec. Grossly oversimplified, FLAC is similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. ResidualVM optionally supports playback of CD tracks and other audio data encoded using FLAC.</description>
 		</link>
 	</group>
@@ -29,27 +29,27 @@
 		<description>The following are links to sites that provide news and help on retro-gaming or are otherwise of interest.</description>
 		<link>
 			<name>ScummVM</name>
-			<url>http://www.scummvm.org/</url>
+			<url>https://www.scummvm.org/</url>
 			<description>ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games.</description>
 		</link>
 		<link>
 			<name>VOGONS :: Very Old Games On New Systems</name>
-			<url>http://vogons.zetafleet.com/</url>
+			<url>https://www.vogons.org/</url>
 			<description>VOGONS is a large forum site, offering supports and tips for people who need help running older classic games on their modern computers and operating systems. If you want to play a game that ResidualVM doesn't support, this is the place to ask for help!</description>
 		</link>
 		<link>
 			<name>MixNMojo :: The Purple LucasArts Fan Site</name>
-			<url>http://www.mixnmojo.com/</url>
+			<url>https://www.mixnmojo.com/</url>
 			<description>MixNmojo is one of the longest running, and definitely largest, LucasArts sites out there. If your looking for information, hints, news... or even just a place to hang... with hosted and partnered sites catering for everything, the International House of Mojo should be your very first stop.</description>
 		</link>
 		<link>
 			<name>DoubleFine :: Where taking over the word is a news scripts job</name>
-			<url>http://www.doublefine.com/news.htm</url>
+			<url>https://www.doublefine.com/news</url>
 			<description>DoubleFine is the company of the lovable Tim Schafer, the genius behind some of the best of the worst gags and games in LucasArts history. Go buy Psychonauts, their new game. Because if you don't, the rats will get you and eat your family, computer and house. And poop everywhere.</description>
 		</link>
 		<link>
 			<name>Grumpy Gamer</name>
-			<url>http://grumpygamer.com/</url>
+			<url>https://grumpygamer.com/</url>
 			<description>The personal blog of Ron Gilbert, the man behind many great LucasArts adventures, like Maniac Mansion and Monkey Island.</description>
 		</link>
 	</group>

@@ -7,12 +7,12 @@
 	</document>
 	<document>
 		<name>Game data files</name>
-		<url>http://wiki.residualvm.org/index.php?title=Datafiles</url>
+		<url>https://wiki.residualvm.org/index.php?title=Datafiles</url>
 		<description>This page lists games which files exactly are needed by ResidualVM in order to play that game.</description>
 	</document>
 	<document>
 		<name>Source code documentation</name>
-		<url>http://doxygen.residualvm.org</url>
+		<url>https://doxygen.residualvm.org</url>
 		<description>Cross referenced source code documentation for ResidualVM, generated using <h:a href="http://www.doxygen.org">Doxygen</h:a></description>
 	</document>
 </documentation>
