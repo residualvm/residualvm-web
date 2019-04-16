@@ -13,11 +13,9 @@ define('HEROES_NUM', 4);
 /* Time zone to use for news items etc. */
 date_default_timezone_set("UTC");
 
-$proto = (isset($_SERVER["HTTPS"]) && $_SERVER["HTTPS"]) == "on" ? "https": "http";
-
 /* Base URL to the website. */
 if ($_SERVER['SERVER_PORT'] == '80') {
-	$url = "{$proto}://{$_SERVER['SERVER_NAME']}" . dirname($_SERVER['PHP_SELF']);
+	$url = "http://{$_SERVER['SERVER_NAME']}" . dirname($_SERVER['PHP_SELF']);
 } else {
 	$url = "https://{$_SERVER['SERVER_NAME']}" . dirname($_SERVER['PHP_SELF']);
 }
@@ -27,7 +25,6 @@ if (substr($url, -1) != '/') {
 }
 define('URL_BASE', $url);
 unset($url);
-unset($proto);
 
 /* Paths. */
 define('DIR_INCLUDE', 'include');
