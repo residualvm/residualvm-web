@@ -4,7 +4,7 @@
 		<title>
 			Downloads for ResidualVM <h:span style="color: rgb(80, 80, 80);">version {$release}</h:span>
 		</title>
-		<baseurl>http://www.residualvm.org/downloads/release/{$release}/</baseurl>
+		<baseurl>https://www.residualvm.org/downloads/release/{$release}/</baseurl>
 		<subsection>
 			<title>{$release} Release binaries</title>
 			<anchor>stable</anchor>
@@ -133,7 +133,7 @@
 				</file>
 <!--				<file>
 					<category_icon>catpl-gentoo.png</category_icon>
-					<url>http://packages.gentoo.org/package/games-engines/residualvm</url>
+					<url>https://packages.gentoo.org/package/games-engines/residualvm</url>
 					<name>Gentoo package</name>
 					<extra_info>(Official package definition)</extra_info>
 				</file>-->
@@ -160,7 +160,7 @@
 			<entries>
 				<file>
 					<category_icon>cat-grim.png</category_icon>
-					<url>http://demos.residualvm.org/patches/gfupd101.exe</url>
+					<url>https://demos.residualvm.org/patches/gfupd101.exe</url>
 					<name>Original Patch v1.1</name>
 					<extra_info>(2.2M)</extra_info>
 				</file>
@@ -172,37 +172,37 @@
 			<entries>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
-					<url>http://demos.residualvm.org/patches/MonkeyUpdate.exe</url>
+					<url>https://demos.residualvm.org/patches/MonkeyUpdate.exe</url>
 					<name>Original Patch v1.1 (English)</name>
 					<extra_info>(1.1M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
-					<url>http://demos.residualvm.org/patches/MonkeyUpdate_BRZ.exe</url>
+					<url>https://demos.residualvm.org/patches/MonkeyUpdate_BRZ.exe</url>
 					<name>Original Patch v1.1 (Portuguese)</name>
 					<extra_info>(1.4M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
-					<url>http://demos.residualvm.org/patches/MonkeyUpdate_DEU.exe</url>
+					<url>https://demos.residualvm.org/patches/MonkeyUpdate_DEU.exe</url>
 					<name>Original Patch v1.1 (German)</name>
 					<extra_info>(2.2M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
-					<url>http://demos.residualvm.org/patches/MonkeyUpdate_ESP.exe</url>
+					<url>https://demos.residualvm.org/patches/MonkeyUpdate_ESP.exe</url>
 					<name>Original Patch v1.1 (Spanish)</name>
 					<extra_info>(1.4M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
-					<url>http://demos.residualvm.org/patches/MonkeyUpdate_FRA.exe</url>
+					<url>https://demos.residualvm.org/patches/MonkeyUpdate_FRA.exe</url>
 					<name>Original Patch v1.1 (French)</name>
 					<extra_info>(2.3M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-monkey.png</category_icon>
-					<url>http://demos.residualvm.org/patches/MonkeyUpdate_ITA.exe</url>
+					<url>https://demos.residualvm.org/patches/MonkeyUpdate_ITA.exe</url>
 					<name>Original Patch v1.1 (Italian)</name>
 					<extra_info>(1.5M)</extra_info>
 				</file>
@@ -214,31 +214,31 @@
 			<entries>
 				<file>
 					<category_icon>cat-myst3.png</category_icon>
-					<url>http://demos.residualvm.org/patches/myst3v122patch.exe</url>
+					<url>https://demos.residualvm.org/patches/myst3v122patch.exe</url>
 					<name>Original Patch v1.22 (English CD)</name>
 					<extra_info>(6.5M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-myst3.png</category_icon>
-					<url>http://demos.residualvm.org/patches/myst_3_v1.22_fr.zip</url>
+					<url>https://demos.residualvm.org/patches/myst_3_v1.22_fr.zip</url>
 					<name>Original Patch v1.22 (French CD)</name>
 					<extra_info>(0.4M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-myst3.png</category_icon>
-					<url>http://demos.residualvm.org/patches/myst3_patch_pcv122b172.zip</url>
+					<url>https://demos.residualvm.org/patches/myst3_patch_pcv122b172.zip</url>
 					<name>Original Patch v1.22 (German CD)</name>
 					<extra_info>(0.4M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-myst3.png</category_icon>
-					<url>http://demos.residualvm.org/patches/myst3v124j.zip</url>
+					<url>https://demos.residualvm.org/patches/myst3v124j.zip</url>
 					<name>Original Patch v1.24 (Japanese CD)</name>
 					<extra_info>(1.3M)</extra_info>
 				</file>
 				<file>
 					<category_icon>cat-myst3.png</category_icon>
-					<url>http://demos.residualvm.org/patches/myst3pc122.zip</url>
+					<url>https://demos.residualvm.org/patches/myst3pc122.zip</url>
 					<name>Original Patch v1.22 (Spanish CD)</name>
 					<extra_info>(0.4M)</extra_info>
 				</file>
@@ -250,7 +250,7 @@
 		<title>
 			Older versions
 		</title>
-		<baseurl>http://www.residualvm.org/downloads/release/</baseurl>
+		<baseurl>https://www.residualvm.org/downloads/release/</baseurl>
 		<subsection>
 			<title>0.3.0 Release binaries</title>
 			<anchor>stable</anchor>
@@ -631,7 +631,7 @@
 				</file>
 				<file>
 					<category_icon>catpl-gentoo.png</category_icon>
-					<url>http://github.com/hasufell/hasufell-overlay/tree/master/games-engines/residualvm</url>
+					<url>https://github.com/hasufell/hasufell-overlay/tree/master/games-engines/residualvm</url>
 					<name>Gentoo package</name>
 					<extra_info>(Unofficial live-ebuild)</extra_info>
 				</file>
@@ -647,7 +647,7 @@
 			<entries>
 				<link>
 					<name>SDL 2.0.x or 1.2.x</name>
-					<url>http://www.libsdl.org</url>
+					<url>https://www.libsdl.org</url>
 					<description></description>
 				</link>
 			</entries>
@@ -657,17 +657,17 @@
 			<entries>
 				<link>
 					<name>MAD</name>
-					<url>http://www.underbit.com/products/mad/</url>
+					<url>https://www.underbit.com/products/mad/</url>
 					<description>: MPEG Audio Decoder</description>
 				</link>
 				<link>
 					<name>Ogg Vorbis</name>
-					<url>http://www.xiph.org/vorbis/</url>
+					<url>https://www.xiph.org/vorbis/</url>
 					<description></description>
 				</link>
 				<link>
 					<name>FLAC</name>
-					<url>http://flac.sourceforge.net/</url>
+					<url>https://xiph.org/flac</url>
 					<description>: Free Lossless Audio Codec</description>
 				</link>
 				<link>
@@ -682,12 +682,12 @@
 				</link>
 				<link>
 					<name>jpeg</name>
-					<url>http://www.ijg.org</url>
+					<url>https://www.ijg.org</url>
 					<description> (or jpeg-turbo): jpeg image format decoder</description>
 				</link>
 				<link>
 					<name>zlib</name>
-					<url>http://zlib.net//</url>
+					<url>https://zlib.net//</url>
 					<description>: Data Compression</description>
 				</link>
 			</entries>

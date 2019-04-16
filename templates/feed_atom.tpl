@@ -4,14 +4,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
 	<id>{$baseurl}</id>
-	<link rel="alternate" type="text/html" href="http://www.residualvm.org" />
+	<link rel="alternate" type="text/html" href="https://www.residualvm.org" />
 	<link rel="self" type="application/atom+xml" href="{$baseurl}feeds/atom/" />
 	<title type="text">ResidualVM news</title>
 	<subtitle type="html"><![CDATA[ResidualVM is a cross-platform 3D game interpreter.]]></subtitle>
 	<icon>{$baseurl}favicon.ico</icon>
 	<author>
 		<name>ResidualVM team</name>
-		<uri>http://www.residualvm.org/</uri>
+		<uri>https://www.residualvm.org/</uri>
 	</author>
 	<updated>{$updated|date_f:'Y-m-d\Th:i:s\Z'}</updated>
 	{foreach from=$news item=n}
@@ -25,7 +25,7 @@
 			<updated>{$updated|date_f:'Y-m-d\Th:i:s\Z'}</updated>
 			<published>{$updated|date_f:'Y-m-d\Th:i:s\Z'}</published>
 			<title type="html">{$n->getTitle()}</title>
-			<content type="html" xml:base="http://www.residualvm.org"><![CDATA[{$n->getContent()}]]></content>
+			<content type="html" xml:base="https://www.residualvm.org"><![CDATA[{$n->getContent()}]]></content>
 			{if $n->getAuthor() != ''}
 			<author><name>{$n->getAuthor()}</name></author>
 			{/if}
