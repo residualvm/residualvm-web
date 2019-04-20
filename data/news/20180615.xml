@@ -4,7 +4,7 @@
 <BODY>
 
 <p>
-	Our previous release is already a few months old, it's time for a bug-fix release! ResidualVM 0.3.1 is available <a href="http://www.residualvm.org/downloads/">on our downloads page</a>. It fixes a couple of Myst III bugs:
+	Our previous release is already a few months old, it's time for a bug-fix release! ResidualVM 0.3.1 is available <a href="https://www.residualvm.org/downloads/">on our downloads page</a>. It fixes a couple of Myst III bugs:
 	<ul>
 		<li>Fixed a rare crash when walking near the magnetic rings in Amateria.</li>
 		<li>Fixed unresponsive controls for the holographic projectors in J'nanin.</li>

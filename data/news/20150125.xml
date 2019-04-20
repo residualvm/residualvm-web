@@ -3,11 +3,11 @@
 		<AUTHOR>bgK</AUTHOR>
 		<BODY>
 				<p>
-					Version 0.2.1 is a bugfix release for 0.2.0. It fixes a crash when using subtitles 
+					Version 0.2.1 is a bugfix release for 0.2.0. It fixes a crash when using subtitles
 					in the Polish version of Myst III, and an IRIX port was added.
 				</p>
 				<p>
-					As always, the latest release is available from our 
-					<a href="http://residualvm.org/downloads/">downloads page</a>.
+					As always, the latest release is available from our
+					<a href="https://residualvm.org/downloads/">downloads page</a>.
 				</p>
 		</BODY>
