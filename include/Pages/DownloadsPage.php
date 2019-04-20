@@ -21,7 +21,7 @@ class DownloadsPage extends Controller {
 					
 					if ($userAgent != "") {
 						$url = str_replace('{$release}', RELEASE, $curItem->getURL());
-						if (preg_match('/http:\\/\\/www\\.residualvm\\.org\\/downloads\\/release\\/(.*)\\/residualvm-.*/', $url, $matches)) {
+						if (preg_match('/https:\\/\\/www\\.residualvm\\.org\\/downloads\\/release\\/(.*)\\/residualvm-.*/', $url, $matches)) {
 							$version = $matches[1];
 						} else {
 							$version = '';
