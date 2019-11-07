@@ -1,0 +1,19 @@
+<NAME>The Longest Journey awaits</NAME>
+<DATE>November 9, 2019</DATE>
+<AUTHOR>bgK</AUTHOR>
+<BODY>
+
+<p>
+	<img src="/data/news/tlj-intro.png" alt="The Longest Journey Logo" align="middle">
+</p>
+<p>
+	The 20th anniversary of the release of The Longest Journey comes in a few days. As a present, the ResidualVM team offers the means to play the game on modern systems. Of course there is a catch, we need your help
+	to find the last few bugs in the game engine before we can declare it stable.
+</p>
+<p>
+	To play The Longest Journey, get a fresh <a href="https://www.residualvm.org/downloads/#daily">daily build of ResidualVM</a>, <a href="https://github.com/residualvm/residualvm/#51-required-files">assemble the required files</a>
+	from your game copy, and optionally install the <a href="https://tljhd.github.io/">HD mod</a>. The HD mod was created by Faberman. It brings a welcome graphical update to the game through the use of a machine learning upscaler
+	and a lot of polishing work. Please report the issues you encounter while playing the game on our <a href="https://github.com/residualvm/residualvm/issues">bug tracker</a>.
+</p>
+
+</BODY>
