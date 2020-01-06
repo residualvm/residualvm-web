@@ -31,7 +31,7 @@
 				<person>
 					<name>Giulio Camuffo</name>
 					<alias>giucam</alias>
-					<description>Grim developer</description>
+					<description>Grim developer (retired)</description>
 				</person>
 				<person>
 					<name>Dries Harnie</name>
@@ -46,7 +46,7 @@
 				<person>
 					<name>Christian Krause</name>
 					<alias>chkr</alias>
-					<description>EMI developer</description>
+					<description>EMI developer (retired)</description>
 				</person>
 				<person>
 					<name>Einar Johan T. S&oslash;m&aring;en</name>
@@ -61,7 +61,7 @@
 				<person>
 					<name>Joni V&auml;h&auml;m&auml;ki</name>
 					<alias>Akz</alias>
-					<description>EMI developer</description>
+					<description>EMI developer (retired)</description>
 				</person>
 			</group>
 			<group>
@@ -204,7 +204,7 @@
 				<person>
 					<name>Vincent Pelletier</name>
 					<alias>vpelletier</alias>
-					<description>Various engine improvements and code fixes</description>
+					<description>Various engine and TinyGL improvements</description>
 				</person>
 				<person>
 					<name>Joost Peters</name>
@@ -300,6 +300,11 @@
 			<group>
 				<name>Myst 3</name>
 				<person>
+					<name>David Fioramonti</name>
+					<alias>dafioram</alias>
+					<description>Autosave support and few fixes</description>
+				</person>
+				<person>
 					<name>Matthew Hoops</name>
 					<alias>clone2727</alias>
 					<description>Various engine improvements and code fixes</description>
@@ -313,6 +318,11 @@
 			<group>
 				<name>Stark</name>
 				<person>
+					<name>Bartosz Dudziak</name>
+					<alias>Snejp</alias>
+					<description>Various engine improvements and code fixes</description>
+				</person>
+				<person>
 					<name>Matthew Hoops</name>
 					<alias>clone2727</alias>
 					<description>ADPCM decoder</description>
@@ -321,6 +331,16 @@
 					<name>Pawe&#322; Ko&#322;odziejski</name>
 					<alias>aquadran</alias>
 					<description>Various engine code fixes</description>
+				</person>
+				<person>
+					<name>Awad Mackie</name>
+					<alias>firesock</alias>
+					<description>Few fixes to engine</description>
+				</person>
+				<person>
+					<name>Marius Ioan Orban</name>
+					<alias>mj0331</alias>
+					<description>Code fix</description>
 				</person>
 				<person>
 					<name>Vincent Pelletier</name>
@@ -336,6 +356,21 @@
 					<name>Scott Thomas</name>
 					<alias>ST</alias>
 					<description>Initial engine author</description>
+				</person>
+				<person>
+					<name>Will Thomson</name>
+					<alias>wlthomson</alias>
+					<description>Few fixes to engine</description>
+				</person>
+				<person>
+					<name>???</name>
+					<alias>Faalagorn</alias>
+					<description>Few code improvements</description>
+				</person>
+				<person>
+					<name>???</name>
+					<alias>orangeforest11</alias>
+					<description>Few engine improvements</description>
 				</person>
 			</group>
 		</subsection>
