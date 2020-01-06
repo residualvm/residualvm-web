@@ -448,7 +448,7 @@
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url>0.2.1/residualvm-0.2.1-macosx-intel.dmg</url>
-					<name>MacOS X 10.4+ x64 32bit Disk Image</name>
+					<name>MacOS X 10.4+ x86 32bit Disk Image</name>
 					<extra_info>(3.9M disk image)</extra_info>
 				</file>
 				<file>
@@ -620,13 +620,13 @@
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-macosx-intel64.dmg</url>
-					<name>MacOS X 10.9+ x86 64bits Disk Image</name>
+					<name>MacOS X 10.9+ x86 64bit Disk Image</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-macos.png</category_icon>
 					<url local_file="true">residualvm-macosx-intel32.dmg</url>
-					<name>MacOS X 10.4+ x86 32bits Disk Image</name>
+					<name>MacOS X 10.4+ x86 32bit Disk Image</name>
 					<type>daily</type>
 				</file>
 				<file>
