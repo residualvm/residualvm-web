@@ -570,37 +570,49 @@
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_i386.deb</url>
-					<name>Debian 9 (stretch) i386 package</name>
+					<name>Debian 10 (buster) x86 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_amd64.deb</url>
+					<name>Debian 10 (buster) x86 64bit package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url local_file="true">residualvm_lts_debian_i386.deb</url>
+					<name>Debian 9 (stretch) x86 32bit package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-debian.png</category_icon>
+					<url local_file="true">residualvm_lts_debian_amd64.deb</url>
 					<name>Debian 9 (stretch) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_i386.deb</url>
-					<name>Ubuntu 17.04 (zesty) i386 package</name>
+					<name>Ubuntu 19.04 (disco) x86 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
-					<name>Ubuntu 17.04 (zesty) x86 64bit package</name>
+					<name>Ubuntu 19.04 (disco) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_lts_i386.deb</url>
-					<name>Ubuntu 16.04 LTS (xenial) x86 32bit package</name>
+					<name>Ubuntu 18.04 LTS (bionic) x86 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_lts_amd64.deb</url>
-					<name>Ubuntu 16.04 LTS (xenial) x86 64bit package</name>
+					<name>Ubuntu 18.04 LTS (bionic) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 <!--
