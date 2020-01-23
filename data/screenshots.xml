@@ -141,4 +141,48 @@
 			</image>
 		</game>
 	</group>
+	<group>
+		<title>Funcom games</title>
+		<category>funcom</category>
+		<game>
+			<name>The Longest Journey</name>
+			<category>tlj</category>
+			<image>
+				<file>funcom/tlj/tlj_0</file>
+				<caption>Main menu</caption>
+			</image>
+			<image>
+				<file>funcom/tlj/tlj_1</file>
+				<caption>Prologue</caption>
+			</image>
+			<image>
+				<file>funcom/tlj/tlj_2</file>
+				<caption>Florence parc</caption>
+			</image>
+			<image>
+				<file>funcom/tlj/tlj_3</file>
+				<caption>The Floating Mountain</caption>
+			</image>
+			<image>
+				<file>funcom/tlj/tlj_4</file>
+				<caption>The White Dragon</caption>
+			</image>
+			<image>
+				<file>funcom/tlj/tlj_5</file>
+				<caption>Metro Circle</caption>
+			</image>
+			<image>
+				<file>funcom/tlj/tlj_6</file>
+				<caption>Morning, Fiona!</caption>
+			</image>
+			<image>
+				<file>funcom/tlj/tlj_7</file>
+				<caption>VAVA</caption>
+			</image>
+			<image>
+				<file>funcom/tlj/tlj_8</file>
+				<caption>April's Diary</caption>
+			</image>
+		</game>
+	</group>
 </screenshots>

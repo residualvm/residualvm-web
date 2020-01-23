@@ -60,4 +60,19 @@
 			</game>
 		</games>
 	</company>
+	<company>
+		<name>Funcom</name>
+		<games>
+			<game>
+				<name>The Longest Journey</name>
+				<target>tlj</target>
+				<support_level>good</support_level>
+				<notes>
+					The game is completable with a few minor glitches.
+				</notes>
+			</game>
+			<game>
+			</game>
+		</games>
+	</company>
 </compatibility>

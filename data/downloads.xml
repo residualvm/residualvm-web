@@ -244,6 +244,18 @@
 				</file>
 			</entries>
 		</subsection>
+
+		<subsection>
+			<title>The Longest Journey</title>
+			<entries>
+				<file>
+					<category_icon>cat-tlj.png</category_icon>
+					<url>https://tljhd.github.io/</url>
+					<name>HD Mod</name>
+					<extra_info>(4.5G)</extra_info>
+				</file>
+			</entries>
+		</subsection>
 	</section>
 
 	<section>
