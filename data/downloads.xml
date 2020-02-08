@@ -606,13 +606,13 @@
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_i386.deb</url>
-					<name>Ubuntu 19.04 (disco) x86 32bit package</name>
+					<name>Ubuntu 19.10 (eoan) x86 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
-					<name>Ubuntu 19.04 (disco) x86 64bit package</name>
+					<name>Ubuntu 19.10 (eoan) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
