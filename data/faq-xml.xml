@@ -60,7 +60,7 @@
       <question>What games does ResidualVM support?</question>
       <answer>
 		<simpara>
-			We have a <ulink url="https://www.residualvm.org/compatibility.php">compatibility
+		We have a <ulink url="https://www.residualvm.org/compatibility.php">compatibility
 		list</ulink> on our website that contains an up-to-date list of which
 		games work, and how well they work.
 		</simpara>
@@ -121,23 +121,23 @@
     </entry>
     <entry>
       <href>question.report-bugs</href>
-      <question>Reporting Bugs.</question>
+      <question>Reporting Issues.</question>
       <answer>
 		<simpara>
-		To report a bug, please create a GitHub account and follow the
-		<ulink url="https://github.com/residualvm/residualvm/issues">Bug Reports</ulink>
-		link from our homepage. Please make sure the bug is reproducible, and
+		To report an issue, please create a GitHub account and follow the
+		<ulink url="https://github.com/residualvm/residualvm/issues">Issue Reports</ulink>
+		link from our homepage. Please make sure the issue is reproducible, and
 		still exists in the latest daily build/current Git version.
-		In your bugreport please provide the following information:
+		In your issue report please provide the following information:
 
 		<itemizedlist>
-			<listitem><simpara>Bug details, including instructions on reproducing it</simpara></listitem>
+			<listitem><simpara>Issue details, including instructions on reproducing it</simpara></listitem>
 			<listitem><simpara>Language of game (English, German, ...)</simpara></listitem>
 			<listitem><simpara>Platform and Compiler (Win32, Linux, MacOS, ...)</simpara></listitem>
-			<listitem><simpara>Preferably also a link to a save from just before the bug happened</simpara></listitem>
+			<listitem><simpara>Preferably also a link to a save from just before the issue happened</simpara></listitem>
 		</itemizedlist>
 
-		For further details regarding Bug Reports, please see our <ulink url="https://wiki.residualvm.org/index.php?title=Reporting_Bugs">Wiki</ulink>
+		For further details regarding Issue Reports, please see our <ulink url="https://wiki.residualvm.org/index.php?title=Reporting_Bugs">Wiki</ulink>
 		</simpara>
 	</answer>
     </entry>
