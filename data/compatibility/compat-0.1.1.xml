@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <compatibility xmlns:h="http://www.w3.org/TR/xhtml1/">
 	<company>
 		<name>LucasArts</name>
 		<games>
 			<game>
-				<name>Grim Fandango</name>
+				<name>Grim Fandango</name>h
 				<target>grim</target>
 				<percent>85</percent>
 				<notes>
