@@ -1,0 +1,35 @@
+# Platform specific files
+.DS_Store
+
+# Node
+/node_modules
+
+# Composer
+/vendor
+
+# Smarty
+/templates/compiled
+
+# CSS / SCSS
+/public_html/css
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+/scss/sprites
+
+# Generated images
+/public_html/images/platforms.png
+/public_html/images/games.png
+/public_html/images/platforms@2x.png
+/public_html/images/games@2x.png
+
+# Generated lang ini
+/lang/*.ini
+/lang/po
+
+# Webhook files
+/site-update/webhook.log
+
+# Others
+public_html/frs
