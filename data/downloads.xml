@@ -659,12 +659,14 @@
 					<name>MacOS X 10.4+ PowerPC G4+ Disk Image</name>
 					<type>daily</type>
 				</file>
+<!--
 				<file>
 					<category_icon>catpl-amiga.png</category_icon>
 					<url local_file="true">residualvm-amigaos4.zip</url>
 					<name>AmigaOS 4 package</name>
 					<type>daily</type>
 				</file>
+-->
 				<file>
 					<category_icon>catpl-gentoo.png</category_icon>
 					<url>https://github.com/hasufell/hasufell-overlay/tree/master/games-engines/residualvm</url>
