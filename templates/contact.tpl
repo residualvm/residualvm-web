@@ -7,6 +7,13 @@
 		</p>
 	</div>
 
+	{include file='subhead.tpl' subhead='Discord'}
+	<div class="subhead-content">
+		<p>
+			Join us on our <a href="https://discord.gg/VFQjRfa">Discord Server</a>.
+		</p>
+	</div>
+
 	{include file='subhead.tpl' subhead='IRC channel'}
 	<div class="subhead-content">
 		<p>
