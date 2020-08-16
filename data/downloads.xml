@@ -581,20 +581,14 @@
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
-					<url local_file="true">residualvm_debian_i386.deb</url>
-					<name>Debian 10 (buster) x86 32bit package</name>
-					<type>daily</type>
-				</file>
-				<file>
-					<category_icon>catpl-debian.png</category_icon>
 					<url local_file="true">residualvm_debian_amd64.deb</url>
 					<name>Debian 10 (buster) x86 64bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-debian.png</category_icon>
-					<url local_file="true">residualvm_debian_lts_i386.deb</url>
-					<name>Debian 9 (stretch) x86 32bit package</name>
+					<url local_file="true">residualvm_debian_i386.deb</url>
+					<name>Debian 10 (buster) x86 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
@@ -604,9 +598,9 @@
 					<type>daily</type>
 				</file>
 				<file>
-					<category_icon>catpl-ubuntu.png</category_icon>
-					<url local_file="true">residualvm_ubuntu_lts_i386.deb</url>
-					<name>Ubuntu 20.04 LTS (focal) x86 32bit package</name>
+					<category_icon>catpl-debian.png</category_icon>
+					<url local_file="true">residualvm_debian_lts_i386.deb</url>
+					<name>Debian 9 (stretch) x86 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
@@ -617,14 +611,20 @@
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
+					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
+					<name>Ubuntu 19.10 (eoan) x86 64bit package</name>
+					<type>daily</type>
+				</file>
+				<file>
+					<category_icon>catpl-ubuntu.png</category_icon>
 					<url local_file="true">residualvm_ubuntu_i386.deb</url>
 					<name>Ubuntu 19.10 (eoan) x86 32bit package</name>
 					<type>daily</type>
 				</file>
 				<file>
 					<category_icon>catpl-ubuntu.png</category_icon>
-					<url local_file="true">residualvm_ubuntu_amd64.deb</url>
-					<name>Ubuntu 19.10 (eoan) x86 64bit package</name>
+					<url local_file="true">residualvm_ubuntu_lts_i386.deb</url>
+					<name>Ubuntu 18.04 LTS (bionic) x86 32bit package</name>
 					<type>daily</type>
 				</file>
 <!--
