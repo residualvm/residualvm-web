@@ -65,6 +65,24 @@
 				</person>
 			</group>
 			<group>
+				<name>ICB Team</name>
+				<person>
+					<name>Pawe&#322; Ko&#322;odziejski</name>
+					<alias>aquadran</alias>
+					<description>Porting from original codebase</description>
+				</person>
+				<person>
+					<name>Joost Peters</name>
+					<alias>joostp</alias>
+					<description>Porting from original codebase</description>
+				</person>
+				<person>
+					<name>Einar Johan T. S&oslash;m&aring;en</name>
+					<alias>somaen</alias>
+					<description>Porting from original codebase</description>
+				</person>
+			</group>
+			<group>
 				<name>Myst 3 Team</name>
 				<person>
 					<name>Bastien Bouclet</name>
@@ -88,6 +106,14 @@
 					<name>Liu Zhaosong</name>
 					<alias>Douglas</alias>
 					<description>Core developer</description>
+				</person>
+			</group>
+			<group>
+				<name>Wintermute 3D Team</name>
+				<person>
+					<name>Gunnar Birke</name>
+					<alias>Fury</alias>
+					<description>Porting from original Wintermute 3D codebase</description>
 				</person>
 			</group>
 		</subsection>
