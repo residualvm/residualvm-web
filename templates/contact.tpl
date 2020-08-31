@@ -14,14 +14,6 @@
 		</p>
 	</div>
 
-	{include file='subhead.tpl' subhead='IRC channel'}
-	<div class="subhead-content">
-		<p>
-			The #residualvm IRC channel on <a href="https://freenode.net/kb/answer/chat">irc.freenode.net</a> is also a good
-			place to ask questions. Many ResidualVM developers hang out there regularly, as well as many ResidualVM users.
-		</p>
-	</div>
-
 	{include file='subhead.tpl' subhead='Forums'}
 	<div class="subhead-content">
 		<p>

@@ -52,8 +52,8 @@
 					<a href="compatibility.php">compatibility page</a>. ResidualVM is continually improving, so check back often.
 				</p>
 				<p>
-					Our forum and IRC channel, <a href="irc://irc.freenode.net/residualvm"> #residualvm on
-					irc.freenode.net</a>, are open for comments and suggestions. Please read our
+					Our forum and <a href="https://discord.gg/VFQjRfa">Discord Server
+					are open for comments and suggestions. Please read our
 					<a href="faq/">FAQ</a> before posting.
 				</p>
 			</div>
