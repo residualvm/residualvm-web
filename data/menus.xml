@@ -59,10 +59,10 @@
 			<name>Source Code Tree</name>
 			<href>https://github.com/residualvm/residualvm</href>
 		</link>
-		<link>
+<!--		<link>
 			<name>Buildbot</name>
 			<href>https://buildbot.residualvm.org/</href>
-		</link>
+		</link>-->
 	</group>
 	<group>
 		<name>Misc. Menu</name>
