@@ -1,0 +1,29 @@
+<NAME>“Manny, until now we scraped along the ground like rats, but from now on, we soar! Like eagles! Yeah! LIKE EAGLES...ON...POGO STICKS!!!”</NAME>
+<DATE>October 10, 2020</DATE>
+<AUTHOR>aquadran, somaen</AUTHOR>
+<BODY>
+
+<p>
+	Today is ScummVM’s birthday; 19 years ago they had their very first release. A few years later, in 2003, Residual followed suit, on the 15th of August. It has been a long and interesting ride for these two sister-projects, where one has served the 2D point-and-click community, and the other has aimed at the residual games, namely the 2.5D and 3D games. After a few more years, partially due to the need for a domain-name, Residual changed its name closer to its sister-project, and became the ResidualVM we know and love today.
+</p>
+<p>
+	We haven’t just shared suffixes, we’ve also shared a lot of code between the projects, to the point that apart from the specific game engines, it was mostly the graphics code that differentiated ResidualVM from ScummVM.
+Keeping these code bases in sync has taken a fair bit of effort, an effort that we’ll no longer have to keep up, because today we’re announcing perhaps the biggest change in ResidualVM’s history, namely its merger into ScummVM.
+</p>
+<p>
+	That’s right, from today, ResidualVM is no longer a separate project, but instead now fully a part of ScummVM. This means that you will eventually be able to run ScummVM with our theme, as well as run games like Grim Fandango straight from ScummVM. For the Wintermute-fans, this also means that there will not be any need for splitting your gaming across ResidualVM and ScummVM, as there will be a single, 3D-supporting engine in ScummVM.
+</p>
+<p>
+	From a technical perspective, the code base has already been merged, and in the days to come we’ll be merging our forums and look into consolidating things like bug trackers and Discord-servers etc.
+</p>
+<p>
+	It’s been a fun ride as a separate project, but we think it will be just as fun going forward.
+</p>
+<p>
+	“You know, sweetheart, if there's one thing I've learned, it's this: nobody knows what's gonna happen at the end of the line, so you might as well enjoy the trip.”
+</p>
+<p>
+	- Grim Fandango
+</p>
+
+</BODY>
